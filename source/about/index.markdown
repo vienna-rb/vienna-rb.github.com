@@ -13,8 +13,8 @@ class Vienna
   end
  
   def where?
-    Struct.new("Location", :name, :address, :details, :longitude, :latitude)
-    Struct::Location.new("Platogo Office", "Salmgasse 2A, 1030 Wien", "", nil, nil)
+    Struct.new("Location", :name, :address, :details)
+    Struct::Location.new("Platogo Office", "Salmgasse 2A, 1030 Wien")
   end
  
   def when?
