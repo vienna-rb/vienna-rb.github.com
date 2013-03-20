@@ -19,3 +19,25 @@
 //$sidebar-pad-medium: 15px;
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
+
+body > header {
+	height: 185px;
+}
+body > header h1 {
+	padding-top: 95px;
+}
+body > header h2 {
+	padding-top: 9px;
+}
+body > header h1:before {
+	position: absolute;
+	left: 170px;
+	right: 0;
+	top: 8px;
+	background-image:url('/images/vienna-rb-logo.png');
+	background-repeat: no-repeat;
+	content: "";
+	overflow: hidden;
+	height: 96px;
+	width: 498px;
+}
