@@ -15,7 +15,7 @@ After a full house for the first vienna.rb meetup in March the organizing team m
 RoR is used by many to bring their ideas online, to turn their visions into products and businesses. That's awesome and we're glad to be hosting vienna.rb here at sektor5, supporting the cause to bring likeminded Rubyists together!
 {%endblockquote%}
 
-The meetup is sonsored by [RadarServices][2]. Christian Polster, Head of Strategy & Finance on why RadarServices supports
+The meetup is sponsored by [RadarServices][2]. Christian Polster, Head of Strategy & Finance on why RadarServices supports
 vienna.rb:
 {%blockquote Christian Polster, RadarServices Smart IT Security %}
 We believe that vienna.rb is the ideal opportunity for all current and future Rubyists to exchange knowledge and best
