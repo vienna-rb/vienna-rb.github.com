@@ -18,9 +18,7 @@ RoR is used by many to bring their ideas online, to turn their visions into prod
 The meetup is sponsored by [RadarServices][2]. Christian Polster, Head of Strategy & Finance on why RadarServices supports
 vienna.rb:
 {%blockquote Christian Polster, RadarServices GmbH %}
-We believe that vienna.rb is the ideal opportunity for all current and future Rubyists to exchange knowledge and best
-practises. Thereby the enthusiasm for RoR is spread in the community and it helps companies like us to be able to
-implement the ideas for products and services in an ideal way.
+We believe that vienna.rb is the ideal opportunity for all current and future Rubyists to exchange knowledge and best practises. Thereby the enthusiasm for RoR is spread in the community and it helps companies like us to be able to implement the ideas for products and services in an ideal way.
 {%endblockquote%}
 
 The vienna.rb team is collecting topics for lightning talks from their community. The topics so far - Speeding up tests,
