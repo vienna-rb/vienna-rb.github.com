@@ -26,7 +26,7 @@ It didn't stop there at all, though. The next topic was presented by [Petr Bela]
 
 After those presentations, we had a lot of fun talking to people about various aspects of ruby, RoR and related topics. And had a second beer. Maybe a third ...
 
-It was a pity that we had to leave then to catch the train back to vienna in time. And while I can not promise that I will visit every time, I definitely will come over every once in a while, to meet, greet and learn.
+It was a pity that we had to leave then to catch the train back to Vienna in time. And while I can not promise that I will visit every time, I definitely will come over every once in a while, to meet, greet and learn.
 
 Thanks for having us!
 
