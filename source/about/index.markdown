@@ -10,7 +10,7 @@ footer: true
 require 'uri'
 class Vienna
   def contact
-    "@viennarb@"
+    "@viennarb"
   end
 
   def where?
