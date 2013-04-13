@@ -15,6 +15,7 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's to t
 ##### Andy:
 [CodeTriage][1]; Help your favorite open source projects. They have bugs, they need help!
 [Why does it call the "wrong" equal method? - on Stack Overflow][2]; The title is pretty much selfexplainatory.
+[Return to the Essence of Text Editing][8]; Emacs is a pretty neat everything, but also a decent text editor.
 
 ##### Tony:
 [RadarServices][3] - 
@@ -33,3 +34,4 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's to t
 [5]: http://bootsnipp.com/buttons
 [6]: http://www.mycplus.com/featured-articles/hello-world-programs-in-300-programming-languages/
 [7]: http://starlogs.net/
+[8]: http://emacsredux.com/
