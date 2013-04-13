@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://vienna-rb.github.com
-title: Usergroup for Viennese rubyists
-subtitle: vienna.rb
+url: http://vienna-rb.at
+title: User group for Viennese rubyists
+subtitle: organizing meetups for Ruby and Rails developers in and around Vienna, Austria.
 author: vienna.rb team
 simple_search: http://google.com/search
 description:
@@ -96,7 +96,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-39587366-1
 
 # Facebook Like
 facebook_like: false
