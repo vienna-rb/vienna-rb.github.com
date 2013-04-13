@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Picks / what the vienna.rb team thinks is worth sharing this week"
+date: 2013-04-15 12:00
+comments: true
+categories: 
+  - picks
+---
+
+### Picks / what the vienna.rb team thinks is worth sharing this week
+
+In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's to the first edition:
+
+##### Andy:
+[CodeTriage][1]; Help your favorite open source projects. They have bugs, they need help!
+[Why does it call the "wrong" equal method? - on Stack Overflow][2]; The title is pretty much selfexplainatory.
+
+##### Tony:
+[RadarServices][3] - 
+[RadarServices][4] - 
+
+##### Floor:
+[Bootstrap HTML Button generator][5]; Bootstrapping buttons. Because why would you want to reinvent the wheel?
+[List of Hello World Programs in 300 Programming Languages][6]; A complete list of “Hello World!” programs written in more than 300 existing programming languages including Assembly language, Low-level, High-level, Object Oriented, Document formats, Page description languages and Scripting languages. How awesome is that?
+[starlogs.net][7]; Putting Geek in GitHub. Once more. 
+
+
+[1]: http://www.codetriage.com/
+[2]: http://stackoverflow.com/questions/15984011/why-does-it-call-the-wrong-equal-method
+[3]: 
+[4]: 
+[5]: http://bootsnipp.com/buttons
+[6]: http://www.mycplus.com/featured-articles/hello-world-programs-in-300-programming-languages/
+[7]: http://starlogs.net/
