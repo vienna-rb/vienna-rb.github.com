@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: meetup | User group for Viennese rubyists]]></title>
-  <link href="http://vienna-rb.github.com/blog/categories/meetup/atom.xml" rel="self"/>
-  <link href="http://vienna-rb.github.com/"/>
-  <updated>2013-04-13T16:52:49+02:00</updated>
-  <id>http://vienna-rb.github.com/</id>
+  <link href="http://vienna-rb.at/blog/categories/meetup/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2013-04-13T16:57:55+02:00</updated>
+  <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
     <email><![CDATA[viennarb@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The slides of our second meetup are online]]></title>
-    <link href="http://vienna-rb.github.com/blog/2013/04/13/the-slides-of-our-second-meetup-are-online/"/>
+    <link href="http://vienna-rb.at/blog/2013/04/13/the-slides-of-our-second-meetup-are-online/"/>
     <updated>2013-04-13T17:00:00+02:00</updated>
-    <id>http://vienna-rb.github.com/blog/2013/04/13/the-slides-of-our-second-meetup-are-online</id>
+    <id>http://vienna-rb.at/blog/2013/04/13/the-slides-of-our-second-meetup-are-online</id>
     <content type="html"><![CDATA[<h2>ALL the slides</h2>
 
 <p>Hi there, we just pushed the slides of the second meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
@@ -36,9 +36,9 @@
   
   <entry>
     <title type="html"><![CDATA[The slides of our first meetup are online]]></title>
-    <link href="http://vienna-rb.github.com/blog/2013/03/26/the-slides-of-our-first-meetup-are-online/"/>
+    <link href="http://vienna-rb.at/blog/2013/03/26/the-slides-of-our-first-meetup-are-online/"/>
     <updated>2013-03-26T22:54:00+01:00</updated>
-    <id>http://vienna-rb.github.com/blog/2013/03/26/the-slides-of-our-first-meetup-are-online</id>
+    <id>http://vienna-rb.at/blog/2013/03/26/the-slides-of-our-first-meetup-are-online</id>
     <content type="html"><![CDATA[<h2>Slides slides slides</h2>
 
 <p>Hey there folks, we just pushed the slides of our very first meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out even if you weren't there. If you like what you see, join us for our next <a href="http://www.meetup.com/vienna-rb/events/102695402/">meetup</a> on April the 12th at Sektor 5.</p>
@@ -49,9 +49,9 @@
   
   <entry>
     <title type="html"><![CDATA[Rubyslava #26 - Ruby Meet Up in Bratislava]]></title>
-    <link href="http://vienna-rb.github.com/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava/"/>
+    <link href="http://vienna-rb.at/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava/"/>
     <updated>2013-03-22T18:42:00+01:00</updated>
-    <id>http://vienna-rb.github.com/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava</id>
+    <id>http://vienna-rb.at/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava</id>
     <content type="html"><![CDATA[<h2>Dobrý večer - good evening!</h2>
 
 <p>Last week, Andy (<a href="https:/twitter.com/pxlpnk">@pxlpnk</a>) and me decided to visit the Rubyslava event - because <a href="/blog/2013/02/14/vienna-dot-rb-brings-rubyists-together/">they already visited and helped to start off the first vienna.rb meetup</a> - and we wanted to return the favour. Yes, and we are actually both extremely curious and wanted to learn some things first hand.</p>
@@ -78,9 +78,9 @@
   
   <entry>
     <title type="html"><![CDATA[Second meetup to take place at co-working space Sektor5]]></title>
-    <link href="http://vienna-rb.github.com/blog/2013/03/19/second-meetup-to-take-place-at-co-working-space-sektor5/"/>
+    <link href="http://vienna-rb.at/blog/2013/03/19/second-meetup-to-take-place-at-co-working-space-sektor5/"/>
     <updated>2013-03-19T19:26:00+01:00</updated>
-    <id>http://vienna-rb.github.com/blog/2013/03/19/second-meetup-to-take-place-at-co-working-space-sektor5</id>
+    <id>http://vienna-rb.at/blog/2013/03/19/second-meetup-to-take-place-at-co-working-space-sektor5</id>
     <content type="html"><![CDATA[<h3>Ruby developers and Rails aficionados once more meet in Austria’s capital</h3>
 
 <p>After a full house for the first vienna.rb meetup in March the organizing team moves to co-working space <a href="http://sektor5.at/">Sektor5</a> (Siebenbrunnengasse 44, Vienna) for their next developer get-together. Friday, April the 12th they will combine TGIF and meeting like minded people. Vienna.rb meetups are open to both experienced Ruby developers and people that are new to programming.</p>
@@ -101,9 +101,9 @@ encouraged to take part in the event or even take on a lightning talk themselves
   
   <entry>
     <title type="html"><![CDATA[vienna.rb brings rubyists together]]></title>
-    <link href="http://vienna-rb.github.com/blog/2013/02/14/vienna-dot-rb-brings-rubyists-together/"/>
+    <link href="http://vienna-rb.at/blog/2013/02/14/vienna-dot-rb-brings-rubyists-together/"/>
     <updated>2013-02-14T16:25:00+01:00</updated>
-    <id>http://vienna-rb.github.com/blog/2013/02/14/vienna-dot-rb-brings-rubyists-together</id>
+    <id>http://vienna-rb.at/blog/2013/02/14/vienna-dot-rb-brings-rubyists-together</id>
     <content type="html"><![CDATA[<h3>Ruby developers and Rails aficionados meet in Austria's capital</h3>
 
 <p>On Thursday, March the 7th,  Rails and Ruby developers will exchange their workspaces to meet fellow engineers to discuss their favorite language. Andreas Tiefenthaler, Anton Bangratz and Floor Drees initiated these 'user group meetups', excited to meet like minded people. The vienna.rb meetups are open to both experienced Ruby developers and people that are new to programming.</p>

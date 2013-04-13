@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: slides | User group for Viennese rubyists]]></title>
-  <link href="http://vienna-rb.github.com/blog/categories/slides/atom.xml" rel="self"/>
-  <link href="http://vienna-rb.github.com/"/>
-  <updated>2013-04-13T16:52:49+02:00</updated>
-  <id>http://vienna-rb.github.com/</id>
+  <link href="http://vienna-rb.at/blog/categories/slides/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2013-04-13T16:57:55+02:00</updated>
+  <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
     <email><![CDATA[viennarb@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The slides of our second meetup are online]]></title>
-    <link href="http://vienna-rb.github.com/blog/2013/04/13/the-slides-of-our-second-meetup-are-online/"/>
+    <link href="http://vienna-rb.at/blog/2013/04/13/the-slides-of-our-second-meetup-are-online/"/>
     <updated>2013-04-13T17:00:00+02:00</updated>
-    <id>http://vienna-rb.github.com/blog/2013/04/13/the-slides-of-our-second-meetup-are-online</id>
+    <id>http://vienna-rb.at/blog/2013/04/13/the-slides-of-our-second-meetup-are-online</id>
     <content type="html"><![CDATA[<h2>ALL the slides</h2>
 
 <p>Hi there, we just pushed the slides of the second meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
@@ -36,9 +36,9 @@
   
   <entry>
     <title type="html"><![CDATA[The slides of our first meetup are online]]></title>
-    <link href="http://vienna-rb.github.com/blog/2013/03/26/the-slides-of-our-first-meetup-are-online/"/>
+    <link href="http://vienna-rb.at/blog/2013/03/26/the-slides-of-our-first-meetup-are-online/"/>
     <updated>2013-03-26T22:54:00+01:00</updated>
-    <id>http://vienna-rb.github.com/blog/2013/03/26/the-slides-of-our-first-meetup-are-online</id>
+    <id>http://vienna-rb.at/blog/2013/03/26/the-slides-of-our-first-meetup-are-online</id>
     <content type="html"><![CDATA[<h2>Slides slides slides</h2>
 
 <p>Hey there folks, we just pushed the slides of our very first meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out even if you weren't there. If you like what you see, join us for our next <a href="http://www.meetup.com/vienna-rb/events/102695402/">meetup</a> on April the 12th at Sektor 5.</p>

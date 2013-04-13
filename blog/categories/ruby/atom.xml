@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: ruby | User group for Viennese rubyists]]></title>
-  <link href="http://vienna-rb.github.com/blog/categories/ruby/atom.xml" rel="self"/>
-  <link href="http://vienna-rb.github.com/"/>
-  <updated>2013-04-13T16:52:49+02:00</updated>
-  <id>http://vienna-rb.github.com/</id>
+  <link href="http://vienna-rb.at/blog/categories/ruby/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2013-04-13T16:57:55+02:00</updated>
+  <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
     <email><![CDATA[viennarb@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[New about page]]></title>
-    <link href="http://vienna-rb.github.com/blog/2013/03/27/new-about-page/"/>
+    <link href="http://vienna-rb.at/blog/2013/03/27/new-about-page/"/>
     <updated>2013-03-27T20:12:00+01:00</updated>
-    <id>http://vienna-rb.github.com/blog/2013/03/27/new-about-page</id>
+    <id>http://vienna-rb.at/blog/2013/03/27/new-about-page</id>
     <content type="html"><![CDATA[<h2>The vienna.rb class</h2>
 
 <p>We just added a new page to the blog. The <a href="/about">about</a> page contains a bit more information about what we do, where we do it and who we are. It also is a functioning Ruby class.</p>
@@ -55,9 +55,9 @@ The next vienna.rb takes place at sektor5 Siebenbrunnengasse 44, 1050 Wien and s
   
   <entry>
     <title type="html"><![CDATA[Rubyslava #26 - Ruby Meet Up in Bratislava]]></title>
-    <link href="http://vienna-rb.github.com/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava/"/>
+    <link href="http://vienna-rb.at/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava/"/>
     <updated>2013-03-22T18:42:00+01:00</updated>
-    <id>http://vienna-rb.github.com/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava</id>
+    <id>http://vienna-rb.at/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava</id>
     <content type="html"><![CDATA[<h2>Dobrý večer - good evening!</h2>
 
 <p>Last week, Andy (<a href="https:/twitter.com/pxlpnk">@pxlpnk</a>) and me decided to visit the Rubyslava event - because <a href="/blog/2013/02/14/vienna-dot-rb-brings-rubyists-together/">they already visited and helped to start off the first vienna.rb meetup</a> - and we wanted to return the favour. Yes, and we are actually both extremely curious and wanted to learn some things first hand.</p>

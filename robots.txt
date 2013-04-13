@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://vienna-rb.github.com/sitemap.xml 
+Sitemap: http://vienna-rb.at/sitemap.xml 
