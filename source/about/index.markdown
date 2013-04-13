@@ -19,11 +19,11 @@ class Vienna
   end
 
   def when?
-    Time.new(2013,4,12, 18,00,0, "+01:00")
+    Time.new(2013,5,9, 18,00,0, "+01:00")
   end
 
   def what_and_why?
-    URI("http://vienna-rb.at/blog/2013/03/19/second-meetup-to-take-place-at-co-working-space-sektor5/")
+    URI("http://www.meetup.com/vienna-rb/events/102695522/")
   end
 
   def who?
