@@ -2,6 +2,7 @@
 layout: post
 title: "Third meetup to take place at co-working space Sektor5"
 date: 2013-04-19 19:26
+published: false
 comments: true
 categories: 
   - meetup
