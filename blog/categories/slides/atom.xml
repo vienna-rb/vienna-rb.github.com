@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: slides | User group for Viennese rubyists]]></title>
+  <link href="http://vienna-rb.github.com/blog/categories/slides/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.github.com/"/>
+  <updated>2013-04-13T16:46:50+02:00</updated>
+  <id>http://vienna-rb.github.com/</id>
+  <author>
+    <name><![CDATA[vienna.rb team]]></name>
+    <email><![CDATA[viennarb@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The slides of our second meetup are online]]></title>
+    <link href="http://vienna-rb.github.com/blog/2013/04/13/the-slides-of-our-second-meetup-are-online/"/>
+    <updated>2013-04-13T17:00:00+02:00</updated>
+    <id>http://vienna-rb.github.com/blog/2013/04/13/the-slides-of-our-second-meetup-are-online</id>
+    <content type="html"><![CDATA[<h2>ALL the slides</h2>
+
+<p>Hi there, we just pushed the slides of the second meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
+
+<h5>Floor Drees, introducing the Coders without Borders project</h5>
+
+<h5>Gerald Bauer on his beer.db and world.db gem</h5>
+
+<h5>Tomáš Kramár on 'open' data in Slovakia</h5>
+
+<h5>Anton Bangratz opened up his big o' bag of tricks</h5>
+
+<p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/102695522/">meetup</a> on May the 9th at Sektor5!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The slides of our first meetup are online]]></title>
+    <link href="http://vienna-rb.github.com/blog/2013/03/26/the-slides-of-our-first-meetup-are-online/"/>
+    <updated>2013-03-26T22:54:00+01:00</updated>
+    <id>http://vienna-rb.github.com/blog/2013/03/26/the-slides-of-our-first-meetup-are-online</id>
+    <content type="html"><![CDATA[<h2>Slides slides slides</h2>
+
+<p>Hey there folks, we just pushed the slides of our very first meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out even if you weren't there. If you like what you see, join us for our next <a href="http://www.meetup.com/vienna-rb/events/102695402/">meetup</a> on April the 12th at Sektor 5.</p>
+
+<p>In the future we plan to collect and publish the slides so you won't miss anything if you can't make it.</p>
+]]></content>
+  </entry>
+  
+</feed>
