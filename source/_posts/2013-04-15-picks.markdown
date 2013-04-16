@@ -19,8 +19,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's to t
 [Return to the Essence of Text Editing][8]; Emacs is a pretty neat everything, but also a decent text editor.
 
 ##### Tony:
-[RadarServices][3] - 
-[RadarServices][4] - 
+  - [RadarServices][3] - a "developer's notebook" documenting some guidelines, techniques, and ideas for applying classic object-oriented thought to Ruby on Rails applications.
+  - [Clean Coders][4] - educational videos for software professionals, by software professionals.
+  - [vim-rails][9] - vim is the **best** rails editor of all times.
 
 ##### Floor:
 [Bootstrap HTML Button generator][5]; Bootstrapping buttons. Because why would you want to reinvent the wheel?
@@ -30,9 +31,10 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's to t
 
 [1]: http://www.codetriage.com/
 [2]: http://stackoverflow.com/questions/15984011/why-does-it-call-the-wrong-equal-method
-[3]: 
-[4]: 
+[3]: http://objectsonrails.com
+[4]: http://www.cleancoders.com/
 [5]: http://bootsnipp.com/buttons
 [6]: http://www.mycplus.com/featured-articles/hello-world-programs-in-300-programming-languages/
 [7]: http://starlogs.net/
 [8]: http://emacsredux.com/
+[9]: https://github.com/tpope/vim-rails
