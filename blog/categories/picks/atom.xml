@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
+  <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2013-04-17T10:08:14+02:00</updated>
+  <id>http://vienna-rb.at/</id>
+  <author>
+    <name><![CDATA[vienna.rb team]]></name>
+    <email><![CDATA[viennarb@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/04/17/picks/"/>
+    <updated>2013-04-17T10:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/04/17/picks</id>
+    <content type="html"><![CDATA[<h3>Picks / what the vienna.rb team thinks is worth sharing this week</h3>
+
+<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's to the first edition:</p>
+
+<h5>Andy:</h5>
+
+<ul>
+<li><a href="http://www.codetriage.com/">CodeTriage</a> - Help your favorite open source projects. They have bugs, they need help!</li>
+<li><a href="http://stackoverflow.com/questions/15984011/why-does-it-call-the-wrong-equal-method">Why does it call the "wrong" equal method? - on Stack Overflow</a> - The title is pretty much selfexplainatory.</li>
+<li><a href="http://emacsredux.com/">Return to the Essence of Text Editing</a> - Emacs is a pretty neat everything, but also a decent text editor.</li>
+</ul>
+
+
+<h5>Tony:</h5>
+
+<ul>
+<li><a href="http://objectsonrails.com">Objects On Rails</a> - a "developer's notebook" documenting some guidelines, techniques, and ideas for applying classic object-oriented thought to Ruby on Rails applications.</li>
+<li><a href="http://www.cleancoders.com/">Clean Coders</a> - educational videos for software professionals, by software professionals.</li>
+<li><a href="https://github.com/tpope/vim-rails">vim-rails</a> - vim is the <strong>best</strong> rails editor of all times.</li>
+</ul>
+
+
+<h5>Floor:</h5>
+
+<ul>
+<li><a href="http://bootsnipp.com/buttons">Bootstrap HTML Button generator</a> - Bootstrapping buttons. Because why would you want to reinvent the wheel?</li>
+<li><a href="http://www.mycplus.com/featured-articles/hello-world-programs-in-300-programming-languages/">List of Hello World Programs in 300 Programming Languages</a> - A complete list of “Hello World!” programs written in more than 300 existing programming languages including Assembly language, Low-level, High-level, Object Oriented, Document formats, Page description languages and Scripting languages. How awesome is that?</li>
+<li><a href="http://starlogs.net/">starlogs.net</a> - Putting Geek in GitHub. Once more.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
