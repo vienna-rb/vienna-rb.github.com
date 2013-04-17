@@ -7,33 +7,40 @@ sharing: true
 footer: true
 ---
 {% codeblock about-vienna.rb lang:ruby %}
+require 'uri'
 class Vienna
   def contact
-    "viennarb@gmail.com"
+    "@viennarb"
   end
- 
+
   def where?
     Struct.new("Location", :name, :address, :details)
-    Struct::Location.new("Platogo Office", "Salmgasse 2A, 1030 Wien")
+    Struct::Location.new("sektor5", "Siebenbrunnengasse 44, 1050 Wien")
   end
- 
+
   def when?
-    Time.new(2013,3,7, 18,00,0, "+01:00")
+    Time.new(2013,5,9, 18,00,0, "+01:00")
   end
- 
+
   def what_and_why?
-    #PressRelease
+    URI("http://www.meetup.com/vienna-rb/events/102695522/")
   end
- 
+
   def who?
     organizers = {
       "Floor Drees" => "@floordrees",
       "Anton Bangratz" => "@tony_xpro",
       "Andreas Tiefenthaler" => "@pxlpnk"}
   end
- 
+
+  def to_s
+    where = where?.to_a.compact.join(" ")
+   "The next vienna.rb takes place at #{where} and starts at #{when?}. For more see: #{what_and_why?}"
+  end
+
+
   def version
-    "v0.0.2 - 2013-02-13 14:39"
+    "v0.0.3 - 2013-03-27 19:39"
   end
 end
 {% endcodeblock %}

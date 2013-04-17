@@ -16,7 +16,7 @@ Last week, Andy ([@pxlpnk][1]) and me decided to visit the Rubyslava event - bec
 
 After a short train and bus ride we reached our destination, the [Kafé Nervosa][3]. As a location, I found it very much to my liking: pizza, beer, a beamer and a PA system. When we arrived, it was already well filled with people, and they still kept on coming in. Later we would learn that this was a record breaking evening in that regard.
 
-For starting off, we were treated with an interesting overview of techniques and tools that help you __saving time__, presented by [Milan Novotna][4] of [subteca][5]. Interestingly enough, the slides were in english, but the talk wasn't - I could follow it, though, even if we weren't really reacting appropriately to certain questions for the audience. And Milan, I know you weren't aware that the two of us weren't able to follow every word, the apology really wasn't necessary. I enjoyed the fact that a lot of the stuff presented (like the pomodoro technique, tmux, zsh, tdd, git, ...) is already part of our work repertoire. The short chat afterwards was also really interesting and enlightening, and I would love to support any effort of teaching more people stuff that I know. 
+For starting off, we were treated with an interesting overview of techniques and tools that help you __saving time__, presented by [Milan Novota][4] of [Subteca][5]. Interestingly enough, the slides were in english, but the talk wasn't - I could follow it, though, even if we weren't really reacting appropriately to certain questions for the audience. And Milan, I know you weren't aware that the two of us weren't able to follow every word, the apology really wasn't necessary. I enjoyed the fact that a lot of the stuff presented (like the pomodoro technique, tmux, zsh, tdd, git, ...) is already part of our work repertoire. The short chat afterwards was also really interesting and enlightening, and I would love to support any effort of teaching more people stuff that I know. 
 
 Oh, and thanks for the free beer :)
 
@@ -26,7 +26,7 @@ It didn't stop there at all, though. The next topic was presented by [Petr Bela]
 
 After those presentations, we had a lot of fun talking to people about various aspects of ruby, RoR and related topics. And had a second beer. Maybe a third ...
 
-It was a pity that we had to leave then to catch the train back to vienna in time. And while I can not promise that I will visit every time, I definitely will come over every once in a while, to meet, greet and learn.
+It was a pity that we had to leave then to catch the train back to Vienna in time. And while I can not promise that I will visit every time, I definitely will come over every once in a while, to meet, greet and learn.
 
 Thanks for having us!
 
