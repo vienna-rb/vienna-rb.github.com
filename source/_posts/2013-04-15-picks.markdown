@@ -14,9 +14,9 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's to the first edition:
 
 ##### Andy:
-[CodeTriage][1]; Help your favorite open source projects. They have bugs, they need help!
-[Why does it call the "wrong" equal method? - on Stack Overflow][2]; The title is pretty much selfexplainatory.
-[Return to the Essence of Text Editing][8]; Emacs is a pretty neat everything, but also a decent text editor.
+  - [CodeTriage][1] - Help your favorite open source projects. They have bugs, they need help!
+  - [Why does it call the "wrong" equal method? - on Stack Overflow][2] - The title is pretty much selfexplainatory.
+  - [Return to the Essence of Text Editing][8] - Emacs is a pretty neat everything, but also a decent text editor.
 
 ##### Tony:
   - [Objects On Rails][3] - a "developer's notebook" documenting some guidelines, techniques, and ideas for applying classic object-oriented thought to Ruby on Rails applications.
@@ -24,9 +24,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's to t
   - [vim-rails][9] - vim is the **best** rails editor of all times.
 
 ##### Floor:
-[Bootstrap HTML Button generator][5]; Bootstrapping buttons. Because why would you want to reinvent the wheel?
-[List of Hello World Programs in 300 Programming Languages][6]; A complete list of “Hello World!” programs written in more than 300 existing programming languages including Assembly language, Low-level, High-level, Object Oriented, Document formats, Page description languages and Scripting languages. How awesome is that?
-[starlogs.net][7]; Putting Geek in GitHub. Once more. 
+  - [Bootstrap HTML Button generator][5] - Bootstrapping buttons. Because why would you want to reinvent the wheel?
+  - [List of Hello World Programs in 300 Programming Languages][6] - A complete list of “Hello World!” programs written in more than 300 existing programming languages including Assembly language, Low-level, High-level, Object Oriented, Document formats, Page description languages and Scripting languages. How awesome is that?
+  - [starlogs.net][7] - Putting Geek in GitHub. Once more. 
 
 
 [1]: http://www.codetriage.com/
