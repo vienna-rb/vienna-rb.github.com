@@ -1,0 +1,44 @@
+---
+layout: post
+title: "MySugr"
+date: 2013-04-25   17:00
+published: false
+comments: true
+author: "Floor Drees (@floordrees)"
+categories:
+        - 
+---
+
+## MySugr switched from Ruby to Java. Here's why:
+
+We build the mySugr iPhone App to help ourselves and other people master the diabetes monster. Founded by @geraldstangl, @fdebong and a guy who won't tweet
+Diabetes sucks and can sometimes get you down. Show this troublemaker who’s the boss and feed the mySugr Diabetes App with your data. If you keep logging regularly, you will make great use of your data and get rewarded with valuable feedback in your day-to-day life.
+
+Diabetes has become an epidemic and is counted as one
+of the most common reasons of death in modern society.
+
+Gerald Stangl, Fredrik Debong, Frank Westermann, Michael Forisch in 2011 and launched in April 2012, mySugr have 10.000 users mainly in Austria, Germany and Italy.
+the team of 20
+ 
+Bernhard, our Technical Director (or CTO)
+
+switched from ruby to java? why?
+how many people/devs are working on the project?
+MySugr 2.0, what's new?
+Android app?
+ 
+
+[repository][1]. 
+
+#####Floor Drees, introducing the Coders without Borders project
+#####Gerald Bauer on his beer.db and world.db gem
+#####Tomáš Kramár on 'open' data in Slovakia
+#####Anton Bangratz opened up his big o' bag of tricks 
+
+Like what you see? Join us for our next [meetup][2] on May the 9th at Sektor5!
+
+
+[1]: https://github.com/vienna-rb/slides
+[2]: http://www.meetup.com/vienna-rb/events/102695522/
+https://twitter.com/geraldstangl
+https://twitter.com/fdebong

@@ -24,9 +24,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [][8] -
 
 ##### [Floor][9]:
-  - [][10] -
-  - [][11] -
-  - [][12] -
+  - [tmux Quick Start][10] - Just what I needed: a brief introduction to what tmux can do and how it works.
+  - [Glitché][11] - Ridiculous, but oh so awesome: Glitché (iPhone app) Distort your photos using computer errors and bugs
+  - [Karaoke][12] - There's a KaraokeParty at the Metalab this Friday. You don't want to miss that for the world. Believe me. 
 
 
 [1]: http://www.twitter.com/pxlpnk
@@ -38,7 +38,7 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [7]: 
 [8]: 
 [9]: http://www.twitter.com/floordrees
-[10]: 
-[11]: 
-[12]: 
+[10]: https://www.youtube.com/watch?v=wKEGA8oEWXw
+[11]: http://www.creativeapplications.net/iphone/glitche-distort-your-photos-using-computer-errors-and-bugs/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+creativeapplicationsnet+%28CreativeApplications.Net%29
+[12]: https://metalab.at/wiki/KaraokeParty
 
