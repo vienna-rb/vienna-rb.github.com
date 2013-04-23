@@ -19,9 +19,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [If you are busy you do it wrong][4] - A bit older, but shows you why 'elite performers' perform the way they do. It's not only the genius that matters.
 
 ##### [Tony][5]:
-  - [][6] -
-  - [][7] -
-  - [][8] -
+  - [git-wtf][6] - a script to display the state of your repository in a readable and easy-to-scan format.
+  - [Benchmarking in Ruby][7] - a short overview and nice examples.
+  - [Sequel][8] - The Database Toolkit for Ruby (especially if you use [PostgreSQL](http://www.postgresql.org/))
 
 ##### [Floor][9]:
   - [tmux Quick Start][10] - Just what I needed: a brief introduction to what tmux can do and how it works.
@@ -34,9 +34,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [3]: http://blog.brownplt.org/2013/02/19/teaching-gc.html
 [4]: http://calnewport.com/blog/2011/11/11/if-youre-busy-youre-doing-something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/
 [5]: http://www.twitter.com/tony_xpro
-[6]:
-[7]:
-[8]:
+[6]: http://git-wt-commit.rubyforge.org/#git-wtf
+[7]: http://www.rubyops.net/benchmarking-in-ruby
+[8]: http://sequel.rubyforge.org/
 [9]: http://www.twitter.com/floordrees
 [10]: https://www.youtube.com/watch?v=wKEGA8oEWXw
 [11]: http://www.creativeapplications.net/iphone/glitche-distort-your-photos-using-computer-errors-and-bugs/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+creativeapplicationsnet+%28CreativeApplications.Net%29
