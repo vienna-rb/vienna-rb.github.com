@@ -15,6 +15,8 @@ Vienna's most beloved startup must be mySugr, creating an app to help people fig
 
 I talked with [Bernhard Schandl][2], Technical Director and [Gerald Stangl][3], Creative Director, about mySugr's switch from Ruby on Rails to Java.
 
+{% img /images/mysugr_640.png 640 352 Bernhard Schandl, Technical Director, Gerald Stangl, Creative Director, both of mySugr %}
+
 #####Here's to the big question: why did you switch from Ruby to Java?
 Gerald: We started with Ruby on Rails, as the team I did consulting work with consisted of Ruby guys. We however hired a new technical lead who was very proficient using JVM based systems and had loads of people in his network who had a track record using Java. All the local Ruby developers I knew were talented but didn't have that much professional experience. It was too risky to build an application in RoR, if those guys would have left the company for whatever reason, we would have had a technology nobody else could really work with. It was really hard for me to let Rails go, though.
 
