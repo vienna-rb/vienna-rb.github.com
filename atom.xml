@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-04-17T10:08:14+02:00</updated>
+  <updated>2013-05-01T16:56:35+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,124 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/05/01/picks/"/>
+    <updated>2013-05-01T17:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/05/01/picks</id>
+    <content type="html"><![CDATA[<h3>01/5 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the third edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://en.ricbit.com/2012/06/most-difficult-bug.html">The Most Difficult Bug</a> - How to solve the most difficult bug of them all.</li>
+<li><a href="http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about">Building a Ruby Library</a> - &#8216;Building a Ruby Library, the part no one talks about&#8217;, great talk by Mitchell Hashimoto, at Aloha Ruby Conf.</li>
+<li><a href="https://github.com/jonathanchu/color-theme-heroku">color theme</a> - An Emacs color theme based on Heroku.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://www.cleancoders.com/">Clean Coders</a> - Code Casts for Software Professionals. Check out the first vid in
+the clean code series for a sneak peek. Not for free, but full of value.</li>
+<li><a href="https://github.com/citizen428/methodfinder">Method Finder</a> - a smalltalk like method finder for ruby. A real smart piece of software, and useful for
+beginners and professionals.</li>
+<li><a href="http://her-rb.org/">Her</a> - an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. Much more configurable and
+easier to use than ActiveResource.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://bieber.ly">bieber.ly</a> - The best url shortener EVER. Thank you, Elliott Kember.</li>
+<li><a href="http://www.gizoogle.net/">gizoogle</a> - Fo&#8217; all y&#8217;all biotches who wanna find shiznit!</li>
+<li><a href="http://floordrees.tumblr.com">Railsberry revisited</a> - What happened at Railsberry centainly did not stay at Railsberry. I tried to write a few recaps, you&#8217;ll find them on my Tumblr.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[MySugr]]></title>
+    <link href="http://vienna-rb.at/blog/2013/04/25/mysugr/"/>
+    <updated>2013-04-25T13:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/04/25/mysugr</id>
+    <content type="html"><![CDATA[<h2>MySugr switched from Ruby to Java. Here&#8217;s why:</h2>
+
+<p>Vienna&#8217;s most beloved startup must be mySugr, creating an app to help people fight the &#8216;diabetes monster&#8217;. mySugr was founded by Frank Westermann, Fredrik Debong, Gerald Stangl and Michael Forisch in 2011 and launched in April 2012. Today they are a team of 20 and they&#8217;ve welcomed over 10.000 people from Austria, Germany and Italy, using their application.</p>
+
+<p>I talked with <a href="https://twitter.com/besbes">Bernhard Schandl</a>, Technical Director and <a href="https://twitter.com/geraldstangl">Gerald Stangl</a>, Creative Director, about mySugr&#8217;s switch from Ruby on Rails to Java.</p>
+
+<p><img src="http://vienna-rb.at/images/mysugr_640.png" width="640" height="352" title="Bernhard Schandl, Technical Director, Gerald Stangl, Creative Director, both of mySugr" ></p>
+
+<h5>Here&#8217;s to the big question: why did you switch from Ruby to Java?</h5>
+
+<p>Gerald: We started with Ruby on Rails, as the team I did consulting work with consisted of Ruby guys. We however hired a new technical lead who was very proficient using JVM based systems and had loads of people in his network who had a track record using Java. All the local Ruby developers I knew were talented but didn&#8217;t have that much professional experience. It was too risky to build an application in RoR, if those guys would have left the company for whatever reason, we would have had a technology nobody else could really work with. It was really hard for me to let Rails go, though.</p>
+
+<p>Bernhard: When I came in 3/4 months ago, the whole Java setup was already in place. mySugr already had loads of users and it was out of the question to change the code base again. I&#8217;m experienced with Java, I never build full webbased projects in Ruby, or wrote production code in Ruby for that matter. Ruby is great for a lot of things, I mean, you sit down and after an hour you have a running webapp. For quick iterations Ruby is also great. Software gets more complex overtime with every project, no matter which programming language you use, we just opted for the more mature language.</p>
+
+<p>Gerald: We&#8217;re dealing with highly sensitive data, mySugr is a medical device. The Java libraries we use are reliable, bullet-proof technologies, used and developed by a lot of companies before us.</p>
+
+<p>Bernhard: We have regulatory restrictions enforcing us to really investigate a third party library before using it.</p>
+
+<p>Gerald: We operate in a regulated environment and we&#8217;re a young company, we didn&#8217;t want to make mistakes, so we chose the most secure way. It was not so much a technical decision, we just want to protect our users. Plus: we had to consider that with mySugr we&#8217;re dealing with iOS, Android and the backend. Drilling down our languages to Java and Objective-C made sense as we wanted to keep the team small. There simply aren&#8217;t many Ruby guys in Vienna that are proficient in Objective-C as well&#8230;</p>
+
+<h5>How many developers are working on mySugr?</h5>
+
+<p>Bernhard: The dev team is 5 people, some work part-time, and they are for the bigger part based in Vienna. Our remote workers check in every several weeks, stay for a few days and we always try to get a beer then. We have a daily standup that takes about 15 minutes and a weekly Show &amp; Tell, limited to 1 hour. We use a JIRA ticketingsystem and Basecamp, although that&#8217;s more for the conceptual part of the design &amp; development process. And we use Campfire to quickly post updates. I&#8217;m always here (at Sektor5) to try to answer all the questions concerning database excerpts and such, so the developers are not disturbed.</p>
+
+<h5>What&#8217;s new in mySugr&#8217;s next release?</h5>
+
+<p>Gerald: The new mySugr is brighter, we have a new monster and some new challenges. It offers multi device syncing and your location is now - more than ever - important. The user experience evolves around pictures (images of food and drinks you take) and push notifications remind you to finish your challenges or document your lunch.</p>
+
+<p>Bernhard: Our <a href="http://www.inventures.eu/mysugr-junior-answering-to-an-alarming-trend">junior app was just released</a> last week, also on Android. You should check that out too!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/04/24/picks/"/>
+    <updated>2013-04-24T10:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/04/24/picks</id>
+    <content type="html"><![CDATA[<h3>24/4 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the second edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/jsuder/git-code-review">git-code-review</a> - An extension to git to help you with doing regular code reviews of other team members&#8217; commits.</li>
+<li><a href="http://blog.brownplt.org/2013/02/19/teaching-gc.html">Essentials of Garbage Collection</a> - This is a very nice approach on understanding how GC works and what it does.</li>
+<li><a href="http://calnewport.com/blog/2011/11/11/if-youre-busy-youre-doing-something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/">If you are busy you do it wrong</a> - A bit older, but shows you why &#8216;elite performers&#8217; perform the way they do. It&#8217;s not only the genius that matters.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://git-wt-commit.rubyforge.org/#git-wtf">git-wtf</a> - a script to display the state of your repository in a readable and easy-to-scan format.</li>
+<li><a href="http://www.rubyops.net/benchmarking-in-ruby">Benchmarking in Ruby</a> - a short overview and nice examples.</li>
+<li><a href="http://sequel.rubyforge.org/">Sequel</a> - The Database Toolkit for Ruby (especially if you use <a href="http://www.postgresql.org/">PostgreSQL</a>)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=wKEGA8oEWXw">tmux Quick Start</a> - Just what I needed: a brief introduction to what tmux can do and how it works.</li>
+<li><a href="http://www.creativeapplications.net/iphone/glitche-distort-your-photos-using-computer-errors-and-bugs/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+creativeapplicationsnet+%28CreativeApplications.Net%29">Glitché</a> - Ridiculous, but oh so awesome: Glitché (iPhone app) Distort your photos using computer errors and bugs</li>
+<li><a href="https://metalab.at/wiki/KaraokeParty">Karaoke</a> - There&#8217;s a KaraokeParty at the Metalab this Friday. You don&#8217;t want to miss that for the world. Believe me.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>

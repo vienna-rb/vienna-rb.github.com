@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-04-17T10:08:14+02:00</updated>
+  <updated>2013-05-01T16:56:35+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,87 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/05/01/picks/"/>
+    <updated>2013-05-01T17:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/05/01/picks</id>
+    <content type="html"><![CDATA[<h3>01/5 Picks!!</h3>
+
+<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the third edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://en.ricbit.com/2012/06/most-difficult-bug.html">The Most Difficult Bug</a> - How to solve the most difficult bug of them all.</li>
+<li><a href="http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about">Building a Ruby Library</a> - 'Building a Ruby Library, the part no one talks about', great talk by Mitchell Hashimoto, at Aloha Ruby Conf.</li>
+<li><a href="https://github.com/jonathanchu/color-theme-heroku">color theme</a> - An Emacs color theme based on Heroku.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://www.cleancoders.com/">Clean Coders</a> - Code Casts for Software Professionals. Check out the first vid in
+the clean code series for a sneak peek. Not for free, but full of value.</li>
+<li><a href="https://github.com/citizen428/methodfinder">Method Finder</a> - a smalltalk like method finder for ruby. A real smart piece of software, and useful for
+beginners and professionals.</li>
+<li><a href="http://her-rb.org/">Her</a> - an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. Much more configurable and
+easier to use than ActiveResource.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://bieber.ly">bieber.ly</a> - The best url shortener EVER. Thank you, Elliott Kember.</li>
+<li><a href="http://www.gizoogle.net/">gizoogle</a> - Fo' all y'all biotches who wanna find shiznit!</li>
+<li><a href="http://floordrees.tumblr.com">Railsberry revisited</a> - What happened at Railsberry centainly did not stay at Railsberry. I tried to write a few recaps, you'll find them on my Tumblr.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/04/24/picks/"/>
+    <updated>2013-04-24T10:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/04/24/picks</id>
+    <content type="html"><![CDATA[<h3>24/4 Picks!!</h3>
+
+<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the second edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/jsuder/git-code-review">git-code-review</a> - An extension to git to help you with doing regular code reviews of other team members' commits.</li>
+<li><a href="http://blog.brownplt.org/2013/02/19/teaching-gc.html">Essentials of Garbage Collection</a> - This is a very nice approach on understanding how GC works and what it does.</li>
+<li><a href="http://calnewport.com/blog/2011/11/11/if-youre-busy-youre-doing-something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/">If you are busy you do it wrong</a> - A bit older, but shows you why 'elite performers' perform the way they do. It's not only the genius that matters.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://git-wt-commit.rubyforge.org/#git-wtf">git-wtf</a> - a script to display the state of your repository in a readable and easy-to-scan format.</li>
+<li><a href="http://www.rubyops.net/benchmarking-in-ruby">Benchmarking in Ruby</a> - a short overview and nice examples.</li>
+<li><a href="http://sequel.rubyforge.org/">Sequel</a> - The Database Toolkit for Ruby (especially if you use <a href="http://www.postgresql.org/">PostgreSQL</a>)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=wKEGA8oEWXw">tmux Quick Start</a> - Just what I needed: a brief introduction to what tmux can do and how it works.</li>
+<li><a href="http://www.creativeapplications.net/iphone/glitche-distort-your-photos-using-computer-errors-and-bugs/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+creativeapplicationsnet+%28CreativeApplications.Net%29">Glitché</a> - Ridiculous, but oh so awesome: Glitché (iPhone app) Distort your photos using computer errors and bugs</li>
+<li><a href="https://metalab.at/wiki/KaraokeParty">Karaoke</a> - There's a KaraokeParty at the Metalab this Friday. You don't want to miss that for the world. Believe me.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
