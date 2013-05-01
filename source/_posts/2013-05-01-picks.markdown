@@ -14,9 +14,9 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the third edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [The Most Difficult Bug][2] - How to solve the most difficult bug of them all.
+  - [Building a Ruby Library][3] - 'Building a Ruby Library, the part no one talks about', great talk by Mitchell Hashimoto, at Aloha Ruby Conf.
+  - [color theme][4] - An Emacs color theme based on Heroku.
 
 ##### [Tony][5]:
   - [Clean Coders][6] - Code Casts for Software Professionals. Check out the first vid in
@@ -34,9 +34,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]: http://en.ricbit.com/2012/06/most-difficult-bug.html
+[3]: http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about
+[4]: https://github.com/jonathanchu/color-theme-heroku
 [5]: http://www.twitter.com/tony_xpro
 [6]: http://www.cleancoders.com/
 [7]: https://github.com/citizen428/methodfinder
