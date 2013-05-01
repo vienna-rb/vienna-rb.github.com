@@ -19,9 +19,12 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [][4] - 
 
 ##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
+  - [Clean Coders][6] - Code Casts for Software Professionals. Check out the first vid in
+	the clean code series for a sneak peek. Not for free, but full of value.
+  - [Method Finder][7] - a smalltalk like method finder for ruby. A real smart piece of software, and useful for
+	beginners and professionals. 
+  - [Her][8] - an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. Much more configurable and
+	easier to use than ActiveResource.
 
 ##### [Floor][9]:
   - [bieber.ly][10] - The best url shortener EVER. Thank you, Elliott Kember.
@@ -35,9 +38,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [3]: 
 [4]: 
 [5]: http://www.twitter.com/tony_xpro
-[6]: 
-[7]: 
-[8]: 
+[6]: http://www.cleancoders.com/
+[7]: https://github.com/citizen428/methodfinder
+[8]: http://her-rb.org/
 [9]: http://www.twitter.com/floordrees
 [10]:http://bieber.ly
 [11]: http://www.gizoogle.net/
