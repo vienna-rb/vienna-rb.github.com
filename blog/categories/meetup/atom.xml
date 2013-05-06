@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetup | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/meetup/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-05-06T19:01:36+02:00</updated>
+  <updated>2013-05-06T19:05:51+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -24,13 +24,11 @@
 Vienna.rb meetups are open to both experienced Ruby developers and people that are new to programming.</p>
 
 <p>The meetup is sponsored by <a href="http://www.runtastic.com/">Runtastic</a>:
-<blockquote><p>At Runtastic we're using Ruby and Rails since our foundation in 2010. We like to keep our developers happy, and thus bet on Ruby whenever we can. With many members of the Ruby community being present at the vienna.rb meetup, we might meet one of our future colleagues there.</p></blockquote></p>
-
-<p><blockquote><p>RoR is used by many to bring their ideas online, to turn their visions into products and businesses. That's awesome and we're glad to be hosting vienna.rb here at sektor5, supporting the cause to bring likeminded Rubyists together!</p><footer><strong>Yves Schultz</strong> <cite>Founder of Sektor 5</cite></footer></blockquote></p>
+<blockquote><p>At Runtastic we're using Ruby and Rails since our foundation in 2010. We like to keep our developers happy, and thus bet on Ruby whenever we can. With many members of the Ruby community being present at the vienna.rb meetup, we might meet one of our future colleagues there.</p><footer><strong>Runtastic</strong></footer></blockquote></p>
 
 <p>The vienna.rb team collected topics for talks from their community. Starting with David Österreicher from Runtastic, Sarah Howorka will then talk about the <a href="https://railsgirls.com/">Rails Girls project</a>. Clemens Helm will eleborate on 'The Ruby workflow' and Andreas Kopecky will give us an insight on why he uses Sequel and its advantages to Active Record. A little time is always reserved for spontaneous lightning talks from the attendees.</p>
 
-<p>For more information regarding the program and more upcoming events, please visit <a href="http://meetup.com/vienna-rb">viennarb on meetup</a> or follow <a href="https://twitter.com/viennarb">@viennarb</a></p>
+<p>For more information regarding the program and more upcoming events, please visit <a href="http://meetup.com/vienna-rb">vienna.rb on meetup</a> or follow <a href="https://twitter.com/viennarb">@viennarb</a></p>
 ]]></content>
   </entry>
   
