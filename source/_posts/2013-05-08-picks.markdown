@@ -14,9 +14,9 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fourth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [Testing Tuesday #4: Continuous Integration and Deployment with Cucumber][2] - [codeship.io][13] has a great series testing and deployment you should follow. 
+  - [Writing a good README][3] - Why a good README is important and a few tricks that helo you with it.
+  - [Birth and death of a running programm][4] - A deeper look on the lifecycle of a C program.
 
 ##### [Tony][5]:
   - [][6] - 
@@ -30,9 +30,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]: http://blog.codeship.io/2013/05/07/Testing-Tuesday-4-Continuous-Integration-and-Deployment-with-Cucumber.html
+[3]: http://blog.thefrontiergroup.com.au/2013/05/writing-a-good-readme/
+[4]: http://samwho.co.uk/blog/2013/04/13/the-birth-and-death-of-a-running-program/
 [5]: http://www.twitter.com/tony_xpro
 [6]: 
 [7]: 
@@ -41,3 +41,4 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [10]: http://abangratz.github.io/blog/2013/04/28/git-eep-or-how-to-resolve-git-errors/
 [11]: http://www.creativeapplications.net/objects/vincent-emily-two-robots-in-a-relationship-struggle-and-emotional-conflict/
 [12]: http://inventures.eu/compuritas
+[13]: http://codeship.io
