@@ -2,7 +2,7 @@
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
 date: 2013-05-08 13:00
-published: false
+published: true
 comments: true
 categories:
   - picks
@@ -14,19 +14,19 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fourth edition:
 
 ##### [Andy][1]:
-  - [Testing Tuesday #4: Continuous Integration and Deployment with Cucumber][2] - [codeship.io][13] has a great series testing and deployment you should follow. 
-  - [Writing a good README][3] - Why a good README is important and a few tricks that helo you with it.
+  - [Testing Tuesday #4: Continuous Integration and Deployment with Cucumber][2] - [codeship.io][13] has a great series testing and deployment you should follow.
+  - [Writing a good README][3] - Why a good README is important and a few tricks that help you with it.
   - [Birth and death of a running programm][4] - A deeper look on the lifecycle of a C program.
 
 ##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
+  - [The Daily WTF][6] - relax and laugh - or choke on the worst code you'll ever see.
+  - [Relish][7] - Living documentation (if you use cucumber). Including RSpec, cucumber, mongoid, diaspora et al.
+  - [Draper][8] - Decorators for Rails Applications
 
 ##### [Floor][9]:
-  - [git eep][10] - Fellow vienna.rb'er Tony wrote some great stuff about how to deal with git on his 'blag'. 
-  - [Vincent & Emily][11] - Modern day love story. 
-  - [Compuritas][12] - This Austrian startup collects old hardware, repairs, reconditions it, and sells it to people who, otherwise, would not be able to afford it. 
+  - [git eep][10] - Fellow vienna.rb'er Tony wrote some great stuff about how to deal with git on his 'blag'.
+  - [Vincent & Emily][11] - Modern day love story.
+  - [Compuritas][12] - This Austrian startup collects old hardware, repairs, reconditions it, and sells it to people who, otherwise, would not be able to afford it.
 
 
 [1]: http://www.twitter.com/pxlpnk
@@ -34,9 +34,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [3]: http://blog.thefrontiergroup.com.au/2013/05/writing-a-good-readme/
 [4]: http://samwho.co.uk/blog/2013/04/13/the-birth-and-death-of-a-running-program/
 [5]: http://www.twitter.com/tony_xpro
-[6]: 
-[7]: 
-[8]: 
+[6]: http://thedailywtf.com/
+[7]: https://www.relishapp.com/
+[8]: https://github.com/drapergem/draper
 [9]: http://www.twitter.com/floordrees
 [10]: http://abangratz.github.io/blog/2013/04/28/git-eep-or-how-to-resolve-git-errors/
 [11]: http://www.creativeapplications.net/objects/vincent-emily-two-robots-in-a-relationship-struggle-and-emotional-conflict/
