@@ -4,7 +4,7 @@
   <title><![CDATA[Category: slides | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/slides/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-05-06T19:05:51+02:00</updated>
+  <updated>2013-05-10T16:22:38+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The slides of our third meetup are online]]></title>
+    <link href="http://vienna-rb.at/blog/2013/05/10/the-slides-are-online/"/>
+    <updated>2013-05-10T11:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/05/10/the-slides-are-online</id>
+    <content type="html"><![CDATA[<h2>ALL the slides</h2>
+
+<p>Hi there, we just pushed the slides of the second meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
+
+<h5>Andreas Kopecky on Sequel</h5>
+
+<h5>Sarah Howorka on the Rails Girls project and a bunch of other stuff</h5>
+
+<h5>Clemens Helm on the Codeship workflow</h5>
+
+<p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/111533282/">meetup</a> on June the 6th at Sektor5!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The slides of our second meetup are online]]></title>

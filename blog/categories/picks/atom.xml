@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-05-06T19:05:51+02:00</updated>
+  <updated>2013-05-10T16:22:38+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/05/08/picks/"/>
+    <updated>2013-05-08T13:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/05/08/picks</id>
+    <content type="html"><![CDATA[<h3>08/5 Picks!!</h3>
+
+<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fourth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://blog.codeship.io/2013/05/07/Testing-Tuesday-4-Continuous-Integration-and-Deployment-with-Cucumber.html">Testing Tuesday #4: Continuous Integration and Deployment with Cucumber</a> - <a href="http://codeship.io">codeship.io</a> has a great series testing and deployment you should follow.</li>
+<li><a href="http://blog.thefrontiergroup.com.au/2013/05/writing-a-good-readme/">Writing a good README</a> - Why a good README is important and a few tricks that help you with it.</li>
+<li><a href="http://samwho.co.uk/blog/2013/04/13/the-birth-and-death-of-a-running-program/">Birth and death of a running programm</a> - A deeper look on the lifecycle of a C program.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://thedailywtf.com/">The Daily WTF</a> - relax and laugh - or choke on the worst code you'll ever see.</li>
+<li><a href="https://www.relishapp.com/">Relish</a> - Living documentation (if you use cucumber). Including RSpec, cucumber, mongoid, diaspora et al.</li>
+<li><a href="https://github.com/drapergem/draper">Draper</a> - Decorators for Rails Applications</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://abangratz.github.io/blog/2013/04/28/git-eep-or-how-to-resolve-git-errors/">git eep</a> - Fellow vienna.rb'er Tony wrote some great stuff about how to deal with git on his 'blag'.</li>
+<li><a href="http://www.creativeapplications.net/objects/vincent-emily-two-robots-in-a-relationship-struggle-and-emotional-conflict/">Vincent &amp; Emily</a> - Modern day love story.</li>
+<li><a href="http://inventures.eu/compuritas">Compuritas</a> - This Austrian startup collects old hardware, repairs, reconditions it, and sells it to people who, otherwise, would not be able to afford it.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
