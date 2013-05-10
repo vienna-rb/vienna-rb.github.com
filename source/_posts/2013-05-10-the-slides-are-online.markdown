@@ -14,7 +14,6 @@ categories:
 
 Hi there, we just pushed the slides of the second meetup to our [repository][1]. Feel free to check them out. 
 
-#####David Österreicher about Runtastic (sponsor talk)
 #####Andreas Kopecky on Sequel
 #####Sarah Howorka on the Rails Girls project and a bunch of other stuff
 #####Clemens Helm on the Codeship workflow 
