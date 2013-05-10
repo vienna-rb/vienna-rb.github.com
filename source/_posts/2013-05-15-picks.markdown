@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Picks / what the vienna.rb team thinks is worth sharing this week"
+date: 2013-05-15 13:00
+published: false
+comments: true
+categories:
+  - picks
+---
+
+### 15/5 Picks!!
+
+In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fifth edition:
+
+##### [Andy][1]:
+  - [][2] - 
+  - [][3] - 
+  - [][4] - 
+
+##### [Tony][5]:
+  - [][6] - 
+  - [][7] - 
+  - [][8] - 
+
+##### [Floor][9]:
+  - [Eurucamp CFP][10] - Eurucamp's call for papers ends today at midnight. Make sure to sumbit a proposal!
+  - [GitHub Training in Non-Traditional Schools][11] - GitHub on how they support alternative models of training new programmers.
+  - [RailsConf 2013 Review][12] - A nice recap of this years RailsConf (Portland) by Rizwan Reza.
+
+
+[1]: http://www.twitter.com/pxlpnk
+[2]: 
+[3]: 
+[4]: 
+[5]: http://www.twitter.com/tony_xpro
+[6]: 
+[7]: 
+[8]: 
+[9]: http://www.twitter.com/floordrees
+[10]: http://cfp.eurucamp.org/
+[11]: https://github.com/blog/1500-github-training-in-non-traditional-schools
+[12]: https://medium.com/ruby-on-rails/6061138c2f70
+
