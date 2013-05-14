@@ -14,14 +14,16 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fifth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [][2] -
+  - [][3] -
+  - [][4] -
 
 ##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
+  - [git-scripts][6] - My own scripts that I use with git flow. Currently has one to delete merged branches
+	interactively or automatically. (Shameless self-plug :-P)
+  - [Something Completely Different][7] - Neil Gaiman Addresses the University of the Arts Class of 2012 (Phl). If you
+	are involved in any kind of creative processes, you should watch it.
+  - [Vimium][8] - The hacker's browser. Brings vim commands to Chromium/Chrome.
 
 ##### [Floor][9]:
   - [Eurucamp CFP][10] - Eurucamp's call for papers ends today at midnight. Make sure to sumbit a proposal!
@@ -30,13 +32,13 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]:
+[3]:
+[4]:
 [5]: http://www.twitter.com/tony_xpro
-[6]: 
-[7]: 
-[8]: 
+[6]: https://github.com/abangratz/git-scripts
+[7]: http://vimeo.com/42372767
+[8]: http://vimium.github.io/
 [9]: http://www.twitter.com/floordrees
 [10]: http://cfp.eurucamp.org/
 [11]: https://github.com/blog/1500-github-training-in-non-traditional-schools
