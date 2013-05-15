@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-05-10T16:22:38+02:00</updated>
+  <updated>2013-05-15T13:58:33+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/05/15/picks/"/>
+    <updated>2013-05-15T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/05/15/picks</id>
+    <content type="html"><![CDATA[<h3>15/5 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/abangratz/git-scripts">git-scripts</a> - My own scripts that I use with git flow. Currently has one to delete merged branches
+interactively or automatically. (Shameless self-plug :-P)</li>
+<li><a href="http://vimeo.com/42372767">Something Completely Different</a> - Neil Gaiman Addresses the University of the Arts Class of 2012 (Phl). If you
+are involved in any kind of creative processes, you should watch it.</li>
+<li><a href="http://vimium.github.io/">Vimium</a> - The hacker&#8217;s browser. Brings vim commands to Chromium/Chrome.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://cfp.eurucamp.org/">Eurucamp CFP</a> - Eurucamp&#8217;s call for papers ends today at midnight. Make sure to sumbit a proposal!</li>
+<li><a href="https://github.com/blog/1500-github-training-in-non-traditional-schools">GitHub Training in Non-Traditional Schools</a> - GitHub on how they support alternative models of training new programmers.</li>
+<li><a href="https://medium.com/ruby-on-rails/6061138c2f70">RailsConf 2013 Review</a> - A nice recap of this years RailsConf (Portland) by Rizwan Reza.</li>
+<li><a href="http://techiferous.com/2013/05/adding-tabs-to-your-rails-app-just-got-a-whole-lot-easier-with-tabulous-2/">Tabulous 2</a> - Adding tabs to your Rails app just got a whole lot easier</li>
+<li><a href="http://metro.co.uk/2012/12/18/the-it-crowd-set-for-return-in-2013-3320945/">Hello, IT, have you tried turning it off and on again?</a>] - The IT Crowd returns to Channel 4 for a final episode</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The slides of our third meetup are online]]></title>
