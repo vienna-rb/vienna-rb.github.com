@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
-date: 2013-05-15 13:00
-published: false
+date: 2013-05-15 14:00
+published: true
 comments: true
 categories:
   - picks
@@ -12,11 +12,6 @@ categories:
 
 In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fifth edition:
-
-##### [Andy][1]:
-  - [][2] -
-  - [][3] -
-  - [][4] -
 
 ##### [Tony][5]:
   - [git-scripts][6] - My own scripts that I use with git flow. Currently has one to delete merged branches
@@ -29,12 +24,12 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [Eurucamp CFP][10] - Eurucamp's call for papers ends today at midnight. Make sure to sumbit a proposal!
   - [GitHub Training in Non-Traditional Schools][11] - GitHub on how they support alternative models of training new programmers.
   - [RailsConf 2013 Review][12] - A nice recap of this years RailsConf (Portland) by Rizwan Reza.
+  - [Tabulous 2][2] - Adding tabs to your Rails app just got a whole lot easier 
+  - [Hello, IT, have you tried turning it off and on again?][3]] - The IT Crowd returns to Channel 4 for a final episode
 
 
-[1]: http://www.twitter.com/pxlpnk
-[2]:
-[3]:
-[4]:
+[2]: http://techiferous.com/2013/05/adding-tabs-to-your-rails-app-just-got-a-whole-lot-easier-with-tabulous-2/
+[3]: http://metro.co.uk/2012/12/18/the-it-crowd-set-for-return-in-2013-3320945/
 [5]: http://www.twitter.com/tony_xpro
 [6]: https://github.com/abangratz/git-scripts
 [7]: http://vimeo.com/42372767
