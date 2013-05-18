@@ -24,8 +24,8 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [][8] - 
 
 ##### [Floor][9]:
-  - [Tabulous 2][10] - Adding tabs to your Rails app just got a whole lot easier 
-  - [Hello, IT, have you tried turning it off and on again?][11]] - The IT Crowd returns to Channel 4 for a final episode
+  - [HTMLify][10] - Turn your code into pluggable HTML
+  - [][11]] - 
   - [][12] - 
 
 [1]: http://www.twitter.com/pxlpnk
@@ -37,7 +37,7 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [7]: 
 [8]: 
 [9]: http://www.twitter.com/floordrees
-[10]: http://techiferous.com/2013/05/adding-tabs-to-your-rails-app-just-got-a-whole-lot-easier-with-tabulous-2/
-[11]: http://metro.co.uk/2012/12/18/the-it-crowd-set-for-return-in-2013-3320945/
+[10]: http://www.htmlify.net/
+[11]: 
 [12]:
 
