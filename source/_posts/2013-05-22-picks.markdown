@@ -24,9 +24,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [][8] - 
 
 ##### [Floor][9]:
-  - [HTMLify][10] - Turn your code into pluggable HTML
-  - [][11]] - 
-  - [][12] - 
+  - [HTMLify][10] - Turn your code into pluggable HTML.
+  - [LearnStreet][11]] - If you'd care to refresh your JavaScript knowledge or - like yours truly - want to take Python for a spin. 
+  - [The Rails View][12] - As discussed in Ruby Rogues episode 104: The Rails View. On my birthday wishlist.  
 
 [1]: http://www.twitter.com/pxlpnk
 [2]: 
@@ -38,6 +38,7 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [8]: 
 [9]: http://www.twitter.com/floordrees
 [10]: http://www.htmlify.net/
-[11]: 
-[12]:
+[11]: http://blog.learnstreet.com/
+[12]: http://pragprog.com/book/warv/the-rails-view
+[13]: http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+RubyRogues+%28Ruby+Rogues%29
 
