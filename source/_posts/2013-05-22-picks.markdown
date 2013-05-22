@@ -14,31 +14,32 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fifth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [Git Tools - Debugging with Git][2] - Git helps finding the commit that broke your tests. Its like debugging on steroids
+  - [gti][3] - The [sl][14] for git.
+  - [equatable][4] - Allows ruby objects to implement equality comparison and inspection methods.
+
 
 ##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
+  - [][6] -
+  - [][7] -
+  - [][8] -
 
 ##### [Floor][9]:
   - [HTMLify][10] - Turn your code into pluggable HTML.
-  - [LearnStreet][11]] - If you'd care to refresh your JavaScript knowledge or - like yours truly - want to take Python for a spin. 
-  - [The Rails View][12] - As discussed in Ruby Rogues episode 104: The Rails View. On my birthday wishlist.  
+  - [LearnStreet][11]] - If you'd care to refresh your JavaScript knowledge or - like yours truly - want to take Python for a spin.
+  - [The Rails View][12] - As discussed in Ruby Rogues episode 104: The Rails View. On my birthday wishlist.
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]: http://git-scm.com/book/ch6-5.html
+[3]: http://r-wos.org/hacks/gti
+[4]: https://github.com/peter-murach/equatable
 [5]: http://www.twitter.com/tony_xpro
-[6]: 
-[7]: 
-[8]: 
+[6]:
+[7]:
+[8]:
 [9]: http://www.twitter.com/floordrees
 [10]: http://www.htmlify.net/
 [11]: http://blog.learnstreet.com/
 [12]: http://pragprog.com/book/warv/the-rails-view
 [13]: http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+RubyRogues+%28Ruby+Rogues%29
-
+[14]: http://man.cx/sl(6)
