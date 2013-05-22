@@ -2,7 +2,7 @@
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
 date: 2013-05-22 13:00
-published: false
+published: true
 comments: true
 categories:
   - picks
@@ -20,13 +20,13 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 
 ##### [Tony][5]:
-  - [][6] -
-  - [][7] -
-  - [][8] -
+  - [Crafting Rails 4 Applications][6] - Pragmatic Bookshelf beta: Expert Practices for Everyday Rails Development
+  - [Python 3 Metaprogramming (youtube)][7] - David Beazley gives a 3 hour live tutorial - informative and funny!
+  - [explain.depesz.com][8] - A tool for finding a real cause for slow queries. (for PostgreSQL, what else?)
 
 ##### [Floor][9]:
   - [HTMLify][10] - Turn your code into pluggable HTML.
-  - [LearnStreet][11]] - If you'd care to refresh your JavaScript knowledge or - like yours truly - want to take Python for a spin.
+  - [LearnStreet][11] - If you'd care to refresh your JavaScript knowledge or - like yours truly - want to take Python for a spin.
   - [The Rails View][12] - As discussed in Ruby Rogues episode 104: The Rails View. On my birthday wishlist.
 
 [1]: http://www.twitter.com/pxlpnk
@@ -34,9 +34,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [3]: http://r-wos.org/hacks/gti
 [4]: https://github.com/peter-murach/equatable
 [5]: http://www.twitter.com/tony_xpro
-[6]:
-[7]:
-[8]:
+[6]: http://pragprog.com/book/jvrails2/crafting-rails-4-applications
+[7]: http://www.youtube.com/watch?v=sPiWg5jSoZI
+[8]: http://explain.depesz.com/
 [9]: http://www.twitter.com/floordrees
 [10]: http://www.htmlify.net/
 [11]: http://blog.learnstreet.com/
