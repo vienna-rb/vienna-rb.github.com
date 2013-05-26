@@ -25,9 +25,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 
 ##### [Floor][9]:
-  - [content management with GitHub][10] - I wrote a little something to help group bloggers 'version control' their content with GitHub...
-  - [prose.io][11] - ... to make things less technical for those new to Git, @bastilian suggested using prose.io; 
-  - [draftin.com][12] - and @hannesfostie suggested draftin.com, version control for writing. 
+  - [content management with version control 1][10] - I wrote a little something to help group bloggers 'version control' their content with GitHub...
+  - [content management with version control 2][11] - ... and then I wrote a follow-up post, processing the feedback I got on Twitter and the likes.
+  - [mephisto][12] - Remember Mephisto, that blog engine based on Rails? It has been forked & revived by Sebastian Gräßl, so take a look!
 
 
 [1]: http://www.twitter.com/pxlpnk
@@ -40,6 +40,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [8]: 
 [9]: http://www.twitter.com/floordrees
 [10]: http://floordrees.tumblr.com/post/51063126651/using-github-for-your-news-platform-or-group-blog
-[11]: http://prose.io/
-[12]: http://draftin.com/
+[11]: http://floordrees.tumblr.com/post/51385017205/using-version-control-system-for-content-management-2
+[12]: https://github.com/bastilian/mephisto
 
