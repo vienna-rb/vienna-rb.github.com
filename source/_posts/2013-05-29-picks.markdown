@@ -14,14 +14,14 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the sixth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [Introduction to Randomness and Random Numbers][2] - A good read on why it is so hard to get a computer generate good random data.
+  - [Storm SSH][3] - A nifty tool that helps you organizing your SSH config.
+  - [Rails Girls summer of code ][4] - Support them as much as YOU can. It's a great and important project.
 
 ##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
+  - [][6] -
+  - [][7] -
+  - [][8] -
 
 
 ##### [Floor][9]:
@@ -31,15 +31,14 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]: http://www.random.org/randomness/
+[3]: https://github.com/emre/storm
+[4]: http://railsgirlssummerofcode.org/campaign/
 [5]: http://www.twitter.com/tony_xpro
-[6]: 
-[7]: 
-[8]: 
+[6]:
+[7]:
+[8]:
 [9]: http://www.twitter.com/floordrees
 [10]: http://floordrees.tumblr.com/post/51063126651/using-github-for-your-news-platform-or-group-blog
 [11]: http://floordrees.tumblr.com/post/51385017205/using-version-control-system-for-content-management-2
 [12]: https://github.com/bastilian/mephisto
-
