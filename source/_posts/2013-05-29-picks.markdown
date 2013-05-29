@@ -19,9 +19,8 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [Rails Girls summer of code ][4] - Support them as much as YOU can. It's a great and important project.
 
 ##### [Tony][5]:
-  - [][6] -
-  - [][7] -
-  - [][8] -
+  - [logstash][6] - a tool for managing events and logs. In JRuby!
+  - [The Principles of OOD][7] - Object Oriented Design. Uncle Bob Martin. 'nuff said.
 
 
 ##### [Floor][9]:
@@ -35,9 +34,8 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [3]: https://github.com/emre/storm
 [4]: http://railsgirlssummerofcode.org/campaign/
 [5]: http://www.twitter.com/tony_xpro
-[6]:
-[7]:
-[8]:
+[6]: http://logstash.net/
+[7]: http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
 [9]: http://www.twitter.com/floordrees
 [10]: http://floordrees.tumblr.com/post/51063126651/using-github-for-your-news-platform-or-group-blog
 [11]: http://floordrees.tumblr.com/post/51385017205/using-version-control-system-for-content-management-2
