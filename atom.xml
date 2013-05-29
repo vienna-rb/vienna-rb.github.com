@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-05-15T13:58:33+02:00</updated>
+  <updated>2013-05-29T15:22:39+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,121 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/05/29/picks/"/>
+    <updated>2013-05-29T14:50:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/05/29/picks</id>
+    <content type="html"><![CDATA[<h3>29/5 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://www.random.org/randomness/">Introduction to Randomness and Random Numbers</a> - A good read on why it is so hard to get a computer generate good random data.</li>
+<li><a href="https://github.com/emre/storm">Storm SSH</a> - A nifty tool that helps you organizing your SSH config.</li>
+<li><a href="http://railsgirlssummerofcode.org/campaign/">Rails Girls summer of code </a> - Support them as much as YOU can. It&#8217;s a great and important project.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://logstash.net/">logstash</a> - a tool for managing events and logs. In JRuby!</li>
+<li><a href="http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod">The Principles of OOD</a> - Object Oriented Design. Uncle Bob Martin. &#8216;nuff said.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://floordrees.tumblr.com/post/51063126651/using-github-for-your-news-platform-or-group-blog">content management with version control 1</a> - I wrote a little something to help group bloggers &#8216;version control&#8217; their content with GitHub&#8230;</li>
+<li><a href="http://floordrees.tumblr.com/post/51385017205/using-version-control-system-for-content-management-2">content management with version control 2</a> - &#8230; and then I wrote a follow-up post, processing the feedback I got on Twitter and the likes.</li>
+<li><a href="https://github.com/bastilian/mephisto">mephisto</a> - Remember Mephisto, that blog engine based on Rails? It has been forked &amp; revived by Sebastian Gräßl, so take a look!</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/05/29/picks/"/>
+    <updated>2013-05-29T14:50:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/05/29/picks</id>
+    <content type="html"><![CDATA[<h3>29/5 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://www.random.org/randomness/">Introduction to Randomness and Random Numbers</a> - A good read on why it is so hard to get a computer generate good random data.</li>
+<li><a href="https://github.com/emre/storm">Storm SSH</a> - A nifty tool that helps you organizing your SSH config.</li>
+<li><a href="http://railsgirlssummerofcode.org/campaign/">Rails Girls summer of code </a> - Support them as much as YOU can. It&#8217;s a great and important project.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://logstash.net/">logstash</a> - a tool for managing events and logs. In JRuby!</li>
+<li><a href="http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod">The Principles of OOD</a> - Object Oriented Design. Uncle Bob Martin. &#8216;nuff said.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://floordrees.tumblr.com/post/51063126651/using-github-for-your-news-platform-or-group-blog">content management with version control 1</a> - I wrote a little something to help group bloggers &#8216;version control&#8217; their content with GitHub&#8230;</li>
+<li><a href="http://floordrees.tumblr.com/post/51385017205/using-version-control-system-for-content-management-2">content management with version control 2</a> - &#8230; and then I wrote a follow-up post, processing the feedback I got on Twitter and the likes.</li>
+<li><a href="https://github.com/bastilian/mephisto">mephisto</a> - Remember Mephisto, that blog engine based on Rails? It has been forked &amp; revived by Sebastian Gräßl, so take a look!</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/05/22/picks/"/>
+    <updated>2013-05-22T13:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/05/22/picks</id>
+    <content type="html"><![CDATA[<h3>22/5 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://git-scm.com/book/ch6-5.html">Git Tools - Debugging with Git</a> - Git helps finding the commit that broke your tests. Its like debugging on steroids</li>
+<li><a href="http://r-wos.org/hacks/gti">gti</a> - The <a href="http://man.cx/sl(6)">sl</a> for git.</li>
+<li><a href="https://github.com/peter-murach/equatable">equatable</a> - Allows ruby objects to implement equality comparison and inspection methods.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://pragprog.com/book/jvrails2/crafting-rails-4-applications">Crafting Rails 4 Applications</a> - Pragmatic Bookshelf beta: Expert Practices for Everyday Rails Development</li>
+<li><a href="http://www.youtube.com/watch?v=sPiWg5jSoZI">Python 3 Metaprogramming (youtube)</a> - David Beazley gives a 3 hour live tutorial - informative and funny!</li>
+<li><a href="http://explain.depesz.com/">explain.depesz.com</a> - A tool for finding a real cause for slow queries. (for PostgreSQL, what else?)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.htmlify.net/">HTMLify</a> - Turn your code into pluggable HTML.</li>
+<li><a href="http://blog.learnstreet.com/">LearnStreet</a> - If you&#8217;d care to refresh your JavaScript knowledge or - like yours truly - want to take Python for a spin.</li>
+<li><a href="http://pragprog.com/book/warv/the-rails-view">The Rails View</a> - As discussed in Ruby Rogues episode 104: The Rails View. On my birthday wishlist.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
