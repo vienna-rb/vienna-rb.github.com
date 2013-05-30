@@ -1,16 +1,17 @@
 ---
 layout: page
 title: "about"
-date: 2013-02-13 14:15
+date: 2013-05-30 16:04
 comments: true
 sharing: true
+author: at
 footer: true
 ---
 {% codeblock about-vienna.rb lang:ruby %}
 require 'uri'
 class Vienna
   def contact
-    "@viennarb"
+    "hello@vienna-rb.at"
   end
 
   def where?
@@ -19,11 +20,11 @@ class Vienna
   end
 
   def when?
-    Time.new(2013,5,9, 18,00,0, "+01:00")
+    Time.new(2013,6,6, 18,00,0, "+01:00")
   end
 
   def what_and_why?
-    URI("http://www.meetup.com/vienna-rb/events/102695522/")
+    URI("http://www.meetup.com/vienna-rb/events/111533282/")
   end
 
   def who?
@@ -40,7 +41,7 @@ class Vienna
 
 
   def version
-    "v0.0.3 - 2013-03-27 19:39"
+    "v0.0.4 - 2013-05-30 16:04"
   end
 end
 {% endcodeblock %}
