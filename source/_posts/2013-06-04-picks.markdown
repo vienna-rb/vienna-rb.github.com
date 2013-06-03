@@ -24,9 +24,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [][8] -
 
 ##### [Floor][9]:
-  - [][10] - 
-  - [][11] - 
-  - [][12] -
+  - [E.V.E.][10] - E.V.E. is a Star Trek / Jarvis type computer written in Python. Run the program, and E.V.E. will activate whenever you say "okay computer," after which you can ask it a question / command. 
+  - [GitLab Summer of Code][11] - GitLab (the open source alternative to GitHub) is a Google Summer of Code project.
+  - [PyLadies Vienna][12] - As one of the co-organizers of PyLadies Vienna I can't help but promote our beginners course to Python. Spread the word!
 
 [1]: http://www.twitter.com/pxlpnk
 [2]: 
@@ -37,6 +37,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [7]: 
 [8]:
 [9]: http://www.twitter.com/floordrees
-[10]: 
-[11]: 
-[12]: 
+[10]: https://github.com/thomasweng15/E.V.E.
+[11]: http://blog.gitlab.org/packaging-gitlab-for-fedora-a-gsoc-2013-project/
+[12]: http://www.meetup.com/PyLadies-Vienna/events/108443152/
