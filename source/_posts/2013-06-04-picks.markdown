@@ -14,27 +14,27 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the seventh edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [How Go uses Go to build itself][2] - I am always fascinated when a programming language can compile or interpret itself.
+  - [Afraid of the big nasty gem?][3] - Ever thought about evil code in a RubyGem you use? Or how can I trust software of 3rd parties?
+  - [http://ascii.io/][4] - ascii.io is a neat tool to make command-line based screencasts, where you even can copy and paste the text.
 
 ##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
+  - [][6] -
+  - [][7] -
   - [][8] -
 
 ##### [Floor][9]:
-  - [E.V.E.][10] - E.V.E. is a Star Trek / Jarvis type computer written in Python. Run the program, and E.V.E. will activate whenever you say "okay computer," after which you can ask it a question / command. 
+  - [E.V.E.][10] - E.V.E. is a Star Trek / Jarvis type computer written in Python. Run the program, and E.V.E. will activate whenever you say "okay computer," after which you can ask it a question / command.
   - [GitLab Summer of Code][11] - GitLab (the open source alternative to GitHub) is a Google Summer of Code project.
   - [PyLadies Vienna][12] - As one of the co-organizers of PyLadies Vienna I can't help but promote our beginners course to Python. Spread the word!
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]: http://dave.cheney.net/2013/06/04/how-go-uses-go-to-build-itself
+[3]: https://discuss.gemnasium.com/t/afraid-of-the-big-nasty-gem/24
+[4]: http://ascii.io/
 [5]: http://www.twitter.com/tony_xpro
-[6]: 
-[7]: 
+[6]:
+[7]:
 [8]:
 [9]: http://www.twitter.com/floordrees
 [10]: https://github.com/thomasweng15/E.V.E.
