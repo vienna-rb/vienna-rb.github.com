@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-05-29T15:22:39+02:00</updated>
+  <updated>2013-06-05T16:39:18+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -15,37 +15,30 @@
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/05/29/picks/"/>
-    <updated>2013-05-29T14:50:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/05/29/picks</id>
-    <content type="html"><![CDATA[<h3>29/5 Picks!!</h3>
+    <link href="http://vienna-rb.at/blog/2013/06/04/picks/"/>
+    <updated>2013-06-04T16:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/06/04/picks</id>
+    <content type="html"><![CDATA[<h3>4/6 Picks!!</h3>
 
 <p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the sixth edition:</p>
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the seventh edition:</p>
 
 <h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
 
 <ul>
-<li><a href="http://www.random.org/randomness/">Introduction to Randomness and Random Numbers</a> - A good read on why it is so hard to get a computer generate good random data.</li>
-<li><a href="https://github.com/emre/storm">Storm SSH</a> - A nifty tool that helps you organizing your SSH config.</li>
-<li><a href="http://railsgirlssummerofcode.org/campaign/">Rails Girls summer of code </a> - Support them as much as YOU can. It's a great and important project.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="http://logstash.net/">logstash</a> - a tool for managing events and logs. In JRuby!</li>
-<li><a href="http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod">The Principles of OOD</a> - Object Oriented Design. Uncle Bob Martin. 'nuff said.</li>
+<li><a href="http://dave.cheney.net/2013/06/04/how-go-uses-go-to-build-itself">How Go uses Go to build itself</a> - I am always fascinated when a programming language can compile or interpret itself.</li>
+<li><a href="https://discuss.gemnasium.com/t/afraid-of-the-big-nasty-gem/24">Afraid of the big nasty gem?</a> - Ever thought about evil code in a RubyGem you use? Or how can I trust software of 3rd parties?</li>
+<li><a href="http://ascii.io/">http://ascii.io/</a> - ascii.io is a neat tool to make command-line based screencasts, where you even can copy and paste the text.</li>
 </ul>
 
 
 <h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
 
 <ul>
-<li><a href="http://floordrees.tumblr.com/post/51063126651/using-github-for-your-news-platform-or-group-blog">content management with version control 1</a> - I wrote a little something to help group bloggers 'version control' their content with GitHub...</li>
-<li><a href="http://floordrees.tumblr.com/post/51385017205/using-version-control-system-for-content-management-2">content management with version control 2</a> - ... and then I wrote a follow-up post, processing the feedback I got on Twitter and the likes.</li>
-<li><a href="https://github.com/bastilian/mephisto">mephisto</a> - Remember Mephisto, that blog engine based on Rails? It has been forked &amp; revived by Sebastian Gräßl, so take a look!</li>
+<li><a href="https://github.com/thomasweng15/E.V.E.">E.V.E.</a> - E.V.E. is a Star Trek / Jarvis type computer written in Python. Run the program, and E.V.E. will activate whenever you say "okay computer," after which you can ask it a question / command.</li>
+<li><a href="http://blog.gitlab.org/packaging-gitlab-for-fedora-a-gsoc-2013-project/">GitLab Summer of Code</a> - GitLab (the open source alternative to GitHub) is a Google Summer of Code project.</li>
+<li><a href="http://www.meetup.com/PyLadies-Vienna/events/108443152/">PyLadies Vienna</a> - As one of the co-organizers of PyLadies Vienna I can't help but promote our beginners course to Python. Spread the word!</li>
+<li><a href="http://www.reddit.com/r/AskReddit/comments/1f607z/owners_of_a_raspberry_pi_what_do_you_use_it_for">Raspberry Pi</a> - Learn what other people use their Raspberry Pi for!</li>
 </ul>
 
 ]]></content>
