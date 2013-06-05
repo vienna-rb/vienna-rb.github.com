@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
-date: 2013-06-04 14:00
-published: false
+date: 2013-06-04 16:00
+published: true
 comments: true
 categories:
   - picks
@@ -18,25 +18,19 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [Afraid of the big nasty gem?][3] - Ever thought about evil code in a RubyGem you use? Or how can I trust software of 3rd parties?
   - [http://ascii.io/][4] - ascii.io is a neat tool to make command-line based screencasts, where you even can copy and paste the text.
 
-##### [Tony][5]:
-  - [][6] -
-  - [][7] -
-  - [][8] -
-
 ##### [Floor][9]:
   - [E.V.E.][10] - E.V.E. is a Star Trek / Jarvis type computer written in Python. Run the program, and E.V.E. will activate whenever you say "okay computer," after which you can ask it a question / command.
   - [GitLab Summer of Code][11] - GitLab (the open source alternative to GitHub) is a Google Summer of Code project.
   - [PyLadies Vienna][12] - As one of the co-organizers of PyLadies Vienna I can't help but promote our beginners course to Python. Spread the word!
+  - [Raspberry Pi][13] - Learn what other people use their Raspberry Pi for!
 
 [1]: http://www.twitter.com/pxlpnk
 [2]: http://dave.cheney.net/2013/06/04/how-go-uses-go-to-build-itself
 [3]: https://discuss.gemnasium.com/t/afraid-of-the-big-nasty-gem/24
 [4]: http://ascii.io/
 [5]: http://www.twitter.com/tony_xpro
-[6]:
-[7]:
-[8]:
 [9]: http://www.twitter.com/floordrees
 [10]: https://github.com/thomasweng15/E.V.E.
 [11]: http://blog.gitlab.org/packaging-gitlab-for-fedora-a-gsoc-2013-project/
 [12]: http://www.meetup.com/PyLadies-Vienna/events/108443152/
+[13]: http://www.reddit.com/r/AskReddit/comments/1f607z/owners_of_a_raspberry_pi_what_do_you_use_it_for
