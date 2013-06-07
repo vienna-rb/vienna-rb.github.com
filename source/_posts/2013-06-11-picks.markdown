@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Picks / what the vienna.rb team thinks is worth sharing this week"
+date: 2013-06-11 13:00
+published: false
+comments: true
+categories:
+  - picks
+---
+
+### 11/6 Picks!!
+
+In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the eight' edition:
+
+##### [Andy][1]:
+  - [][2] - 
+  - [][3] - 
+  - [][4] - 
+
+##### [Tony][5]:
+  - [][6] - 
+  - [][7] - 
+  - [][8] - 
+
+##### [Floor][9]:
+  - [git log][10] - Bored and tired of the old git log screen? Try this.
+  - [geo-bootstrap][11] - My new favorite CSS bootstrapper: it has comic sans, funky colors and MC Hammer.
+  - [Office Pi][12] - GoCardless cooked up a fancy Office Dashboard Pi.
+
+
+[1]: http://www.twitter.com/pxlpnk
+[2]: 
+[3]: 
+[4]: 
+[5]: http://www.twitter.com/tony_xpro
+[6]:
+[7]
+[8]
+[9]: http://www.twitter.com/floordrees
+[10]: https://coderwall.com/p/euwpig
+[11]: http://divshot.github.io/geo-bootstrap/
+[12]: https://gocardless.com/blog/raspberry-pi-metric-dashboards/
