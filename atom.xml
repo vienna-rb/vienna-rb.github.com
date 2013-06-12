@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-06-05T16:39:18+02:00</updated>
+  <updated>2013-06-12T16:49:47+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/06/11/picks/"/>
+    <updated>2013-06-11T16:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/06/11/picks</id>
+    <content type="html"><![CDATA[<h3>11/6 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://wiki.postgresql.org/wiki/What%27s_new_in_PostgreSQL_9.3">PostgreSQL 9.3: What&#8217;s new</a> - Beta information about the Best RDBMS Ever&trade;</li>
+<li><a href="https://plus.google.com/+GeorgeTakei/posts">Best Google+ Profile Ever</a> - Support the <a href="http://oktobetakei.spreadshirt.com/t-s-a-takei-straight-alliance-C114867">T.S.A.</a>!</li>
+<li><a href="http://www.pairprogramwith.me/">For More Pair Programming</a> - Get support for your project.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://coderwall.com/p/euwpig">git log</a> - Bored and tired of the old git log screen? Try this.</li>
+<li><a href="http://divshot.github.io/geo-bootstrap/">geo-bootstrap</a> - My new favorite CSS bootstrapper: it has comic sans, funky colors and MC Hammer.</li>
+<li><a href="https://gocardless.com/blog/raspberry-pi-metric-dashboards/">Office Pi</a> - GoCardless cooked up a fancy Office Dashboard Pi.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
