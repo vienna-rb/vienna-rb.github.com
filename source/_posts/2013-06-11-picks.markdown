@@ -14,14 +14,14 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the eight' edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [][2] -
+  - [][3] -
+  - [][4] -
 
 ##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
+  - [PostgreSQL 9.3: What's new][6] - Beta information about the Best RDBMS Ever&trade;
+  - [Best Google+ Profile Ever][7] - Support the [T.S.A.](http://oktobetakei.spreadshirt.com/t-s-a-takei-straight-alliance-C114867)!
+  - [For More Pair Programming][8] - Get support for your project
 
 ##### [Floor][9]:
   - [git log][10] - Bored and tired of the old git log screen? Try this.
@@ -30,13 +30,13 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]:
+[3]:
+[4]:
 [5]: http://www.twitter.com/tony_xpro
-[6]:
-[7]
-[8]
+[6]: http://wiki.postgresql.org/wiki/What%27s_new_in_PostgreSQL_9.3
+[7]: https://plus.google.com/+GeorgeTakei/posts
+[8]: http://www.pairprogramwith.me/
 [9]: http://www.twitter.com/floordrees
 [10]: https://coderwall.com/p/euwpig
 [11]: http://divshot.github.io/geo-bootstrap/
