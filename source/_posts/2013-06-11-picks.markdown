@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
-date: 2013-06-11 13:00
-published: false
+date: 2013-06-11 16:00
+published: true
 comments: true
 categories:
   - picks
@@ -11,28 +11,19 @@ categories:
 ### 11/6 Picks!!
 
 In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the eight' edition:
-
-##### [Andy][1]:
-  - [][2] -
-  - [][3] -
-  - [][4] -
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the eighth edition:
 
 ##### [Tony][5]:
   - [PostgreSQL 9.3: What's new][6] - Beta information about the Best RDBMS Ever&trade;
-  - [Best Google+ Profile Ever][7] - Support the [T.S.A.](http://oktobetakei.spreadshirt.com/t-s-a-takei-straight-alliance-C114867)!
-  - [For More Pair Programming][8] - Get support for your project
+  - [Best Google+ Profile Ever][7] - Support the [T.S.A.][4]!
+  - [For More Pair Programming][8] - Get support for your project.
 
 ##### [Floor][9]:
   - [git log][10] - Bored and tired of the old git log screen? Try this.
   - [geo-bootstrap][11] - My new favorite CSS bootstrapper: it has comic sans, funky colors and MC Hammer.
   - [Office Pi][12] - GoCardless cooked up a fancy Office Dashboard Pi.
 
-
-[1]: http://www.twitter.com/pxlpnk
-[2]:
-[3]:
-[4]:
+[4]: http://oktobetakei.spreadshirt.com/t-s-a-takei-straight-alliance-C114867
 [5]: http://www.twitter.com/tony_xpro
 [6]: http://wiki.postgresql.org/wiki/What%27s_new_in_PostgreSQL_9.3
 [7]: https://plus.google.com/+GeorgeTakei/posts
