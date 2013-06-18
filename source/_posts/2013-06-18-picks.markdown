@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
-date: 2013-06-18 13:00
+date: 2013-06-19 13:00
 published: false
 comments: true
 categories:
   - picks
 ---
 
-### 18/6 Picks!!
+### 19/6 Picks!!
 
 In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the ninth edition:
@@ -38,6 +38,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [7]
 [8]
 [9]: http://www.twitter.com/floordrees
-[10]: http://www.floordrees.tumblr.com
+[10]: http://floordrees.tumblr.com/post/53059312740/crash-course-to-svn-for-former-git-users
 [11]: http://www.versioneye.com/
 [12]: https://github.com/eric1234/gist-dep
