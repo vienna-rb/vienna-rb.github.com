@@ -14,14 +14,14 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the ninth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [A Short Story on Human Error][2] - There is no single root cause or the further back you go in time, the more reasons you'll find that there's a tangled web of lots of little causes, that again have their own causes.
+  - [Your top 100 unix commands, for science!][3] - Contribute your daily used Unix commands.
+  - [Rapid Web Development in the Browser using Espresso][4] - Interesting and fast way to push out a prototype.
 
 ##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
+  - [][6] -
+  - [][7] -
+  - [][8] -
 
 ##### [Floor][9]:
   - [svn-git][10] - crash course to svn for (former) git users, written by yours truly.
@@ -30,9 +30,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]: http://www.paperplanes.de/2013/6/17/a-short-story-on-human-error.html
+[3]: https://docs.google.com/forms/d/1XNMoSdfYFe_WkPfU--M88oL00PDLIOAo1HxjhZvZYJ4/viewform?pli=1
+[4]: http://mherman.org/blog/2013/06/13/up-and-running-with-espresso-rapid-web-development-in-the-browser/
 [5]: http://www.twitter.com/tony_xpro
 [6]:
 [7]
