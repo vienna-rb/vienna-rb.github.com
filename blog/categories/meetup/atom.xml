@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetup | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/meetup/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-06-19T12:57:49+02:00</updated>
+  <updated>2013-06-20T17:38:10+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fifth meetup is Testing and Continuous Deployment themed]]></title>
+    <link href="http://vienna-rb.at/blog/2013/06/20/fifth-meetup-sponsored-by-codeship/"/>
+    <updated>2013-06-20T12:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/06/20/fifth-meetup-sponsored-by-codeship</id>
+    <content type="html"><![CDATA[<h3>Codeship.io sponsors vienna.rb user group get-together</h3>
+
+<p>The vienna.rb organizing team can't wait for their next developer get-together, taking place Thursday, July 18 at co-working space <a href="http://sektor5.at/">Sektor5</a> (Siebenbrunnengasse 44, Vienna).</p>
+
+<p>The meetup is sponsored by <a href="http://www.codeship.io/">Codeship</a>. Manuel Weiss, cofounder of Codeship, on why they support vienna.rb:
+<blockquote><p>We love what vienna.rb is doing and want to start giving back to the city and people who have given us so much.</p><footer><strong>Codeship</strong></footer></blockquote></p>
+
+<p>The vienna.rb team is collecting topics for lightning talks from their community. The topics so far - Making your tests faster; Continuous Deployment; Building and distributing virtualized development environments - make for an interesting evening of knowledge exchanging and networking. A little time is always reserved for spontaneous lightning talks from the attendees.</p>
+
+<p>Vienna.rb meetups are open to both experienced Ruby developers and people that are new to programming.</p>
+
+<p>For more information regarding the program and more upcoming events, please visit <a href="http://meetup.com/vienna-rb">vienna.rb on meetup</a> or follow <a href="https://twitter.com/viennarb">@viennarb</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The slides of our fourth meetup are online]]></title>
+    <link href="http://vienna-rb.at/blog/2013/06/07/slides-4th-meetup-online/"/>
+    <updated>2013-06-07T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/06/07/slides-4th-meetup-online</id>
+    <content type="html"><![CDATA[<h2>Brace yourselves, the slides are coming</h2>
+
+<p>Hi there, we just pushed the slides of the fourth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
+
+<h5>Markus Prinz - 10 things you didn't know about Postgres</h5>
+
+<h5>Martin Natano - Implementing git-orm</h5>
+
+<h5>Gerald Bauer - Using Markdown for building books, websites or presentations</h5>
+
+<p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/111534092/">meetup</a>, July 18 at Sektor5!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The slides of our third meetup are online]]></title>
@@ -69,48 +108,6 @@ Vienna.rb meetups are open to both experienced Ruby developers and people that a
 <h5>Anton Bangratz opened up his big o' bag of tricks</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/102695522/">meetup</a> on May the 9th at Sektor5!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The slides of our first meetup are online]]></title>
-    <link href="http://vienna-rb.at/blog/2013/03/26/the-slides-of-our-first-meetup-are-online/"/>
-    <updated>2013-03-26T22:54:00+01:00</updated>
-    <id>http://vienna-rb.at/blog/2013/03/26/the-slides-of-our-first-meetup-are-online</id>
-    <content type="html"><![CDATA[<h2>Slides slides slides</h2>
-
-<p>Hey there folks, we just pushed the slides of our very first meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out even if you weren't there. If you like what you see, join us for our next <a href="http://www.meetup.com/vienna-rb/events/102695402/">meetup</a> on April the 12th at Sektor 5.</p>
-
-<p>In the future we plan to collect and publish the slides so you won't miss anything if you can't make it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rubyslava #26 - Ruby Meet Up in Bratislava]]></title>
-    <link href="http://vienna-rb.at/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava/"/>
-    <updated>2013-03-22T18:42:00+01:00</updated>
-    <id>http://vienna-rb.at/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava</id>
-    <content type="html"><![CDATA[<h2>Dobrý večer - good evening!</h2>
-
-<p>Last week, Andy (<a href="https:/twitter.com/pxlpnk">@pxlpnk</a>) and me decided to visit the Rubyslava event - because <a href="/blog/2013/02/14/vienna-dot-rb-brings-rubyists-together/">they already visited and helped to start off the first vienna.rb meetup</a> - and we wanted to return the favour. Yes, and we are actually both extremely curious and wanted to learn some things first hand.</p>
-
-<p>After a short train and bus ride we reached our destination, the <a href="https://www.facebook.com/pages/Kaf%C3%A9-Nervosa/194088387296884">Kafé Nervosa</a>. As a location, I found it very much to my liking: pizza, beer, a beamer and a PA system. When we arrived, it was already well filled with people, and they still kept on coming in. Later we would learn that this was a record breaking evening in that regard.</p>
-
-<p>For starting off, we were treated with an interesting overview of techniques and tools that help you <strong>saving time</strong>, presented by <a href="https://twitter.com/milan_novota">Milan Novota</a> of <a href="http://subteca.com/">Subteca</a>. Interestingly enough, the slides were in english, but the talk wasn't - I could follow it, though, even if we weren't really reacting appropriately to certain questions for the audience. And Milan, I know you weren't aware that the two of us weren't able to follow every word, the apology really wasn't necessary. I enjoyed the fact that a lot of the stuff presented (like the pomodoro technique, tmux, zsh, tdd, git, ...) is already part of our work repertoire. The short chat afterwards was also really interesting and enlightening, and I would love to support any effort of teaching more people stuff that I know.</p>
-
-<p>Oh, and thanks for the free beer :)</p>
-
-<p>The next talk was really interesting for me personally - Ján Lunter of Innovatrics presented interesting ways of using Ruby/RoR in a non-standard way - in embedded systems, gathering and comparing biometric data. I got that having such a huge framework running on a PC or Intel Server is quite different to having it running on a small ARM based appliance. Kudos for sailing those rough waters and succeeding!</p>
-
-<p>It didn't stop there at all, though. The next topic was presented by <a href="https://twitter.com/petrbela">Petr Bela</a>: a short introduction to <a href="http://angularjs.org/">AngularJS</a> and how it is being used to power <a href="http://www.kdyjedes.cz/">Kdyjedeš</a>. Petr, sorry for springing a slew on questions of you immediately - and then again in the horrible mix of dialects I use to sprinkle my English violently with. And thanks for your patience with me - I got a good idea what I will use AngularJS for soon. I will definitely try it, and the other things you presented.</p>
-
-<p>After those presentations, we had a lot of fun talking to people about various aspects of ruby, RoR and related topics. And had a second beer. Maybe a third ...</p>
-
-<p>It was a pity that we had to leave then to catch the train back to Vienna in time. And while I can not promise that I will visit every time, I definitely will come over every once in a while, to meet, greet and learn.</p>
-
-<p>Thanks for having us!</p>
-
-<p>Andy &amp; tony</p>
 ]]></content>
   </entry>
   

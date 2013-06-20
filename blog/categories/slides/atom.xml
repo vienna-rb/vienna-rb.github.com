@@ -4,7 +4,7 @@
   <title><![CDATA[Category: slides | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/slides/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-06-19T12:57:49+02:00</updated>
+  <updated>2013-06-20T17:38:10+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The slides of our fourth meetup are online]]></title>
+    <link href="http://vienna-rb.at/blog/2013/06/07/slides-4th-meetup-online/"/>
+    <updated>2013-06-07T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/06/07/slides-4th-meetup-online</id>
+    <content type="html"><![CDATA[<h2>Brace yourselves, the slides are coming</h2>
+
+<p>Hi there, we just pushed the slides of the fourth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
+
+<h5>Markus Prinz - 10 things you didn't know about Postgres</h5>
+
+<h5>Martin Natano - Implementing git-orm</h5>
+
+<h5>Gerald Bauer - Using Markdown for building books, websites or presentations</h5>
+
+<p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/111534092/">meetup</a>, July 18 at Sektor5!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The slides of our third meetup are online]]></title>
