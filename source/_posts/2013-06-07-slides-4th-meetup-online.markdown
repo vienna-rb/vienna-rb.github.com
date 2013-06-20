@@ -3,7 +3,7 @@ layout: post
 title: "The slides of our fourth meetup are online"
 date: 2013-06-07 14:00
 comments: true
-published: false
+published: true
 author: "Floor Drees (@floordrees)"
 categories:
         - slides
