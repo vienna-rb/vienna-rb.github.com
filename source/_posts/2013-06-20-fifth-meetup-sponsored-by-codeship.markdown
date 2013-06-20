@@ -12,7 +12,7 @@ categories:
 
 The vienna.rb organizing team can't wait for their next developer get-together, taking place Thursday, July 18 at co-working space [Sektor5][1] (Siebenbrunnengasse 44, Vienna). 
 
-The meetup is sponsored by [Codeship][2]. Manuel Weiss, co-founder and COO on why Codeship supports vienna.rb:
+The meetup is sponsored by [Codeship][2]. Manuel Weiss, cofounder of Codeship, on why they support vienna.rb:
 {%blockquote Codeship %}
 We love what vienna.rb is doing and want to start giving back to the city and people who have given us so much. 
 {%endblockquote%}

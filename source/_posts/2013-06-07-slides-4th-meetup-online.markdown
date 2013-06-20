@@ -19,7 +19,7 @@ Hi there, we just pushed the slides of the fourth meetup to our [repository][1].
 #####Martin Natano - Implementing git-orm
 #####Gerald Bauer - Using Markdown for building books, websites or presentations 
 
-Like what you see? Join us for our next [meetup][2], July 11 at Sektor5!
+Like what you see? Join us for our next [meetup][2], July 18 at Sektor5!
 
 
 [1]: https://github.com/vienna-rb/slides
