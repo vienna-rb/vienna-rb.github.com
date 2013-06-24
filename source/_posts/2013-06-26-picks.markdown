@@ -24,9 +24,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [][8] - 
 
 ##### [Floor][9]:
-  - [][10] - Let's change something
-  - [][11] - 
-  - [][12] - 
+  - [GitHub Similar Repositories][10] - Great Google Chrome add-on, that helps you discover & upvote similar git repos on GitHub.
+  - [Teach Like You Don’t Know][11] - A 'serial beginner' on how teachers can’t relate to their students because they know too much. Good read!
+  - [deploy via Git][12] - Straight-forward walkthrough deploying via Git.
 
 [1]: http://www.twitter.com/pxlpnk
 [2]: 
@@ -37,6 +37,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [7]: 
 [8]: 
 [9]: http://www.twitter.com/floordrees
-[10]: 
-[11]: 
-[12]: 
+[10]: https://chrome.google.com/webstore/detail/github-similar-repositori/ilohmipmgoellpajalkccofkgdheomfh
+[11]: http://desmondrawls.com/2013/06/20/teach-like-you-dont-know/
+[12]: https://coderwall.com/p/xczkaq?&p=1&q=
