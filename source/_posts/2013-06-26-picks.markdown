@@ -14,14 +14,14 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the tenth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [Performance Optimization With Pry-debugger][2] - A nice introduction to the Pry-debugger
+  - [The Boy Who Loved Math][3] - The Improbable Life of Paul Erdös. A cute book for kids.
+  - [Where everyday is Caturday][4] - Need a nice kitten as a placeholder? Or just a random kitten for your chatbot?
 
 ##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
+  - [][6] -
+  - [][7] -
+  - [][8] -
 
 ##### [Floor][9]:
   - [GitHub Similar Repositories][10] - Great Google Chrome add-on, that helps you discover & upvote similar git repos on GitHub.
@@ -29,13 +29,13 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [deploy via Git][12] - Straight-forward walkthrough deploying via Git.
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]: http://wimdu.github.io/blog/2013/06/24/performance-optimization-with-pry-debugger/
+[3]: http://deborahheiligman.com/books/the-boy-who-loved-math/
+[4]: http://thecatapi.com/
 [5]: http://www.twitter.com/tony_xpro
-[6]: 
-[7]: 
-[8]: 
+[6]:
+[7]:
+[8]:
 [9]: http://www.twitter.com/floordrees
 [10]: https://chrome.google.com/webstore/detail/github-similar-repositori/ilohmipmgoellpajalkccofkgdheomfh
 [11]: http://desmondrawls.com/2013/06/20/teach-like-you-dont-know/
