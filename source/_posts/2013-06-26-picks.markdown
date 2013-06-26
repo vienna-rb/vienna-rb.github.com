@@ -18,10 +18,10 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [The Boy Who Loved Math][3] - The Improbable Life of Paul Erdös. A cute book for kids.
   - [Where everyday is Caturday][4] - Need a nice kitten as a placeholder? Or just a random kitten for your chatbot?
 
-##### [Tony][5]:
-  - [][6] -
-  - [][7] -
-  - [][8] -
+##### [Tony][5]: (with support from [@fadr][13])
+  - [Rails 4.0][6] - Final version released!
+  - [Vertical Centering with CSS][7] - Huge guide, nice explanation of the css methods used.
+  - [Responsive Patterns][8] - Interesting approach for designs that change with media sizes.
 
 ##### [Floor][9]:
   - [GitHub Similar Repositories][10] - Great Google Chrome add-on, that helps you discover & upvote similar git repos on GitHub.
@@ -33,10 +33,11 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [3]: http://deborahheiligman.com/books/the-boy-who-loved-math/
 [4]: http://thecatapi.com/
 [5]: http://www.twitter.com/tony_xpro
-[6]:
-[7]:
-[8]:
+[6]: http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/
+[7]: http://www.vanseodesign.com/css/vertical-centering/
+[8]: http://bradfrost.github.io/this-is-responsive/patterns.html
 [9]: http://www.twitter.com/floordrees
 [10]: https://chrome.google.com/webstore/detail/github-similar-repositori/ilohmipmgoellpajalkccofkgdheomfh
 [11]: http://desmondrawls.com/2013/06/20/teach-like-you-dont-know/
 [12]: https://coderwall.com/p/xczkaq?&p=1&q=
+[13]: https://www.twitter.com/fadr
