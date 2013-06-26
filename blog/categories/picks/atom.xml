@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-06-26T15:24:14+02:00</updated>
+  <updated>2013-06-26T15:26:05+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/06/26/picks/"/>
+    <updated>2013-06-26T13:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/06/26/picks</id>
+    <content type="html"><![CDATA[<h3>26/6 Picks!!</h3>
+
+<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the tenth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://wimdu.github.io/blog/2013/06/24/performance-optimization-with-pry-debugger/">Performance Optimization With Pry-debugger</a> - A nice introduction to the Pry-debugger</li>
+<li><a href="http://deborahheiligman.com/books/the-boy-who-loved-math/">The Boy Who Loved Math</a> - The Improbable Life of Paul Erdös. A cute book for kids.</li>
+<li><a href="http://thecatapi.com/">Where everyday is Caturday</a> - Need a nice kitten as a placeholder? Or just a random kitten for your chatbot?</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>: (with support from <a href="https://www.twitter.com/fadr">@fadr</a>)</h5>
+
+<ul>
+<li><a href="http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/">Rails 4.0</a> - Final version released!</li>
+<li><a href="http://www.vanseodesign.com/css/vertical-centering/">Vertical Centering with CSS</a> - Huge guide, nice explanation of the css methods used.</li>
+<li><a href="http://bradfrost.github.io/this-is-responsive/patterns.html">Responsive Patterns</a> - Interesting approach for designs that change with media sizes.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/github-similar-repositori/ilohmipmgoellpajalkccofkgdheomfh">GitHub Similar Repositories</a> - Great Google Chrome add-on, that helps you discover &amp; upvote similar git repos on GitHub.</li>
+<li><a href="http://desmondrawls.com/2013/06/20/teach-like-you-dont-know/">Teach Like You Don’t Know</a> - A 'serial beginner' on how teachers can’t relate to their students because they know too much. Good read!</li>
+<li><a href="https://coderwall.com/p/xczkaq?&amp;p=1&amp;q=">deploy via Git</a> - Straight-forward walkthrough deploying via Git.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -137,45 +176,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 <li><a href="http://floordrees.tumblr.com/post/51063126651/using-github-for-your-news-platform-or-group-blog">content management with version control 1</a> - I wrote a little something to help group bloggers 'version control' their content with GitHub...</li>
 <li><a href="http://floordrees.tumblr.com/post/51385017205/using-version-control-system-for-content-management-2">content management with version control 2</a> - ... and then I wrote a follow-up post, processing the feedback I got on Twitter and the likes.</li>
 <li><a href="https://github.com/bastilian/mephisto">mephisto</a> - Remember Mephisto, that blog engine based on Rails? It has been forked &amp; revived by Sebastian Gräßl, so take a look!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/05/22/picks/"/>
-    <updated>2013-05-22T13:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/05/22/picks</id>
-    <content type="html"><![CDATA[<h3>22/5 Picks!!</h3>
-
-<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fifth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://git-scm.com/book/ch6-5.html">Git Tools - Debugging with Git</a> - Git helps finding the commit that broke your tests. Its like debugging on steroids</li>
-<li><a href="http://r-wos.org/hacks/gti">gti</a> - The <a href="http://man.cx/sl(6)">sl</a> for git.</li>
-<li><a href="https://github.com/peter-murach/equatable">equatable</a> - Allows ruby objects to implement equality comparison and inspection methods.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="http://pragprog.com/book/jvrails2/crafting-rails-4-applications">Crafting Rails 4 Applications</a> - Pragmatic Bookshelf beta: Expert Practices for Everyday Rails Development</li>
-<li><a href="http://www.youtube.com/watch?v=sPiWg5jSoZI">Python 3 Metaprogramming (youtube)</a> - David Beazley gives a 3 hour live tutorial - informative and funny!</li>
-<li><a href="http://explain.depesz.com/">explain.depesz.com</a> - A tool for finding a real cause for slow queries. (for PostgreSQL, what else?)</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.htmlify.net/">HTMLify</a> - Turn your code into pluggable HTML.</li>
-<li><a href="http://blog.learnstreet.com/">LearnStreet</a> - If you'd care to refresh your JavaScript knowledge or - like yours truly - want to take Python for a spin.</li>
-<li><a href="http://pragprog.com/book/warv/the-rails-view">The Rails View</a> - As discussed in Ruby Rogues episode 104: The Rails View. On my birthday wishlist.</li>
 </ul>
 
 ]]></content>
