@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
-date: 2013-07-02 13:00
+date: 2013-07-09 13:00
 published: false
 comments: true
 categories:
   - picks
 ---
 
-### 2/7 Picks!!
+### 9/7 Picks!!
 
 In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the eleventh edition:
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the twelfth edition:
 
 ##### [Andy][1]:
   - [][2] - 
@@ -24,9 +24,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [][8] - 
 
 ##### [Floor][9]:
-  - [tosdr][10] - Because “I have read and agree to the Terms” is the biggest lie on the web.
+  - [console.image][10] - The one thing Chrome Dev Tools didn't need. The day has come when you have the ability to put images in the console.
   - [Huboard][11] - Instant project management for GitHub repositories.
-  - [Inc][12] - App to share knowledge within your company, from the makers of Kippt. Disclaimer: I'm a HUGE Kippt fan.
+  - [Inc][12] -  App to share knowledge within your company, from the makers of Kippt. Disclaimer: I'm a HUGE Kippt fan.
 
 [1]: http://www.twitter.com/pxlpnk
 [2]: 
@@ -37,6 +37,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [7]: 
 [8]: 
 [9]: http://www.twitter.com/floordrees
-[10]: http://tosdr.org/
-[11]: http://huboard.com/
-[12]: http://dribbble.com/shots/1124541-Inc-app-to-share-knowledge-within-your-company?list=following
+[10]: https://github.com/dunxrion/console.image
+[11]: 
+[12]: 
