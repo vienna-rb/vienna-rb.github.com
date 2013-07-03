@@ -14,9 +14,9 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the eleventh edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [The Foreman][2] - The Foreman is a complete lifecycle management tool for physical and virtual servers.
+  - [Packagers don't know best][3] - Why package maintainers and the authors of software should work together.
+  - [Packaging and the tide of history][4] - And the follow up.
 
 ##### [Tony][5]:
   - [][6] - 
@@ -29,9 +29,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [Inc][12] - App to share knowledge within your company, from the makers of Kippt. Disclaimer: I'm a HUGE Kippt fan.
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]: http://theforeman.org/
+[3]: http://vagabond.github.io/2013/06/21/z_packagers-dont-know-best/?utm_content=buffer0a898&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer
+[4]: http://vagabond.github.io/2013/06/21/zz_packaging-and-the-tide-of-history/
 [5]: http://www.twitter.com/tony_xpro
 [6]: 
 [7]: 
