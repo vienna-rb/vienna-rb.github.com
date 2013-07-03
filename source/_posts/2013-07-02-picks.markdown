@@ -19,9 +19,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [Packaging and the tide of history][4] - And the follow up.
 
 ##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
+  - [ripper-tags][6] - fast, accurate ctags generator for ruby source code using Ripper (work in progress - please check the upstream, too)
+  - [Chicken chicken chicken][7] - chicken chicken
+  - [Report from EuRuKo 2013][8] - by Clemens from Codeship
 
 ##### [Floor][9]:
   - [tosdr][10] - Because “I have read and agree to the Terms” is the biggest lie on the web.
@@ -33,9 +33,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [3]: http://vagabond.github.io/2013/06/21/z_packagers-dont-know-best/?utm_content=buffer0a898&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer
 [4]: http://vagabond.github.io/2013/06/21/zz_packaging-and-the-tide-of-history/
 [5]: http://www.twitter.com/tony_xpro
-[6]: 
-[7]: 
-[8]: 
+[6]: https://github.com/rs-dev/ripper-tags
+[7]: http://torso.me/chicken
+[8]: http://blog.codeship.io/2013/07/02/testing-tuesday-12-euruko-2013.html
 [9]: http://www.twitter.com/floordrees
 [10]: http://tosdr.org/
 [11]: http://huboard.com/
