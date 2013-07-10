@@ -25,8 +25,8 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 ##### [Floor][9]:
   - [console.image][10] - The one thing Chrome Dev Tools didn't need. The day has come when you have the ability to put images in the console.
-  - [Huboard][11] - Instant project management for GitHub repositories.
-  - [Inc][12] -  App to share knowledge within your company, from the makers of Kippt. Disclaimer: I'm a HUGE Kippt fan.
+  - [Programming Trends][11] - Programming trends on StackOverflow.
+  - [Interview with Matz][12] - The future of computing, the future of computer programmers - an interview with Yukihiro Matsumoto.
 
 [1]: http://www.twitter.com/pxlpnk
 [2]: 
@@ -38,5 +38,5 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [8]: 
 [9]: http://www.twitter.com/floordrees
 [10]: https://github.com/dunxrion/console.image
-[11]: 
-[12]: 
+[11]: www.dodgycoder.net/p/programming-trends.html
+[12]: http://fredwu.me/post/54175219257/the-future-of-computing-the-future-of-computer
