@@ -14,14 +14,14 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the twelfth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [][2] -
+  - [][3] -
+  - [][4] -
 
 ##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
+  - [Gems that need help with Rails 4][6] - A Gist started by Steve Klabnik
+  - [Bogus][7] - a library that aims to reduce the risks associated with isolated unit testing.
+  - [Drain the oceans!][8] - ... and let the Netherlands rule?
 
 ##### [Floor][9]:
   - [console.image][10] - The one thing Chrome Dev Tools didn't need. The day has come when you have the ability to put images in the console.
@@ -29,13 +29,13 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [Interview with Matz][12] - The future of computing, the future of computer programmers - an interview with Yukihiro Matsumoto.
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]:
+[3]:
+[4]:
 [5]: http://www.twitter.com/tony_xpro
-[6]: 
-[7]: 
-[8]: 
+[6]: https://gist.github.com/steveklabnik/5961629
+[7]: https://www.relishapp.com/bogus/bogus/docs
+[8]: http://what-if.xkcd.com/53/
 [9]: http://www.twitter.com/floordrees
 [10]: https://github.com/dunxrion/console.image
 [11]: www.dodgycoder.net/p/programming-trends.html
