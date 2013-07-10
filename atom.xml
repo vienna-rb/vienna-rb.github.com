@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-06-26T15:26:05+02:00</updated>
+  <updated>2013-07-10T14:39:57+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,84 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/07/09/picks/"/>
+    <updated>2013-07-09T13:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/07/09/picks</id>
+    <content type="html"><![CDATA[<h3>9/7 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the twelfth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://i.stanford.edu/~ullman/focs.html">Foundations of Computer Science</a> - Although the book has been taken out of print by W. H. Freeman, you are welcome to read it online. And I suggest you do.</li>
+<li><a href="http://batsov.com/articles/2013/06/27/the-elements-of-style-in-ruby-number-2-favor-sprintf-format-over-string-number-percent/">The Elements of Style in Ruby #2</a> - Second in its series, topic being the following rule from the Ruby Style Guide: Favor the use of sprintf and its alias format over the fairly cryptic String#% method.</li>
+<li><a href="http://rubylearning.com/blog/2013/07/09/do-you-know-how-to-create-a-bot-in-ruby/">ALL teh bots</a> - Do you know how to create a bot in Ruby? Now you do!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="https://gist.github.com/steveklabnik/5961629">Gems that need help with Rails 4</a> - A Gist started by Steve Klabnik</li>
+<li><a href="https://www.relishapp.com/bogus/bogus/docs">Bogus</a> - a library that aims to reduce the risks associated with isolated unit testing.</li>
+<li><a href="http://what-if.xkcd.com/53/">Drain the oceans!</a> - &#8230; and let the Netherlands rule?</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/dunxrion/console.image">console.image</a> - The one thing Chrome Dev Tools didn&#8217;t need. The day has come when you have the ability to put images in the console.</li>
+<li><a href="www.dodgycoder.net/p/programming-trends.html">Programming Trends</a> - Programming trends on StackOverflow.</li>
+<li><a href="http://fredwu.me/post/54175219257/the-future-of-computing-the-future-of-computer">Interview with Matz</a> - The future of computing, the future of computer programmers - an interview with Yukihiro Matsumoto.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/07/02/picks/"/>
+    <updated>2013-07-02T13:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/07/02/picks</id>
+    <content type="html"><![CDATA[<h3>2/7 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the eleventh edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://theforeman.org/">The Foreman</a> - The Foreman is a complete lifecycle management tool for physical and virtual servers.</li>
+<li><a href="http://vagabond.github.io/2013/06/21/z_packagers-dont-know-best/?utm_content=buffer0a898&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Packagers don&#8217;t know best</a> - Why package maintainers and the authors of software should work together.</li>
+<li><a href="http://vagabond.github.io/2013/06/21/zz_packaging-and-the-tide-of-history/">Packaging and the tide of history</a> - And the follow up.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/rs-dev/ripper-tags">ripper-tags</a> - fast, accurate ctags generator for ruby source code using Ripper (work in progress - please check the upstream, too)</li>
+<li><a href="http://torso.me/chicken">Chicken chicken chicken</a> - chicken chicken</li>
+<li><a href="http://blog.codeship.io/2013/07/02/testing-tuesday-12-euruko-2013.html">Report from EuRuKo 2013</a> - by Clemens from Codeship</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://tosdr.org/">tosdr</a> - Because “I have read and agree to the Terms” is the biggest lie on the web.</li>
+<li><a href="http://huboard.com/">Huboard</a> - Instant project management for GitHub repositories.</li>
+<li><a href="http://dribbble.com/shots/1124541-Inc-app-to-share-knowledge-within-your-company?list=following">Inc</a> - App to share knowledge within your company, from the makers of Kippt. Disclaimer: I&#8217;m a HUGE Kippt fan.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -591,48 +669,6 @@ The next vienna.rb takes place at sektor5 Siebenbrunnengasse 44, 1050 Wien and s
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The slides of our first meetup are online]]></title>
-    <link href="http://vienna-rb.at/blog/2013/03/26/the-slides-of-our-first-meetup-are-online/"/>
-    <updated>2013-03-26T22:54:00+01:00</updated>
-    <id>http://vienna-rb.at/blog/2013/03/26/the-slides-of-our-first-meetup-are-online</id>
-    <content type="html"><![CDATA[<h2>Slides slides slides</h2>
-
-<p>Hey there folks, we just pushed the slides of our very first meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out even if you weren&#8217;t there. If you like what you see, join us for our next <a href="http://www.meetup.com/vienna-rb/events/102695402/">meetup</a> on April the 12th at Sektor 5.</p>
-
-<p>In the future we plan to collect and publish the slides so you won&#8217;t miss anything if you can&#8217;t make it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rubyslava #26 - Ruby Meet Up in Bratislava]]></title>
-    <link href="http://vienna-rb.at/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava/"/>
-    <updated>2013-03-22T18:42:00+01:00</updated>
-    <id>http://vienna-rb.at/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava</id>
-    <content type="html"><![CDATA[<h2>Dobrý večer - good evening!</h2>
-
-<p>Last week, Andy (<a href="https:/twitter.com/pxlpnk">@pxlpnk</a>) and me decided to visit the Rubyslava event - because <a href="http://vienna-rb.at/blog/2013/02/14/vienna-dot-rb-brings-rubyists-together/">they already visited and helped to start off the first vienna.rb meetup</a> - and we wanted to return the favour. Yes, and we are actually both extremely curious and wanted to learn some things first hand.</p>
-
-<p>After a short train and bus ride we reached our destination, the <a href="https://www.facebook.com/pages/Kaf%C3%A9-Nervosa/194088387296884">Kafé Nervosa</a>. As a location, I found it very much to my liking: pizza, beer, a beamer and a PA system. When we arrived, it was already well filled with people, and they still kept on coming in. Later we would learn that this was a record breaking evening in that regard.</p>
-
-<p>For starting off, we were treated with an interesting overview of techniques and tools that help you <strong>saving time</strong>, presented by <a href="https://twitter.com/milan_novota">Milan Novota</a> of <a href="http://subteca.com/">Subteca</a>. Interestingly enough, the slides were in english, but the talk wasn&#8217;t - I could follow it, though, even if we weren&#8217;t really reacting appropriately to certain questions for the audience. And Milan, I know you weren&#8217;t aware that the two of us weren&#8217;t able to follow every word, the apology really wasn&#8217;t necessary. I enjoyed the fact that a lot of the stuff presented (like the pomodoro technique, tmux, zsh, tdd, git, &#8230;) is already part of our work repertoire. The short chat afterwards was also really interesting and enlightening, and I would love to support any effort of teaching more people stuff that I know.</p>
-
-<p>Oh, and thanks for the free beer :)</p>
-
-<p>The next talk was really interesting for me personally - Ján Lunter of Innovatrics presented interesting ways of using Ruby/RoR in a non-standard way - in embedded systems, gathering and comparing biometric data. I got that having such a huge framework running on a PC or Intel Server is quite different to having it running on a small ARM based appliance. Kudos for sailing those rough waters and succeeding!</p>
-
-<p>It didn&#8217;t stop there at all, though. The next topic was presented by <a href="https://twitter.com/petrbela">Petr Bela</a>: a short introduction to <a href="http://angularjs.org/">AngularJS</a> and how it is being used to power <a href="http://www.kdyjedes.cz/">Kdyjedeš</a>. Petr, sorry for springing a slew on questions of you immediately - and then again in the horrible mix of dialects I use to sprinkle my English violently with. And thanks for your patience with me - I got a good idea what I will use AngularJS for soon. I will definitely try it, and the other things you presented.</p>
-
-<p>After those presentations, we had a lot of fun talking to people about various aspects of ruby, RoR and related topics. And had a second beer. Maybe a third &#8230;</p>
-
-<p>It was a pity that we had to leave then to catch the train back to Vienna in time. And while I can not promise that I will visit every time, I definitely will come over every once in a while, to meet, greet and learn.</p>
-
-<p>Thanks for having us!</p>
-
-<p>Andy &amp; tony</p>
 ]]></content>
   </entry>
   
