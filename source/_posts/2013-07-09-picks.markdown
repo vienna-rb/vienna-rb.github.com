@@ -2,7 +2,7 @@
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
 date: 2013-07-09 13:00
-published: false
+published: true
 comments: true
 categories:
   - picks
@@ -14,9 +14,9 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the twelfth edition:
 
 ##### [Andy][1]:
-  - [][2] -
-  - [][3] -
-  - [][4] -
+  - [Foundations of Computer Science][2] - Although the book has been taken out of print by W. H. Freeman, you are welcome to read it online. And I suggest you do. 
+  - [The Elements of Style in Ruby #2][3] - Second in its series, topic being the following rule from the Ruby Style Guide: Favor the use of sprintf and its alias format over the fairly cryptic String#% method.
+  - [ALL teh bots][4] - Do you know how to create a bot in Ruby? Now you do!
 
 ##### [Tony][5]:
   - [Gems that need help with Rails 4][6] - A Gist started by Steve Klabnik
@@ -29,9 +29,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [Interview with Matz][12] - The future of computing, the future of computer programmers - an interview with Yukihiro Matsumoto.
 
 [1]: http://www.twitter.com/pxlpnk
-[2]:
-[3]:
-[4]:
+[2]: http://i.stanford.edu/~ullman/focs.html 
+[3]: http://batsov.com/articles/2013/06/27/the-elements-of-style-in-ruby-number-2-favor-sprintf-format-over-string-number-percent/
+[4]: http://rubylearning.com/blog/2013/07/09/do-you-know-how-to-create-a-bot-in-ruby/
 [5]: http://www.twitter.com/tony_xpro
 [6]: https://gist.github.com/steveklabnik/5961629
 [7]: https://www.relishapp.com/bogus/bogus/docs
