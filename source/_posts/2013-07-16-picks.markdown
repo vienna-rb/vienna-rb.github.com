@@ -14,28 +14,28 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the thirteenth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [][2] -
+  - [][3] -
+  - [][4] -
 
 ##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
+  - [Demeter: It's not just a good idea. It's the law.][6] - A very interesting demonstration and solutions by Avdi Grimm
+  - [][7] -
+  - [][8] -
 
 ##### [Floor][9]:
-  - [][10] - 
-  - [][12] - 
+  - [][10] -
+  - [][12] -
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]:
+[3]:
+[4]:
 [5]: http://www.twitter.com/tony_xpro
-[6]: 
-[7]: 
-[8]: 
+[6]: http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/
+[7]:
+[8]:
 [9]: http://www.twitter.com/floordrees
-[10]: 
-[11]: 
-[12]: 
+[10]:
+[11]:
+[12]:
