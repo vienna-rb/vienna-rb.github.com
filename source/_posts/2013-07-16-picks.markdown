@@ -14,9 +14,9 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the thirteenth edition:
 
 ##### [Andy][1]:
-  - [][2] -
-  - [][3] -
-  - [][4] -
+  - [A Hacker's Replacement for GMail][2] - If you are willing to operate your own mailserver this is a good starting point.
+  - [The case against using RubyGems.org in production][3] - A screed + a screencast showing you how to host your own gems
+  - [Stickler][4] - Stickler is a tool to organize and maintain your own gem repository.
 
 ##### [Tony][5]:
   - [Demeter: It's not just a good idea. It's the law.][6] - A very interesting demonstration and solutions by Avdi Grimm
@@ -25,13 +25,13 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 ##### [Floor][9]:
   - [Web Development Teaching Materials][10] - A variety of CC-licensed web development curriculum which was developed for GirlDevelopIt SF. Useful to students as well. via @bastilian
-  - [The Open Source Report Card][12] - Enter a GitHub username to see a dynamically generated progress report for their open source contributions. With graphs and charts and EVERYTHING! 
+  - [The Open Source Report Card][12] - Enter a GitHub username to see a dynamically generated progress report for their open source contributions. With graphs and charts and EVERYTHING!
   - [CSS Minion][13] - How cool is this: Minion drawn entirely using only HTML&CSS
 
 [1]: http://www.twitter.com/pxlpnk
-[2]:
-[3]:
-[4]:
+[2]: http://dbpmail.net/essays/2013-06-29-hackers-replacement-for-gmail.html
+[3]: https://www.honeybadger.io/blog/2013/06/25/stop-using-rubygemsorg-in-production
+[4]: https://github.com/copiousfreetime/stickler
 [5]: http://www.twitter.com/tony_xpro
 [6]: http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/
 [7]:
