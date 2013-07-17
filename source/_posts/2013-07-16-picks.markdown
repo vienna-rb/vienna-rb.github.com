@@ -20,8 +20,8 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 ##### [Tony][5]:
   - [Demeter: It's not just a good idea. It's the law.][6] - A very interesting demonstration and solutions by Avdi Grimm
-  - [][7] -
-  - [][8] -
+  - [Swapping Rails Stack Traces for a REPL][7] - You do like [pry](https:/github.com/pry/pry)? [Better Errors](https://github.com/charliesome/better_errors)? THIS is the thing for you!
+  - [Adapter Registry][8] - Store your decorators in a in-memory registry, and retrieve them in the correct context!  (Shameless plug)
 
 ##### [Floor][9]:
   - [Web Development Teaching Materials][10] - A variety of CC-licensed web development curriculum which was developed for GirlDevelopIt SF. Useful to students as well. via @bastilian
@@ -34,8 +34,8 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [4]: https://github.com/copiousfreetime/stickler
 [5]: http://www.twitter.com/tony_xpro
 [6]: http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/
-[7]:
-[8]:
+[7]: http://fonicmonkey.net/2013/07/15/swapping-rails-stack-traces-for-a-repl/
+[8]: https://github.com/rs-dev/adapter-registry
 [9]: http://www.twitter.com/floordrees
 [10]: http://www.teaching-materials.org/
 [11]: http://osrc.dfm.io/
