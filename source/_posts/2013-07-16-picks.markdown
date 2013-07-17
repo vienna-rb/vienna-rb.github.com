@@ -38,5 +38,5 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [8]: https://github.com/rs-dev/adapter-registry
 [9]: http://www.twitter.com/floordrees
 [10]: http://www.teaching-materials.org/
-[11]: http://osrc.dfm.io/
-[12]: http://cssdeck.com/labs/pure-css-minion
+[12]: http://osrc.dfm.io/
+[13]: http://cssdeck.com/labs/pure-css-minion
