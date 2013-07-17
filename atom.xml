@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-07-10T14:39:57+02:00</updated>
+  <updated>2013-07-17T16:46:28+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/07/17/picks/"/>
+    <updated>2013-07-17T16:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/07/17/picks</id>
+    <content type="html"><![CDATA[<h3>17/7 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the thirteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://dbpmail.net/essays/2013-06-29-hackers-replacement-for-gmail.html">A Hacker&#8217;s Replacement for GMail</a> - If you are willing to operate your own mailserver this is a good starting point.</li>
+<li><a href="https://www.honeybadger.io/blog/2013/06/25/stop-using-rubygemsorg-in-production">The case against using RubyGems.org in production</a> - A screed + a screencast showing you how to host your own gems.</li>
+<li><a href="https://github.com/copiousfreetime/stickler">Stickler</a> - Stickler is a tool to organize and maintain your own gem repository.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/">Demeter: It&#8217;s not just a good idea. It&#8217;s the law.</a> - A very interesting demonstration and solutions by Avdi Grimm.</li>
+<li><a href="http://fonicmonkey.net/2013/07/15/swapping-rails-stack-traces-for-a-repl/">Swapping Rails Stack Traces for a REPL</a> - You do like <a href="https:/github.com/pry/pry">pry</a>? <a href="https://github.com/charliesome/better_errors">Better Errors</a>? THIS is the thing for you!</li>
+<li><a href="https://github.com/rs-dev/adapter-registry">Adapter Registry</a> - Store your decorators in a in-memory registry, and retrieve them in the correct context!  (Shameless plug)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.teaching-materials.org/">Web Development Teaching Materials</a> - A variety of CC-licensed web development curriculum which was developed for GirlDevelopIt SF. Useful to students as well. via @bastilian</li>
+<li><a href="http://cssdeck.com/labs/pure-css-minion">The Open Source Report Card</a> - Enter a GitHub username to see a dynamically generated progress report for their open source contributions. With graphs and charts and EVERYTHING!</li>
+<li>[CSS Minion][13] - How cool is this: Minion drawn entirely using only HTML&amp;CSS.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -627,48 +666,6 @@ Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, h
 <h5>Anton Bangratz opened up his big o&#8217; bag of tricks</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/102695522/">meetup</a> on May the 9th at Sektor5!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[New about page]]></title>
-    <link href="http://vienna-rb.at/blog/2013/03/27/new-about-page/"/>
-    <updated>2013-03-27T20:12:00+01:00</updated>
-    <id>http://vienna-rb.at/blog/2013/03/27/new-about-page</id>
-    <content type="html"><![CDATA[<h2>The vienna.rb class</h2>
-
-<p>We just added a new page to the blog. The <a href="http://vienna-rb.at/about">about</a> page contains a bit more information about what we do, where we do it and who we are. It also is a functioning Ruby class.</p>
-
-<div><script src='https://gist.github.com/5257111.js?file=irb_test'></script>
-<noscript><pre><code>→ curl -o vienna.rb https://gist.github.com/pxlpnk/5257111/raw/a577da6be4807daa4b4a2751659d100f7d1ba9f6/vienna.rb 
-
-→ irb -r &quot;./vienna.rb&quot;
-
-&gt;&gt; v = Vienna.new
-=&gt; The next vienna.rb takes place at sektor5 Siebenbrunnengasse 44, 1050 Wien and starts at 2013-04-12 18:00:00 +0100. For more see: http://vienna-rb.at/blog/2013/03/19/second-meetup-to-take-place-at-co-working-space-sektor5/
-
-&gt;&gt; v.where?
-=&gt; #&lt;struct Struct::Location name=&quot;sektor5&quot;, address=&quot;Siebenbrunnengasse 44, 1050 Wien&quot;, details=nil&gt;
-
-&gt;&gt; v.when?
-=&gt; 2013-04-12 18:00:00 +0100
-
-&gt;&gt; v.what_and_why?
-=&gt; #&lt;URI::HTTP:0x007fc26983c9c0 URL:http://vienna-rb.at/blog/2013/03/19/second-meetup-to-take-place-at-co-working-space-sektor5/&gt;
-
-&gt;&gt; v.who?
-=&gt; {&quot;Floor Drees&quot;=&gt;&quot;@floordrees&quot;, &quot;Anton Bangratz&quot;=&gt;&quot;@tony_xpro&quot;, &quot;Andreas Tiefenthaler&quot;=&gt;&quot;@pxlpnk&quot;}
-
-&gt;&gt; v.version
-=&gt; &quot;v0.0.3 - 2013-03-27 19:39&quot;
-
-&gt;&gt; puts v 
-The next vienna.rb takes place at sektor5 Siebenbrunnengasse 44, 1050 Wien and starts at 2013-04-12 18:00:00 +0100. For more see: http://vienna-rb.at/blog/2013/03/19/second-meetup-to-take-place-at-co-working-space-sektor5/
-=&gt; nil
-</code></pre></noscript></div>
-
-
-
 ]]></content>
   </entry>
   

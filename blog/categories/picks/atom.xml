@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-07-10T14:39:57+02:00</updated>
+  <updated>2013-07-17T16:46:28+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/07/17/picks/"/>
+    <updated>2013-07-17T16:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/07/17/picks</id>
+    <content type="html"><![CDATA[<h3>17/7 Picks!!</h3>
+
+<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the thirteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://dbpmail.net/essays/2013-06-29-hackers-replacement-for-gmail.html">A Hacker's Replacement for GMail</a> - If you are willing to operate your own mailserver this is a good starting point.</li>
+<li><a href="https://www.honeybadger.io/blog/2013/06/25/stop-using-rubygemsorg-in-production">The case against using RubyGems.org in production</a> - A screed + a screencast showing you how to host your own gems.</li>
+<li><a href="https://github.com/copiousfreetime/stickler">Stickler</a> - Stickler is a tool to organize and maintain your own gem repository.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/">Demeter: It's not just a good idea. It's the law.</a> - A very interesting demonstration and solutions by Avdi Grimm.</li>
+<li><a href="http://fonicmonkey.net/2013/07/15/swapping-rails-stack-traces-for-a-repl/">Swapping Rails Stack Traces for a REPL</a> - You do like <a href="https:/github.com/pry/pry">pry</a>? <a href="https://github.com/charliesome/better_errors">Better Errors</a>? THIS is the thing for you!</li>
+<li><a href="https://github.com/rs-dev/adapter-registry">Adapter Registry</a> - Store your decorators in a in-memory registry, and retrieve them in the correct context!  (Shameless plug)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.teaching-materials.org/">Web Development Teaching Materials</a> - A variety of CC-licensed web development curriculum which was developed for GirlDevelopIt SF. Useful to students as well. via @bastilian</li>
+<li><a href="http://cssdeck.com/labs/pure-css-minion">The Open Source Report Card</a> - Enter a GitHub username to see a dynamically generated progress report for their open source contributions. With graphs and charts and EVERYTHING!</li>
+<li>[CSS Minion][13] - How cool is this: Minion drawn entirely using only HTML&amp;CSS.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -155,36 +194,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 <li><a href="http://floordrees.tumblr.com/post/53059312740/crash-course-to-svn-for-former-git-users">svn-git</a> - crash course to svn for (former) git users, written by yours truly.</li>
 <li><a href="http://www.versioneye.com/">version eye</a> - Follow your libraries and get notified about new versions. Visually neat tool.</li>
 <li><a href="https://github.com/eric1234/gist-dep">gist-dep</a> - Anytime you want to re-use code but the amount of code is so small it would be silly to create a library.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/06/11/picks/"/>
-    <updated>2013-06-11T16:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/06/11/picks</id>
-    <content type="html"><![CDATA[<h3>11/6 Picks!!</h3>
-
-<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the eighth edition:</p>
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="http://wiki.postgresql.org/wiki/What%27s_new_in_PostgreSQL_9.3">PostgreSQL 9.3: What's new</a> - Beta information about the Best RDBMS Ever&trade;</li>
-<li><a href="https://plus.google.com/+GeorgeTakei/posts">Best Google+ Profile Ever</a> - Support the <a href="http://oktobetakei.spreadshirt.com/t-s-a-takei-straight-alliance-C114867">T.S.A.</a>!</li>
-<li><a href="http://www.pairprogramwith.me/">For More Pair Programming</a> - Get support for your project.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://coderwall.com/p/euwpig">git log</a> - Bored and tired of the old git log screen? Try this.</li>
-<li><a href="http://divshot.github.io/geo-bootstrap/">geo-bootstrap</a> - My new favorite CSS bootstrapper: it has comic sans, funky colors and MC Hammer.</li>
-<li><a href="https://gocardless.com/blog/raspberry-pi-metric-dashboards/">Office Pi</a> - GoCardless cooked up a fancy Office Dashboard Pi.</li>
 </ul>
 
 ]]></content>
