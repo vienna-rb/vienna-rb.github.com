@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-07-17T16:46:28+02:00</updated>
+  <updated>2013-07-17T16:52:32+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -45,8 +45,8 @@ Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, h
 
 <ul>
 <li><a href="http://www.teaching-materials.org/">Web Development Teaching Materials</a> - A variety of CC-licensed web development curriculum which was developed for GirlDevelopIt SF. Useful to students as well. via @bastilian</li>
-<li><a href="http://cssdeck.com/labs/pure-css-minion">The Open Source Report Card</a> - Enter a GitHub username to see a dynamically generated progress report for their open source contributions. With graphs and charts and EVERYTHING!</li>
-<li>[CSS Minion][13] - How cool is this: Minion drawn entirely using only HTML&amp;CSS.</li>
+<li><a href="http://osrc.dfm.io/">The Open Source Report Card</a> - Enter a GitHub username to see a dynamically generated progress report for their open source contributions. With graphs and charts and EVERYTHING!</li>
+<li><a href="http://cssdeck.com/labs/pure-css-minion">CSS Minion</a> - How cool is this: Minion drawn entirely using only HTML&amp;CSS.</li>
 </ul>
 
 ]]></content>
