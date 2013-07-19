@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-07-17T16:52:32+02:00</updated>
+  <updated>2013-07-19T13:44:02+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The slides of our fifth meetup are online]]></title>
+    <link href="http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup/"/>
+    <updated>2013-07-19T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup</id>
+    <content type="html"><![CDATA[<h2>That escalated quickly&#8230;</h2>
+
+<p>Hi there, we just pushed the slides of our fifth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out! What&#8217;s in there? Well, this:</p>
+
+<h5>Andreas Tiefenthaler - Introduction and the Gem of the month: brakeman</h5>
+
+<h5>Tony Bangratz - Make your tests faster and use Ruby 2.0</h5>
+
+<h5>Clemens Helm - Make your workflow continuous, deploy continuous</h5>
+
+<h5>Markus Prinz - An introduction to Vagrant</h5>
+
+<p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/125429382/">meetup</a>, September 5th at Sektor5!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -645,27 +666,6 @@ Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, h
 <li><a href="http://starlogs.net/">starlogs.net</a> - Putting Geek in GitHub. Once more.</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The slides of our second meetup are online]]></title>
-    <link href="http://vienna-rb.at/blog/2013/04/13/the-slides-of-our-second-meetup-are-online/"/>
-    <updated>2013-04-13T17:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/04/13/the-slides-of-our-second-meetup-are-online</id>
-    <content type="html"><![CDATA[<h2>ALL the slides</h2>
-
-<p>Hi there, we just pushed the slides of the second meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
-
-<h5>Floor Drees, introducing the Coders without Borders project</h5>
-
-<h5>Gerald Bauer on his beer.db and world.db gem</h5>
-
-<h5>Tomáš Kramár on &#8216;open&#8217; data in Slovakia</h5>
-
-<h5>Anton Bangratz opened up his big o&#8217; bag of tricks</h5>
-
-<p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/102695522/">meetup</a> on May the 9th at Sektor5!</p>
 ]]></content>
   </entry>
   
