@@ -14,7 +14,7 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fourteenth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
+  - [Top 10 Proactive Web Application Security Measures][2] - Security should concern everyone, from the developer to the CEO
   - [][3] - 
   - [][4] - 
   
@@ -29,7 +29,7 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [][12] - 
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
+[2]: https://blog.whitehatsec.com/top-10-proactive-web-application-security-measures/
 [3]: 
 [4]: 
 [5]: http://www.twitter.com/tony_xpro
