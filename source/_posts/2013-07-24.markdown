@@ -15,8 +15,8 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 ##### [Andy][1]:
   - [Top 10 Proactive Web Application Security Measures][2] - Security should concern everyone, from the developer to the CEO
-  - [][3] - 
-  - [][4] - 
+  - [pkgr][3] - Package your Rails app into deb or rpm packages 
+  - [fpm][4] - Effing package managers! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
   
 ##### [Tony][5]:
   - [][6] - 
@@ -30,8 +30,8 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 
 [1]: http://www.twitter.com/pxlpnk
 [2]: https://blog.whitehatsec.com/top-10-proactive-web-application-security-measures/
-[3]: 
-[4]: 
+[3]: http://crohr.me/pkgr/
+[4]: https://github.com/jordansissel/fpm
 [5]: http://www.twitter.com/tony_xpro
 [6]: 
 [7]: 
