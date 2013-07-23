@@ -24,7 +24,7 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [][8] - 
 
 ##### [Floor][9]:
-  - [Pkgr][10] - certainly want to try out Pkgr this week, making a package out of a Rails app in 5 minutes
+  - [gem install exercism][10] - Exercism - a Katrina Owen production - is all about giving and receiving feedback. And code reviews.
   - [Laber's lab][11] - to all the makers out there, check out the dates for the [Arduino lab's][13]!
   - [Sektor5][12] - neat post (with dito pictures) about the co-working space that hosts our monthly meetups
 
@@ -37,7 +37,7 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [7]: 
 [8]: 
 [9]: http://www.twitter.com/floordrees
-[10]: https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59
+[10]: http://exercism.io
 [11]: http://laberslab.com/
 [12]: http://www.karriere.at/blog/co-working-sektor-5.html
 [13]: http://events.laberslab.com/
