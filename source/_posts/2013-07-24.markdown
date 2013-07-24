@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
-date: 2013-07-24 16:00
+date: 2013-07-24 19:00
 published: false
 comments: true
 categories:
@@ -17,11 +17,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [Top 10 Proactive Web Application Security Measures][2] - Security should concern everyone, from the developer to the CEO
   - [pkgr][3] - Package your Rails app into deb or rpm packages 
   - [fpm][4] - Effing package managers! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-  
-##### [Tony][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
 
 ##### [Floor][9]:
   - [gem install exercism][10] - Exercism - a Katrina Owen production - is all about giving and receiving feedback. And code reviews.
@@ -33,9 +28,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [3]: http://crohr.me/pkgr/
 [4]: https://github.com/jordansissel/fpm
 [5]: http://www.twitter.com/tony_xpro
-[6]: 
-[7]: 
-[8]: 
 [9]: http://www.twitter.com/floordrees
 [10]: http://exercism.io
 [11]: http://laberslab.com/
