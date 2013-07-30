@@ -14,9 +14,9 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fifteenth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [HTTP v2.0 draft][2] - The first release of the Hypertext Transfer Protocol version 2.0.
+  - [Simple API with Nginx and PostgreSQL][3] - How to build a simple REST API using only Nginx and PostgreSQL.
+  - [Regex Cross­word][4] -Bored by regular crossword puzzles? Then level up!
   
 ##### [][5]:
   - [][6] - 
@@ -29,9 +29,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [Deconstructing MySpace][12] - I like onextrapixel's approach to destructing non-traditional layout 
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]: http://http2.github.io/http2-spec//
+[3]: http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html
+[4]: http://regexcrossword.com/
 [5]: http://www.twitter.com/
 [6]: 
 [7]: 
