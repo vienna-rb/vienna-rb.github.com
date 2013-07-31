@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
-date: 2013-07-30 13:00
-published: false
+date: 2013-07-31 13:00
+published: true
 comments: true
 categories:
   - picks
 ---
 
-### 30/7 Picks!!
+### 31/7 Picks!!
 
 In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fifteenth edition:
@@ -17,11 +17,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [HTTP v2.0 draft][2] - The first release of the Hypertext Transfer Protocol version 2.0.
   - [Simple API with Nginx and PostgreSQL][3] - How to build a simple REST API using only Nginx and PostgreSQL.
   - [Regex Cross­word][4] -Bored by regular crossword puzzles? Then level up!
-  
-##### [][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
   
 ##### [Floor][9]:
   - [warrior.attack!][10] - Code Ruby to get further in this cute game!
@@ -33,9 +28,7 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [3]: http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html
 [4]: http://regexcrossword.com/
 [5]: http://www.twitter.com/
-[6]: 
-[7]: 
-[8]: 
+
 [9]: http://www.twitter.com/floordrees
 [10]: https://www.bloc.io/ruby-warrior
 [11]: http://www.newscientist.com/article/mg21929275.800-kindergarten-coders-can-program-before-they-can-read.html
