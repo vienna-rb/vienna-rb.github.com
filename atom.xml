@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-07-24T21:56:04+02:00</updated>
+  <updated>2013-07-31T13:21:13+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,66 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/07/31/picks/"/>
+    <updated>2013-07-31T13:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/07/31/picks</id>
+    <content type="html"><![CDATA[<h3>31/7 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the fifteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://http2.github.io/http2-spec//">HTTP v2.0 draft</a> - The first release of the Hypertext Transfer Protocol version 2.0.</li>
+<li><a href="http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html">Simple API with Nginx and PostgreSQL</a> - How to build a simple REST API using only Nginx and PostgreSQL.</li>
+<li><a href="http://regexcrossword.com/">Regex Cross­word</a> -Bored by regular crossword puzzles? Then level up!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://www.bloc.io/ruby-warrior">warrior.attack!</a> - Code Ruby to get further in this cute game!</li>
+<li><a href="http://www.newscientist.com/article/mg21929275.800-kindergarten-coders-can-program-before-they-can-read.html">Kindergarten coders</a> - 4-year-olds are learning to program thanks to a new graphics-based coding language</li>
+<li><a href="http://www.onextrapixel.com/2013/07/26/website-deconstruction-myspace-com/">Deconstructing MySpace</a> - I like onextrapixel&#8217;s approach to destructing non-traditional layout</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/07/26/picks/"/>
+    <updated>2013-07-26T19:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/07/26/picks</id>
+    <content type="html"><![CDATA[<h3>26/7 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the fourteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="https://blog.whitehatsec.com/top-10-proactive-web-application-security-measures/">Top 10 Proactive Web Application Security Measures</a> - Security should concern everyone, from the developer to the CEO</li>
+<li><a href="http://crohr.me/pkgr/">pkgr</a> - Package your Rails app into deb or rpm packages</li>
+<li><a href="https://github.com/jordansissel/fpm">fpm</a> - Effing package managers! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://exercism.io">gem install exercism</a> - Exercism - a Katrina Owen production - is all about giving and receiving feedback. And code reviews.</li>
+<li><a href="http://laberslab.com/">Laber&#8217;s lab</a> - to all the makers out there, check out the dates for the <a href="http://events.laberslab.com/">Arduino lab&#8217;s</a>!</li>
+<li><a href="http://www.karriere.at/blog/co-working-sektor-5.html">Sektor5</a> - neat post (with dito pictures) about the co-working space that hosts our monthly meetups</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The slides of our fifth meetup are online]]></title>
@@ -588,84 +648,6 @@ easier to use than ActiveResource.</li>
 <p>Gerald: The new mySugr is brighter, we have a new monster and some new challenges. It offers multi device syncing and your location is now - more than ever - important. The user experience evolves around pictures (images of food and drinks you take) and push notifications remind you to finish your challenges or document your lunch.</p>
 
 <p>Bernhard: Our <a href="http://www.inventures.eu/mysugr-junior-answering-to-an-alarming-trend">junior app was just released</a> last week, also on Android. You should check that out too!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/04/24/picks/"/>
-    <updated>2013-04-24T10:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/04/24/picks</id>
-    <content type="html"><![CDATA[<h3>24/4 Picks!!</h3>
-
-<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the second edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/jsuder/git-code-review">git-code-review</a> - An extension to git to help you with doing regular code reviews of other team members&#8217; commits.</li>
-<li><a href="http://blog.brownplt.org/2013/02/19/teaching-gc.html">Essentials of Garbage Collection</a> - This is a very nice approach on understanding how GC works and what it does.</li>
-<li><a href="http://calnewport.com/blog/2011/11/11/if-youre-busy-youre-doing-something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/">If you are busy you do it wrong</a> - A bit older, but shows you why &#8216;elite performers&#8217; perform the way they do. It&#8217;s not only the genius that matters.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="http://git-wt-commit.rubyforge.org/#git-wtf">git-wtf</a> - a script to display the state of your repository in a readable and easy-to-scan format.</li>
-<li><a href="http://www.rubyops.net/benchmarking-in-ruby">Benchmarking in Ruby</a> - a short overview and nice examples.</li>
-<li><a href="http://sequel.rubyforge.org/">Sequel</a> - The Database Toolkit for Ruby (especially if you use <a href="http://www.postgresql.org/">PostgreSQL</a>)</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://www.youtube.com/watch?v=wKEGA8oEWXw">tmux Quick Start</a> - Just what I needed: a brief introduction to what tmux can do and how it works.</li>
-<li><a href="http://www.creativeapplications.net/iphone/glitche-distort-your-photos-using-computer-errors-and-bugs/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+creativeapplicationsnet+%28CreativeApplications.Net%29">Glitché</a> - Ridiculous, but oh so awesome: Glitché (iPhone app) Distort your photos using computer errors and bugs</li>
-<li><a href="https://metalab.at/wiki/KaraokeParty">Karaoke</a> - There&#8217;s a KaraokeParty at the Metalab this Friday. You don&#8217;t want to miss that for the world. Believe me.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/04/17/picks/"/>
-    <updated>2013-04-17T10:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/04/17/picks</id>
-    <content type="html"><![CDATA[<h3>Picks / what the vienna.rb team thinks is worth sharing this week</h3>
-
-<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s to the first edition:</p>
-
-<h5>Andy:</h5>
-
-<ul>
-<li><a href="http://www.codetriage.com/">CodeTriage</a> - Help your favorite open source projects. They have bugs, they need help!</li>
-<li><a href="http://stackoverflow.com/questions/15984011/why-does-it-call-the-wrong-equal-method">Why does it call the &#8220;wrong&#8221; equal method? - on Stack Overflow</a> - The title is pretty much selfexplainatory.</li>
-<li><a href="http://emacsredux.com/">Return to the Essence of Text Editing</a> - Emacs is a pretty neat everything, but also a decent text editor.</li>
-</ul>
-
-
-<h5>Tony:</h5>
-
-<ul>
-<li><a href="http://objectsonrails.com">Objects On Rails</a> - a &#8220;developer&#8217;s notebook&#8221; documenting some guidelines, techniques, and ideas for applying classic object-oriented thought to Ruby on Rails applications.</li>
-<li><a href="http://www.cleancoders.com/">Clean Coders</a> - educational videos for software professionals, by software professionals.</li>
-<li><a href="https://github.com/tpope/vim-rails">vim-rails</a> - vim is the <strong>best</strong> rails editor of all times.</li>
-</ul>
-
-
-<h5>Floor:</h5>
-
-<ul>
-<li><a href="http://bootsnipp.com/buttons">Bootstrap HTML Button generator</a> - Bootstrapping buttons. Because why would you want to reinvent the wheel?</li>
-<li><a href="http://www.mycplus.com/featured-articles/hello-world-programs-in-300-programming-languages/">List of Hello World Programs in 300 Programming Languages</a> - A complete list of “Hello World!” programs written in more than 300 existing programming languages including Assembly language, Low-level, High-level, Object Oriented, Document formats, Page description languages and Scripting languages. How awesome is that?</li>
-<li><a href="http://starlogs.net/">starlogs.net</a> - Putting Geek in GitHub. Once more.</li>
-</ul>
-
 ]]></content>
   </entry>
   

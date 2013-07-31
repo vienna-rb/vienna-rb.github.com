@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-07-24T21:56:04+02:00</updated>
+  <updated>2013-07-31T13:21:13+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,66 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/07/31/picks/"/>
+    <updated>2013-07-31T13:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/07/31/picks</id>
+    <content type="html"><![CDATA[<h3>31/7 Picks!!</h3>
+
+<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fifteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://http2.github.io/http2-spec//">HTTP v2.0 draft</a> - The first release of the Hypertext Transfer Protocol version 2.0.</li>
+<li><a href="http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html">Simple API with Nginx and PostgreSQL</a> - How to build a simple REST API using only Nginx and PostgreSQL.</li>
+<li><a href="http://regexcrossword.com/">Regex Cross­word</a> -Bored by regular crossword puzzles? Then level up!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://www.bloc.io/ruby-warrior">warrior.attack!</a> - Code Ruby to get further in this cute game!</li>
+<li><a href="http://www.newscientist.com/article/mg21929275.800-kindergarten-coders-can-program-before-they-can-read.html">Kindergarten coders</a> - 4-year-olds are learning to program thanks to a new graphics-based coding language</li>
+<li><a href="http://www.onextrapixel.com/2013/07/26/website-deconstruction-myspace-com/">Deconstructing MySpace</a> - I like onextrapixel's approach to destructing non-traditional layout</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/07/26/picks/"/>
+    <updated>2013-07-26T19:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/07/26/picks</id>
+    <content type="html"><![CDATA[<h3>26/7 Picks!!</h3>
+
+<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fourteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="https://blog.whitehatsec.com/top-10-proactive-web-application-security-measures/">Top 10 Proactive Web Application Security Measures</a> - Security should concern everyone, from the developer to the CEO</li>
+<li><a href="http://crohr.me/pkgr/">pkgr</a> - Package your Rails app into deb or rpm packages</li>
+<li><a href="https://github.com/jordansissel/fpm">fpm</a> - Effing package managers! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://exercism.io">gem install exercism</a> - Exercism - a Katrina Owen production - is all about giving and receiving feedback. And code reviews.</li>
+<li><a href="http://laberslab.com/">Laber's lab</a> - to all the makers out there, check out the dates for the <a href="http://events.laberslab.com/">Arduino lab's</a>!</li>
+<li><a href="http://www.karriere.at/blog/co-working-sektor-5.html">Sektor5</a> - neat post (with dito pictures) about the co-working space that hosts our monthly meetups</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -125,75 +185,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 <li><a href="http://tosdr.org/">tosdr</a> - Because “I have read and agree to the Terms” is the biggest lie on the web.</li>
 <li><a href="http://huboard.com/">Huboard</a> - Instant project management for GitHub repositories.</li>
 <li><a href="http://dribbble.com/shots/1124541-Inc-app-to-share-knowledge-within-your-company?list=following">Inc</a> - App to share knowledge within your company, from the makers of Kippt. Disclaimer: I'm a HUGE Kippt fan.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/06/26/picks/"/>
-    <updated>2013-06-26T13:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/06/26/picks</id>
-    <content type="html"><![CDATA[<h3>26/6 Picks!!</h3>
-
-<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the tenth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://wimdu.github.io/blog/2013/06/24/performance-optimization-with-pry-debugger/">Performance Optimization With Pry-debugger</a> - A nice introduction to the Pry-debugger</li>
-<li><a href="http://deborahheiligman.com/books/the-boy-who-loved-math/">The Boy Who Loved Math</a> - The Improbable Life of Paul Erdös. A cute book for kids.</li>
-<li><a href="http://thecatapi.com/">Where everyday is Caturday</a> - Need a nice kitten as a placeholder? Or just a random kitten for your chatbot?</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>: (with support from <a href="https://www.twitter.com/fadr">@fadr</a>)</h5>
-
-<ul>
-<li><a href="http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/">Rails 4.0</a> - Final version released!</li>
-<li><a href="http://www.vanseodesign.com/css/vertical-centering/">Vertical Centering with CSS</a> - Huge guide, nice explanation of the css methods used.</li>
-<li><a href="http://bradfrost.github.io/this-is-responsive/patterns.html">Responsive Patterns</a> - Interesting approach for designs that change with media sizes.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://chrome.google.com/webstore/detail/github-similar-repositori/ilohmipmgoellpajalkccofkgdheomfh">GitHub Similar Repositories</a> - Great Google Chrome add-on, that helps you discover &amp; upvote similar git repos on GitHub.</li>
-<li><a href="http://desmondrawls.com/2013/06/20/teach-like-you-dont-know/">Teach Like You Don’t Know</a> - A 'serial beginner' on how teachers can’t relate to their students because they know too much. Good read!</li>
-<li><a href="https://coderwall.com/p/xczkaq?&amp;p=1&amp;q=">deploy via Git</a> - Straight-forward walkthrough deploying via Git.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/06/19/picks/"/>
-    <updated>2013-06-19T12:50:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/06/19/picks</id>
-    <content type="html"><![CDATA[<h3>19/6 Picks!!</h3>
-
-<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the ninth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://www.paperplanes.de/2013/6/17/a-short-story-on-human-error.html">A Short Story on Human Error</a> - There is no single root cause or the further back you go in time, the more reasons you'll find that there's a tangled web of lots of little causes, that again have their own causes.</li>
-<li><a href="https://docs.google.com/forms/d/1XNMoSdfYFe_WkPfU--M88oL00PDLIOAo1HxjhZvZYJ4/viewform?pli=1">Your top 100 unix commands, for science!</a> - Contribute your daily used Unix commands.</li>
-<li><a href="http://mherman.org/blog/2013/06/13/up-and-running-with-espresso-rapid-web-development-in-the-browser/">Rapid Web Development in the Browser using Espresso</a> - Interesting and fast way to push out a prototype.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://floordrees.tumblr.com/post/53059312740/crash-course-to-svn-for-former-git-users">svn-git</a> - crash course to svn for (former) git users, written by yours truly.</li>
-<li><a href="http://www.versioneye.com/">version eye</a> - Follow your libraries and get notified about new versions. Visually neat tool.</li>
-<li><a href="https://github.com/eric1234/gist-dep">gist-dep</a> - Anytime you want to re-use code but the amount of code is so small it would be silly to create a library.</li>
 </ul>
 
 ]]></content>
