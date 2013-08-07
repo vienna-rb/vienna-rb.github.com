@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-08-07T16:03:44+02:00</updated>
+  <updated>2013-08-07T16:07:45+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/08/07/picks/"/>
+    <updated>2013-08-07T13:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/08/07/picks</id>
+    <content type="html"><![CDATA[<h3>7/8 Picks!!</h3>
+
+<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the sixteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://www.newstatesman.com/2013/07/mysteries-bicycle">We still don’t really know how bicycles work</a> - Forget mysterious dark matter and the inexplicable accelerating expansion of the universe; the bicycle represents a far more embarrassing hole in the accomplishments of physics</li>
+<li><a href="http://www.docker.io/">docker.io</a> - Docker is an open-source engine which automates the deployment of applications as highly portable, self-sufficient containers.</li>
+<li><a href="https://github.com/pagekite/Mailpile">Mailpile</a> - <a href="http:/www.mailpile.is/">Mailpile</a> is a free-as-in-freedom personal e-mail searching and indexing tool, largely inspired by Google's popular proprietary-but-gratis e-mail service. Check out their fundraiser http://igg.me/at/mailpile</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://plus.google.com/117030170248799553421/posts/CUhUAQwKxFz">Animated Opacity for Hangout Overlays</a> - The Hangouts API team recently released a new feature in the Dev Channel of the Hangouts API, that allows controlling the opacity of overlays. Check out how Gerwin Sturm's has been playing around with the code to create some <a href="https://lh3.googleusercontent.com/-aLSHUuHtp4E/UfgMkXm5bAI/AAAAAAABFTA/RVhy4Yv8EAs/w426-h237/opacity.avi">awesome effects</a>.</li>
+<li><a href="http://ascii.io/a/4348">Never leave the terminal</a> - Konstantin Haase shared this great resource. Go watch it!</li>
+<li><a href="http://www.meetup.com/vienna-rb/events/125429382/">#pairwithme</a> - We'd love to experiment a little with pair programming sessions! For the next meetup we reserve 18:00 - 19:00 for pairing, with the talks starting at 19:15. Drop by at 6pm and we'll hook you up with a partner!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -146,45 +176,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 <li><a href="https://github.com/dunxrion/console.image">console.image</a> - The one thing Chrome Dev Tools didn't need. The day has come when you have the ability to put images in the console.</li>
 <li><a href="www.dodgycoder.net/p/programming-trends.html">Programming Trends</a> - Programming trends on StackOverflow.</li>
 <li><a href="http://fredwu.me/post/54175219257/the-future-of-computing-the-future-of-computer">Interview with Matz</a> - The future of computing, the future of computer programmers - an interview with Yukihiro Matsumoto.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/07/02/picks/"/>
-    <updated>2013-07-02T13:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/07/02/picks</id>
-    <content type="html"><![CDATA[<h3>2/7 Picks!!</h3>
-
-<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the eleventh edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://theforeman.org/">The Foreman</a> - The Foreman is a complete lifecycle management tool for physical and virtual servers.</li>
-<li><a href="http://vagabond.github.io/2013/06/21/z_packagers-dont-know-best/?utm_content=buffer0a898&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Packagers don't know best</a> - Why package maintainers and the authors of software should work together.</li>
-<li><a href="http://vagabond.github.io/2013/06/21/zz_packaging-and-the-tide-of-history/">Packaging and the tide of history</a> - And the follow up.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/rs-dev/ripper-tags">ripper-tags</a> - fast, accurate ctags generator for ruby source code using Ripper (work in progress - please check the upstream, too)</li>
-<li><a href="http://torso.me/chicken">Chicken chicken chicken</a> - chicken chicken</li>
-<li><a href="http://blog.codeship.io/2013/07/02/testing-tuesday-12-euruko-2013.html">Report from EuRuKo 2013</a> - by Clemens from Codeship</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://tosdr.org/">tosdr</a> - Because “I have read and agree to the Terms” is the biggest lie on the web.</li>
-<li><a href="http://huboard.com/">Huboard</a> - Instant project management for GitHub repositories.</li>
-<li><a href="http://dribbble.com/shots/1124541-Inc-app-to-share-knowledge-within-your-company?list=following">Inc</a> - App to share knowledge within your company, from the makers of Kippt. Disclaimer: I'm a HUGE Kippt fan.</li>
 </ul>
 
 ]]></content>
