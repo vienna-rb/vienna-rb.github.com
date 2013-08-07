@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
-date: 2013-08-06 13:00
+date: 2013-08-07 13:00
 published: false
 comments: true
 categories:
   - picks
 ---
 
-### 6/8 Picks!!
+### 7/8 Picks!!
 
 In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the sixteenth edition:
@@ -17,11 +17,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [][2] - 
   - [][3] - 
   - [][4] - 
-  
-##### [][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
   
 ##### [Floor][9]:
   - [Animated Opacity for Hangout Overlays][10] - The Hangouts API team recently released a new feature in the Dev Channel of the Hangouts API, that allows controlling the opacity of overlays. Check out how Gerwin Sturm's has been playing around with the code to create some [awesome effects][13]. 
@@ -32,10 +27,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [2]: 
 [3]: 
 [4]: 
-[5]: http://www.twitter.com/
-[6]: 
-[7]: 
-[8]: 
 [9]: http://www.twitter.com/floordrees
 [10]: https://plus.google.com/117030170248799553421/posts/CUhUAQwKxFz
 [11]: http://ascii.io/a/4348
