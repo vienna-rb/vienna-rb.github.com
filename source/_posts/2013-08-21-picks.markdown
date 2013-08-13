@@ -14,8 +14,9 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the eightteenth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
+  - [Hyperloop][2] - Short of figuring out real teleportation, which would of course be awesome (someone please do this), the only option for super fast travel is to build a tube 
+over or under the ground. Read why it's so tricky and how they want to solve this.
+  - [Maestro][3] - Container orchestration for Docker environments.
   - [][4] - 
   
 ##### [][5]:
@@ -29,8 +30,8 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [eurucamp][12] - 
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
+[2]: http://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf
+[3]: https://github.com/toscanini/maestro
 [4]: 
 [5]: http://www.twitter.com/
 [6]: 
