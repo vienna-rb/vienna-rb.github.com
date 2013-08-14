@@ -14,9 +14,8 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the eightteenth edition:
 
 ##### [Andy][1]:
-  - [Hyperloop][2] - Short of figuring out real teleportation, which would of course be awesome (someone please do this), the only option for super fast travel is to build a tube 
-over or under the ground. Read why it's so tricky and how they want to solve this.
-  - [Maestro][3] - Container orchestration for Docker environments.
+  - [][2] - 
+  - [][3] - 
   - [][4] - 
   
 ##### [][5]:
@@ -26,12 +25,12 @@ over or under the ground. Read why it's so tricky and how they want to solve thi
   
 ##### [Floor][9]:
   - [Kids'n'Tech][10] - Kids'n'Tech teaches HTML code
-  - [Green slate][11] - Now you too can drink the "we only hire opensource contributors" kool-aid ;)
+  - [][11] - 
   - [eurucamp][12] - 
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: http://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf
-[3]: https://github.com/toscanini/maestro
+[2]: 
+[3]: 
 [4]: 
 [5]: http://www.twitter.com/
 [6]: 
@@ -39,5 +38,5 @@ over or under the ground. Read why it's so tricky and how they want to solve thi
 [8]: 
 [9]: http://www.twitter.com/floordrees
 [10]: inventures.eu/kidsntech-teaches-html-code
-[11]: https://github.com/Mamady/green-slate
+[11]: 
 [12]: 

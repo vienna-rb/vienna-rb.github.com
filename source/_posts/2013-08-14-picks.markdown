@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
-date: 2013-08-14 13:00
-published: false
+date: 2013-08-14 12:00
+published: true
 comments: true
 categories:
   - picks
@@ -14,29 +14,21 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the seventeenth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
-  
-##### [][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
+  - [Hyperloop][2] - Short of figuring out real teleportation, which would of course be awesome (someone please do this), the only option for super fast travel is to build a tube 
+over or under the ground. Read why it's so tricky and how they want to solve this.
+  - [Maestro][3] - Container orchestration for Docker environments.
+  - [Shell script ahoy][4] - What I learned from other's shell scripts.
   
 ##### [Floor][9]:
   - [Complicated Mechanisms Explained][10] - Complicated Mechanisms Explained in simple animations. I think this is just great.
   - [Codepen][11] - I really love Codepen's team picks of great CSS stuff on their homepage!
-  - [@FirefoxDevTools][12] - My favorite browser's debugger tool sends out tweets! (And they're funny and insightful!)
+  - [Green slate][12] - Now you too can drink the "we only hire opensource contributors" kool-aid ;)
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
-[5]: http://www.twitter.com/
-[6]: 
-[7]: 
-[8]: 
+[2]: http://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf
+[3]: https://github.com/toscanini/maestro
+[4]: http://www.fizerkhan.com/blog/posts/What-I-learned-from-other-s-shell-scripts.html
 [9]: http://www.twitter.com/floordrees
 [10]: http://mytechnologyworld9.blogspot.co.at/2010/08/complicated-mechanisms-explained-in.html
 [11]: http://codepen.io/
-[12]: https://twitter.com/FirefoxDevTools
+[12]: https://github.com/Mamady/green-slate
