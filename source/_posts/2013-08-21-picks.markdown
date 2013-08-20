@@ -17,26 +17,17 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [][2] - 
   - [][3] - 
   - [][4] - 
-  
-##### [][5]:
-  - [][6] - 
-  - [][7] - 
-  - [][8] - 
-  
+
 ##### [Floor][9]:
   - [Kids'n'Tech][10] - Kids'n'Tech teaches HTML code
-  - [][11] - 
-  - [eurucamp][12] - 
+  - [Git tips][11] - because there's no such thing as knowing to many shortcuts.
+  - [Scala tutorials][12] - Looking forward to the launch of scalatutorials.com, MOAR learning!
 
 [1]: http://www.twitter.com/pxlpnk
 [2]: 
 [3]: 
 [4]: 
-[5]: http://www.twitter.com/
-[6]: 
-[7]: 
-[8]: 
 [9]: http://www.twitter.com/floordrees
-[10]: inventures.eu/kidsntech-teaches-html-code
-[11]: 
-[12]: 
+[10]: http://inventures.eu/kidsntech-teaches-html-code
+[11]: http://adit.io/posts/2013-08-16-five-useful-git-tips.html
+[12]: http://scalatutorials.com/?3d
