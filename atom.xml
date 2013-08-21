@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-08-14T12:38:04+02:00</updated>
+  <updated>2013-08-21T12:13:12+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/08/21/picks/"/>
+    <updated>2013-08-21T13:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/08/21/picks</id>
+    <content type="html"><![CDATA[<h3>21/8 Picks!!</h3>
+
+<p>In a series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the eightteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/pxlpnk/rubygems-proxy">rubygems-proxy</a> - The first version of a rubygems-proxy that caches the Gems for your local network.</li>
+<li><a href="https://github.com/shvets/gemspec_deps_gen">gemspec_deps_gen</a> - Builds your project dependencies inside gemspec file.</li>
+<li><a href="https://github.com/rom-rb/devtools">rom/devtools</a> - The perfect CI rake task.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://inventures.eu/kidsntech-teaches-html-code">Kids&#8217;n&#8217;Tech</a> - Kids&#8217;n&#8217;Tech teaches HTML code to&#8230; kids, obviously.</li>
+<li><a href="http://adit.io/posts/2013-08-16-five-useful-git-tips.html">Git tips</a> - &#8230; because there&#8217;s no such thing as knowing to many shortcuts.</li>
+<li><a href="http://scalatutorials.com/?3d">Scala tutorials</a> - Looking forward to the launch of scalatutorials.com, MOAR learning!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -609,27 +639,6 @@ Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, h
 <li><a href="http://inventures.eu/compuritas">Compuritas</a> - This Austrian startup collects old hardware, repairs, reconditions it, and sells it to people who, otherwise, would not be able to afford it.</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Third meetup sponsored by Runtastic]]></title>
-    <link href="http://vienna-rb.at/blog/2013/05/06/third-meetup-to-take-place-at-co-working-space-sektor5/"/>
-    <updated>2013-05-06T19:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/05/06/third-meetup-to-take-place-at-co-working-space-sektor5</id>
-    <content type="html"><![CDATA[<h3>Ruby on Rails user group meetup taking place at Sektor5</h3>
-
-<p>After a full house for both the first and the second vienna.rb meetups the organizing team can&#8217;t wait for their next developer get-together, taking place Thursday, May the 9th at co-working space <a href="http://sektor5.at/">Sektor5</a> (Siebenbrunnengasse 44, Vienna).
-Vienna.rb meetups are open to both experienced Ruby developers and people that are new to programming.</p>
-
-<p>The meetup is sponsored by <a href="http://www.runtastic.com/">Runtastic</a>:</p>
-
-<blockquote><p>At Runtastic we&#8217;re using Ruby and Rails since our foundation in 2010. We like to keep our developers happy, and thus bet on Ruby whenever we can. With many members of the Ruby community being present at the vienna.rb meetup, we might meet one of our future colleagues there.</p><footer><strong>Runtastic</strong></footer></blockquote>
-
-
-<p>The vienna.rb team collected topics for talks from their community. Starting with David Österreicher from Runtastic, Sarah Howorka will then talk about the <a href="https://railsgirls.com/">Rails Girls project</a>. Clemens Helm will eleborate on &#8216;The Ruby workflow&#8217; and Andreas Kopecky will give us an insight on why he uses Sequel and its advantages to Active Record. A little time is always reserved for spontaneous lightning talks from the attendees.</p>
-
-<p>For more information regarding the program and more upcoming events, please visit <a href="http://meetup.com/vienna-rb">vienna.rb on meetup</a> or follow <a href="https://twitter.com/viennarb">@viennarb</a></p>
 ]]></content>
   </entry>
   
