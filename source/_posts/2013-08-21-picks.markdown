@@ -14,9 +14,9 @@ In a little series on this website we'll entertain YOU with our picks - or: what
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the eightteenth edition:
 
 ##### [Andy][1]:
-  - [][2] - 
-  - [][3] - 
-  - [][4] - 
+  - [rubygems-proxy][2] - The first version of a rubygems-proxy that caches the Gems for your local network.
+  - [gemspec_deps_gen][3] - Builds your project dependencies inside gemspec file.
+  - [rom/devtools][4] - The perfect CI rake task.
 
 ##### [Floor][9]:
   - [Kids'n'Tech][10] - Kids'n'Tech teaches HTML code
@@ -24,9 +24,9 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
   - [Scala tutorials][12] - Looking forward to the launch of scalatutorials.com, MOAR learning!
 
 [1]: http://www.twitter.com/pxlpnk
-[2]: 
-[3]: 
-[4]: 
+[2]: https://github.com/pxlpnk/rubygems-proxy
+[3]: https://github.com/shvets/gemspec_deps_gen
+[4]: https://github.com/rom-rb/devtools
 [9]: http://www.twitter.com/floordrees
 [10]: http://inventures.eu/kidsntech-teaches-html-code
 [11]: http://adit.io/posts/2013-08-16-five-useful-git-tips.html
