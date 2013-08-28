@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-08-21T12:13:12+02:00</updated>
+  <updated>2013-08-28T12:30:42+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/08/28/picks/"/>
+    <updated>2013-08-28T12:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/08/28/picks</id>
+    <content type="html"><![CDATA[<h3>28/8 Picks!!</h3>
+
+<p>In a series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the nineteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://about.travis-ci.org/blog/2013-08-08-solving-the-puzzle-of-scalable-log-processing">Solving the Puzzle of Scalable Log Processing</a> - How Travis CI deals with the logs of AAAAALL the builds.</li>
+<li><a href="https://speakerdeck.com/wfarr/puppet-at-github-puppetconf-2013">Puppet at GitHub</a> - Will Farrington gives an insight on how GitHub uses Puppet.</li>
+<li><a href="http://www.slideshare.net/PuppetLabs/thur-945-gordonrowell12slides-25538241">Keynote PuppetConf 2013</a> - Why Did We Think Large Scale Distributed Systems Would be Easy?</li>
+<li><a href="http://unerdwear.com/release1-2-railsgirls.html">go koans</a> - For those who want to learn Go test driven.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://devfestvienna2013.eventbrite.com/">DevFest Vienna</a> - DevFest Vienna is a three-day event designed for curious developers. Their Sunday hackathon is OpenHack-styled and aims to get Vienna&#8217;s user groups working together on projects.</li>
+<li><a href="http://blog.gitlab.org/gitlab-6-dot-0-released/">GitLab 6.0 Released</a> - My friends at GitLab released their latest version, with loads of improvements. Merge requests ftw!</li>
+<li><a href="http://unerdwear.com/release1-2-railsgirls.html">unerdwear</a> - Unerdwear created a special &#8216;nerdie&#8217; for Rails Girls - a late summer MUST-HAVE. All profits will be donated to Rails Girls Summer of Code.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -600,45 +631,6 @@ are involved in any kind of creative processes, you should watch it.</li>
 <h5>Clemens Helm on the Codeship workflow</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/111533282/">meetup</a> on June the 6th at Sektor5!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/05/08/picks/"/>
-    <updated>2013-05-08T13:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/05/08/picks</id>
-    <content type="html"><![CDATA[<h3>08/5 Picks!!</h3>
-
-<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the fourth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://blog.codeship.io/2013/05/07/Testing-Tuesday-4-Continuous-Integration-and-Deployment-with-Cucumber.html">Testing Tuesday #4: Continuous Integration and Deployment with Cucumber</a> - <a href="http://codeship.io">codeship.io</a> has a great series testing and deployment you should follow.</li>
-<li><a href="http://blog.thefrontiergroup.com.au/2013/05/writing-a-good-readme/">Writing a good README</a> - Why a good README is important and a few tricks that help you with it.</li>
-<li><a href="http://samwho.co.uk/blog/2013/04/13/the-birth-and-death-of-a-running-program/">Birth and death of a running programm</a> - A deeper look on the lifecycle of a C program.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="http://thedailywtf.com/">The Daily WTF</a> - relax and laugh - or choke on the worst code you&#8217;ll ever see.</li>
-<li><a href="https://www.relishapp.com/">Relish</a> - Living documentation (if you use cucumber). Including RSpec, cucumber, mongoid, diaspora et al.</li>
-<li><a href="https://github.com/drapergem/draper">Draper</a> - Decorators for Rails Applications</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://abangratz.github.io/blog/2013/04/28/git-eep-or-how-to-resolve-git-errors/">git eep</a> - Fellow vienna.rb&#8217;er Tony wrote some great stuff about how to deal with git on his &#8216;blag&#8217;.</li>
-<li><a href="http://www.creativeapplications.net/objects/vincent-emily-two-robots-in-a-relationship-struggle-and-emotional-conflict/">Vincent &amp; Emily</a> - Modern day love story.</li>
-<li><a href="http://inventures.eu/compuritas">Compuritas</a> - This Austrian startup collects old hardware, repairs, reconditions it, and sells it to people who, otherwise, would not be able to afford it.</li>
-</ul>
-
 ]]></content>
   </entry>
   

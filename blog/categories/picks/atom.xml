@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-08-21T12:13:12+02:00</updated>
+  <updated>2013-08-28T12:30:42+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/08/28/picks/"/>
+    <updated>2013-08-28T12:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/08/28/picks</id>
+    <content type="html"><![CDATA[<h3>28/8 Picks!!</h3>
+
+<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the nineteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://about.travis-ci.org/blog/2013-08-08-solving-the-puzzle-of-scalable-log-processing">Solving the Puzzle of Scalable Log Processing</a> - How Travis CI deals with the logs of AAAAALL the builds.</li>
+<li><a href="https://speakerdeck.com/wfarr/puppet-at-github-puppetconf-2013">Puppet at GitHub</a> - Will Farrington gives an insight on how GitHub uses Puppet.</li>
+<li><a href="http://www.slideshare.net/PuppetLabs/thur-945-gordonrowell12slides-25538241">Keynote PuppetConf 2013</a> - Why Did We Think Large Scale Distributed Systems Would be Easy?</li>
+<li><a href="http://unerdwear.com/release1-2-railsgirls.html">go koans</a> - For those who want to learn Go test driven.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://devfestvienna2013.eventbrite.com/">DevFest Vienna</a> - DevFest Vienna is a three-day event designed for curious developers. Their Sunday hackathon is OpenHack-styled and aims to get Vienna's user groups working together on projects.</li>
+<li><a href="http://blog.gitlab.org/gitlab-6-dot-0-released/">GitLab 6.0 Released</a> - My friends at GitLab released their latest version, with loads of improvements. Merge requests ftw!</li>
+<li><a href="http://unerdwear.com/release1-2-railsgirls.html">unerdwear</a> - Unerdwear created a special 'nerdie' for Rails Girls - a late summer MUST-HAVE. All profits will be donated to Rails Girls Summer of Code.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -129,36 +160,6 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 <li><a href="https://www.bloc.io/ruby-warrior">warrior.attack!</a> - Code Ruby to get further in this cute game!</li>
 <li><a href="http://www.newscientist.com/article/mg21929275.800-kindergarten-coders-can-program-before-they-can-read.html">Kindergarten coders</a> - 4-year-olds are learning to program thanks to a new graphics-based coding language</li>
 <li><a href="http://www.onextrapixel.com/2013/07/26/website-deconstruction-myspace-com/">Deconstructing MySpace</a> - I like onextrapixel's approach to destructing non-traditional layout</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/07/26/picks/"/>
-    <updated>2013-07-26T19:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/07/26/picks</id>
-    <content type="html"><![CDATA[<h3>26/7 Picks!!</h3>
-
-<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fourteenth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="https://blog.whitehatsec.com/top-10-proactive-web-application-security-measures/">Top 10 Proactive Web Application Security Measures</a> - Security should concern everyone, from the developer to the CEO</li>
-<li><a href="http://crohr.me/pkgr/">pkgr</a> - Package your Rails app into deb or rpm packages</li>
-<li><a href="https://github.com/jordansissel/fpm">fpm</a> - Effing package managers! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://exercism.io">gem install exercism</a> - Exercism - a Katrina Owen production - is all about giving and receiving feedback. And code reviews.</li>
-<li><a href="http://laberslab.com/">Laber's lab</a> - to all the makers out there, check out the dates for the <a href="http://events.laberslab.com/">Arduino lab's</a>!</li>
-<li><a href="http://www.karriere.at/blog/co-working-sektor-5.html">Sektor5</a> - neat post (with dito pictures) about the co-working space that hosts our monthly meetups</li>
 </ul>
 
 ]]></content>
