@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-08-28T12:30:42+02:00</updated>
+  <updated>2013-09-04T13:34:04+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/09/04/picks/"/>
+    <updated>2013-09-04T13:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/09/04/picks</id>
+    <content type="html"><![CDATA[<h3>4/9 Picks!!</h3>
+
+<p>In a series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the twentieth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://notmagic.org/2013/09/02/unit_testing_for_the_non_tdder">Unit Testing for the Non-TDDer</a> - Nice post by Bryan Powell on how he as a self-proclaimed non-tester was indeed testing, and started testing much earlier than he thought.</li>
+<li><a href="http://www.braveclojure.com/">brave clojure</a> - Clojure for the Brave and True. Yep.</li>
+<li><a href="http://slid.es/markusschirp/mutation-testing">mutation testing</a> - Markus Schirp&#8217;s slides of his mutation testing talk (as seen at eurucamp and RedFrogConf).</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://jhollingworth.github.io/bootstrap-wysihtml5/">bootstrap-wysihtml5</a> - Simple, beautiful wysiwyg editors.</li>
+<li><a href="http://www.devfest.at/agenda">DevFest Vienna</a> - The program for DevFest Vienna is up, go register (especially for the hackathon - vienna.rb represent!)</li>
+<li><a href="http://devblog.avdi.org/2013/08/26/confident-ruby-is-finished/">Confident Ruby</a> - Avdi&#8217;s lastest brain child (Confident Ruby), is finished. Get your (e)copy!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -612,25 +642,6 @@ are involved in any kind of creative processes, you should watch it.</li>
 <li><a href="http://metro.co.uk/2012/12/18/the-it-crowd-set-for-return-in-2013-3320945/">Hello, IT, have you tried turning it off and on again?</a>] - The IT Crowd returns to Channel 4 for a final episode</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The slides of our third meetup are online]]></title>
-    <link href="http://vienna-rb.at/blog/2013/05/10/the-slides-are-online/"/>
-    <updated>2013-05-10T11:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/05/10/the-slides-are-online</id>
-    <content type="html"><![CDATA[<h2>ALL the slides</h2>
-
-<p>Hi there, we just pushed the slides of the second meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
-
-<h5>Andreas Kopecky on Sequel</h5>
-
-<h5>Sarah Howorka on the Rails Girls project and a bunch of other stuff</h5>
-
-<h5>Clemens Helm on the Codeship workflow</h5>
-
-<p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/111533282/">meetup</a> on June the 6th at Sektor5!</p>
 ]]></content>
   </entry>
   
