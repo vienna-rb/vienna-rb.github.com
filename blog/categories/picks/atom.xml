@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-09-04T13:34:04+02:00</updated>
+  <updated>2013-09-19T11:07:01+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/09/19/picks/"/>
+    <updated>2013-09-19T11:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/09/19/picks</id>
+    <content type="html"><![CDATA[<h3>19/9 Picks!!</h3>
+
+<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twenty-second edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://emacsredux.com/">Emacs Redux</a> - Return to the Essence of Text Editing.</li>
+<li><a href="http://explainshell.com/">Explain Shell</a> - Explain what your command line parameters are doing, also see <a href="https://github.com/schneems/explain_shell">this</a> to use it from your shell.</li>
+<li><a href="http://www.codewars.com/">Codewars</a> - Enhance your mind with coding katas.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/chrishunt/git-pissed">git-pissed</a> - <code>git pissed</code> tracks any number of words across your entire git history. And that's hilarious.</li>
+<li><a href="http://thechangelog.com/103/">GitLab</a> - Talking GitLab and open source with Sytse Sijbrandij.</li>
+<li><a href="http://www.rubyflow.com/items/9780-sinatra-planet-planet-web-app-powered-by-pluto-gem-planet-rub">Planet Ruby</a> - vienna.rb regular Gerald Bauer doing fun stuff with the pluto gem: <a href="https://github.com/geraldb/pluto.live">pluto.live</a>.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -130,36 +160,6 @@ over or under the ground. Read why it's so tricky and how they want to solve thi
 <li><a href="http://mytechnologyworld9.blogspot.co.at/2010/08/complicated-mechanisms-explained-in.html">Complicated Mechanisms Explained</a> - Complicated Mechanisms Explained in simple animations. I think this is just great.</li>
 <li><a href="http://codepen.io/">Codepen</a> - I really love Codepen's team picks of great CSS stuff on their homepage!</li>
 <li><a href="https://github.com/Mamady/green-slate">Green slate</a> - Now you too can drink the "we only hire opensource contributors" kool-aid ;)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/08/07/picks/"/>
-    <updated>2013-08-07T13:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/08/07/picks</id>
-    <content type="html"><![CDATA[<h3>7/8 Picks!!</h3>
-
-<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the sixteenth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://www.newstatesman.com/2013/07/mysteries-bicycle">We still don’t really know how bicycles work</a> - Forget mysterious dark matter and the inexplicable accelerating expansion of the universe; the bicycle represents a far more embarrassing hole in the accomplishments of physics</li>
-<li><a href="http://www.docker.io/">docker.io</a> - Docker is an open-source engine which automates the deployment of applications as highly portable, self-sufficient containers.</li>
-<li><a href="https://github.com/pagekite/Mailpile">Mailpile</a> - <a href="http:/www.mailpile.is/">Mailpile</a> is a free-as-in-freedom personal e-mail searching and indexing tool, largely inspired by Google's popular proprietary-but-gratis e-mail service. Check out their fundraiser http://igg.me/at/mailpile</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://plus.google.com/117030170248799553421/posts/CUhUAQwKxFz">Animated Opacity for Hangout Overlays</a> - The Hangouts API team recently released a new feature in the Dev Channel of the Hangouts API, that allows controlling the opacity of overlays. Check out how Gerwin Sturm's has been playing around with the code to create some <a href="https://lh3.googleusercontent.com/-aLSHUuHtp4E/UfgMkXm5bAI/AAAAAAABFTA/RVhy4Yv8EAs/w426-h237/opacity.avi">awesome effects</a>.</li>
-<li><a href="http://ascii.io/a/4348">Never leave the terminal</a> - Konstantin Haase shared this great resource. Go watch it!</li>
-<li><a href="http://www.meetup.com/vienna-rb/events/125429382/">#pairwithme</a> - We'd love to experiment a little with pair programming sessions! For the next meetup we reserve 18:00 - 19:00 for pairing, with the talks starting at 19:15. Drop by at 6pm and we'll hook you up with a partner!</li>
 </ul>
 
 ]]></content>
