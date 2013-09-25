@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-09-19T11:07:01+02:00</updated>
+  <updated>2013-09-25T12:32:16+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/09/25/picks/"/>
+    <updated>2013-09-25T12:30:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/09/25/picks</id>
+    <content type="html"><![CDATA[<h3>25/9 Picks!!</h3>
+
+<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twenty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://explain.depesz.com/">explain analyze</a> - A tool for finding a real cause for slow queries.</li>
+<li><a href="https://github.com/FloorD/ninjanine">ninjanine</a> - A helpful guide for beginners an Rails Girls participants. Cover terminal usage, some Ruby tricks and hints what to do when you get stuck.</li>
+<li><a href="https://github.com/k4rthik/git-cal">git-cal</a> - For the uber nerd that wants to Git everything.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://ryanseys.com/blog/177-days-of-github/">Eat, sleep, commit</a> - How challenging yourself to contributing to open source every day changes your life... for the better!</li>
+<li><a href="http://googlecreativelab.github.io/coder/">CODER</a> - A simple way to make web stuff on Raspberry Pi.</li>
+<li><a href="http://blog.codosaur.us/">codosaur.us</a> - Adventures of a dinosaur evolving to meet today's challenges. Or actually: Dave Aronson sharing his thoughts on writing 'good Ruby'.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -129,37 +159,6 @@ Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's fo
 <li><a href="http://inventures.eu/kidsntech-teaches-html-code">Kids'n'Tech</a> - Kids'n'Tech teaches HTML code to... kids, obviously.</li>
 <li><a href="http://adit.io/posts/2013-08-16-five-useful-git-tips.html">Git tips</a> - ... because there's no such thing as knowing to many shortcuts.</li>
 <li><a href="http://scalatutorials.com/?3d">Scala tutorials</a> - Looking forward to the launch of scalatutorials.com, MOAR learning!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/08/14/picks/"/>
-    <updated>2013-08-14T12:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/08/14/picks</id>
-    <content type="html"><![CDATA[<h3>14/8 Picks!!</h3>
-
-<p>In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the seventeenth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf">Hyperloop</a> - Short of figuring out real teleportation, which would of course be awesome (someone please do this), the only option for super fast travel is to build a tube
-over or under the ground. Read why it's so tricky and how they want to solve this.</li>
-<li><a href="https://github.com/toscanini/maestro">Maestro</a> - Container orchestration for Docker environments.</li>
-<li><a href="http://www.fizerkhan.com/blog/posts/What-I-learned-from-other-s-shell-scripts.html">Shell script ahoy</a> - What I learned from other's shell scripts.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://mytechnologyworld9.blogspot.co.at/2010/08/complicated-mechanisms-explained-in.html">Complicated Mechanisms Explained</a> - Complicated Mechanisms Explained in simple animations. I think this is just great.</li>
-<li><a href="http://codepen.io/">Codepen</a> - I really love Codepen's team picks of great CSS stuff on their homepage!</li>
-<li><a href="https://github.com/Mamady/green-slate">Green slate</a> - Now you too can drink the "we only hire opensource contributors" kool-aid ;)</li>
 </ul>
 
 ]]></content>
