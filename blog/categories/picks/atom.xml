@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-09-25T12:32:16+02:00</updated>
+  <updated>2013-10-02T12:44:20+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/10/02/picks/"/>
+    <updated>2013-10-02T12:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/10/02/picks</id>
+    <content type="html"><![CDATA[<h3>02/10 Picks!!</h3>
+
+<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twenty-fourth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://www.shellcheck.net/">shellcheck</a> - automatically detects problems with sh/bash scripts and commands.</li>
+<li><a href="https://github.com/rowanmanning/joblint">joblint</a> - tests tech job specs for issues with sexism, culture, expectations, and recruiter fails.</li>
+<li><a href="http://www.phenoelit.org/blog/archives/2013/09/24/ruby_on_rails_default_token_database/index.html">Secret Token</a> - Ruby on Rails Default Token Database detects if a signing token is known somewhere in the Internet, or not.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://gistflow.com/posts/901-sandi_meter-tool-for-checking-sandi-metz-rules">sandi_meter</a> - Introducing: a gem which automates scanning your code versus Sandi Metz' rules.</li>
+<li><a href="http://googlevis.frontwise.com/#3|2012|1|">GoogleVis</a> - Frontwise sure knows how to visualize the Takedown Requests dataset from Google!</li>
+<li><a href="http://www.confreaks.com/videos/432-rubyconf2010-the-road-from-ruby-hacker-to-entrepreneur">RubyConf 2010</a> - The Road from Ruby Hacker to Entrepreneur (by GitHub's Tom Preston-Werner).</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -129,36 +159,6 @@ Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's fo
 <li><a href="http://devfestvienna2013.eventbrite.com/">DevFest Vienna</a> - DevFest Vienna is a three-day event designed for curious developers. Their Sunday hackathon is OpenHack-styled and aims to get Vienna's user groups working together on projects.</li>
 <li><a href="http://blog.gitlab.org/gitlab-6-dot-0-released/">GitLab 6.0 Released</a> - My friends at GitLab released their latest version, with loads of improvements. Merge requests ftw!</li>
 <li><a href="http://unerdwear.com/release1-2-railsgirls.html">unerdwear</a> - Unerdwear created a special 'nerdie' for Rails Girls - a late summer MUST-HAVE. All profits will be donated to Rails Girls Summer of Code.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/08/21/picks/"/>
-    <updated>2013-08-21T13:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/08/21/picks</id>
-    <content type="html"><![CDATA[<h3>21/8 Picks!!</h3>
-
-<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the eightteenth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/pxlpnk/rubygems-proxy">rubygems-proxy</a> - The first version of a rubygems-proxy that caches the Gems for your local network.</li>
-<li><a href="https://github.com/shvets/gemspec_deps_gen">gemspec_deps_gen</a> - Builds your project dependencies inside gemspec file.</li>
-<li><a href="https://github.com/rom-rb/devtools">rom/devtools</a> - The perfect CI rake task.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://inventures.eu/kidsntech-teaches-html-code">Kids'n'Tech</a> - Kids'n'Tech teaches HTML code to... kids, obviously.</li>
-<li><a href="http://adit.io/posts/2013-08-16-five-useful-git-tips.html">Git tips</a> - ... because there's no such thing as knowing to many shortcuts.</li>
-<li><a href="http://scalatutorials.com/?3d">Scala tutorials</a> - Looking forward to the launch of scalatutorials.com, MOAR learning!</li>
 </ul>
 
 ]]></content>
