@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-10-02T12:44:20+02:00</updated>
+  <updated>2013-10-09T13:18:33+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/10/09/picks/"/>
+    <updated>2013-10-09T12:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/10/09/picks</id>
+    <content type="html"><![CDATA[<h3>09/10 Picks!!</h3>
+
+<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twenty-fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=rHIIUPov0DU">Boson for kids</a> - The boson explained for children (grownups can watch too).</li>
+<li><a href="http://vimeo.com/user18356272/review/66548720/99c7fe5c0c">Applicative functors - you probably haven't heard of them</a> - What every hipster should know about Functional Programming (<a href="http://bodil.org/hipster">slides</a>).</li>
+<li><a href="https://www.usenix.org/conference/woot13/page-fault-weird-machine-lessons-instruction-less-computation">Weird Machines</a> - Lessons in Instruction-less Computation, from the WOOT '13 conference.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.iloveopensource.io/">iloveopensource</a> - And I'm not afraid to show it!</li>
+<li><a href="http://www1.idc.ac.il/tecs/course/talk.pdf">From Nand to Tetris in 12 Steps</a> - Currently going through this, super interesting.</li>
+<li><a href="http://www.onextrapixel.com/2013/09/30/the-legacy-of-web-languages">The Legacy of Web Languages</a> - Compared to the web of old, the way we develop sites has altered drastically. Here's how.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -128,37 +158,6 @@ Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's fo
 <li><a href="http://jhollingworth.github.io/bootstrap-wysihtml5/">bootstrap-wysihtml5</a> - Simple, beautiful wysiwyg editors.</li>
 <li><a href="http://www.devfest.at/agenda">DevFest Vienna</a> - The program for DevFest Vienna is up, go register (especially for the hackathon - vienna.rb represent!)</li>
 <li><a href="http://devblog.avdi.org/2013/08/26/confident-ruby-is-finished/">Confident Ruby</a> - Avdi's lastest brain child (Confident Ruby), is finished. Get your (e)copy!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/08/28/picks/"/>
-    <updated>2013-08-28T12:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/08/28/picks</id>
-    <content type="html"><![CDATA[<h3>28/8 Picks!!</h3>
-
-<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the nineteenth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://about.travis-ci.org/blog/2013-08-08-solving-the-puzzle-of-scalable-log-processing">Solving the Puzzle of Scalable Log Processing</a> - How Travis CI deals with the logs of AAAAALL the builds.</li>
-<li><a href="https://speakerdeck.com/wfarr/puppet-at-github-puppetconf-2013">Puppet at GitHub</a> - Will Farrington gives an insight on how GitHub uses Puppet.</li>
-<li><a href="http://www.slideshare.net/PuppetLabs/thur-945-gordonrowell12slides-25538241">Keynote PuppetConf 2013</a> - Why Did We Think Large Scale Distributed Systems Would be Easy?</li>
-<li><a href="http://unerdwear.com/release1-2-railsgirls.html">go koans</a> - For those who want to learn Go test driven.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://devfestvienna2013.eventbrite.com/">DevFest Vienna</a> - DevFest Vienna is a three-day event designed for curious developers. Their Sunday hackathon is OpenHack-styled and aims to get Vienna's user groups working together on projects.</li>
-<li><a href="http://blog.gitlab.org/gitlab-6-dot-0-released/">GitLab 6.0 Released</a> - My friends at GitLab released their latest version, with loads of improvements. Merge requests ftw!</li>
-<li><a href="http://unerdwear.com/release1-2-railsgirls.html">unerdwear</a> - Unerdwear created a special 'nerdie' for Rails Girls - a late summer MUST-HAVE. All profits will be donated to Rails Girls Summer of Code.</li>
 </ul>
 
 ]]></content>

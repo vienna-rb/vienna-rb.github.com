@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-10-02T12:44:20+02:00</updated>
+  <updated>2013-10-09T13:18:33+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/10/09/picks/"/>
+    <updated>2013-10-09T12:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/10/09/picks</id>
+    <content type="html"><![CDATA[<h3>09/10 Picks!!</h3>
+
+<p>In a series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the twenty-fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=rHIIUPov0DU">Boson for kids</a> - The boson explained for children (grownups can watch too).</li>
+<li><a href="http://vimeo.com/user18356272/review/66548720/99c7fe5c0c">Applicative functors - you probably haven&#8217;t heard of them</a> - What every hipster should know about Functional Programming (<a href="http://bodil.org/hipster">slides</a>).</li>
+<li><a href="https://www.usenix.org/conference/woot13/page-fault-weird-machine-lessons-instruction-less-computation">Weird Machines</a> - Lessons in Instruction-less Computation, from the WOOT &#8216;13 conference.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.iloveopensource.io/">iloveopensource</a> - And I&#8217;m not afraid to show it!</li>
+<li><a href="http://www1.idc.ac.il/tecs/course/talk.pdf">From Nand to Tetris in 12 Steps</a> - Currently going through this, super interesting.</li>
+<li><a href="http://www.onextrapixel.com/2013/09/30/the-legacy-of-web-languages">The Legacy of Web Languages</a> - Compared to the web of old, the way we develop sites has altered drastically. Here&#8217;s how.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -590,37 +620,6 @@ Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, h
 <h5>Gerald Bauer - Using Markdown for building books, websites or presentations</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/111534092/">meetup</a>, July 18 at Sektor5!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/06/04/picks/"/>
-    <updated>2013-06-04T16:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/06/04/picks</id>
-    <content type="html"><![CDATA[<h3>4/6 Picks!!</h3>
-
-<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the seventh edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://dave.cheney.net/2013/06/04/how-go-uses-go-to-build-itself">How Go uses Go to build itself</a> - I am always fascinated when a programming language can compile or interpret itself.</li>
-<li><a href="https://discuss.gemnasium.com/t/afraid-of-the-big-nasty-gem/24">Afraid of the big nasty gem?</a> - Ever thought about evil code in a RubyGem you use? Or how can I trust software of 3rd parties?</li>
-<li><a href="http://ascii.io/">http://ascii.io/</a> - ascii.io is a neat tool to make command-line based screencasts, where you even can copy and paste the text.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/thomasweng15/E.V.E.">E.V.E.</a> - E.V.E. is a Star Trek / Jarvis type computer written in Python. Run the program, and E.V.E. will activate whenever you say &#8220;okay computer,&#8221; after which you can ask it a question / command.</li>
-<li><a href="http://blog.gitlab.org/packaging-gitlab-for-fedora-a-gsoc-2013-project/">GitLab Summer of Code</a> - GitLab (the open source alternative to GitHub) is a Google Summer of Code project.</li>
-<li><a href="http://www.meetup.com/PyLadies-Vienna/events/108443152/">PyLadies Vienna</a> - As one of the co-organizers of PyLadies Vienna I can&#8217;t help but promote our beginners course to Python. Spread the word!</li>
-<li><a href="http://www.reddit.com/r/AskReddit/comments/1f607z/owners_of_a_raspberry_pi_what_do_you_use_it_for">Raspberry Pi</a> - Learn what other people use their Raspberry Pi for!</li>
-</ul>
-
 ]]></content>
   </entry>
   
