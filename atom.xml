@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-10-09T13:18:33+02:00</updated>
+  <updated>2013-10-16T15:47:17+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/10/16/picks/"/>
+    <updated>2013-10-16T12:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/10/16/picks</id>
+    <content type="html"><![CDATA[<h3>16/10 Picks!!</h3>
+
+<p>In a series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the twenty-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://vimeo.com/32422551">Nyan Cat RSpec Formatter</a> - Because&#8230; why the hell not?</li>
+<li><a href="http://government.github.com/">GitHub and Government</a> - Make government better, together.</li>
+<li><a href="http://rubini.us/2013/10/15/introducing-rubinius-x/">Rubinius X</a> - Introducing a different kind of Ruby.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://devandpencil.herokuapp.com/blog/2013/10/09/being-an-asshole-does-not-make-you-awesome/?utm_content=bufferdd261&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Ruby gems gone wrong</a> - On inconsiderate gem naming, wholeheartedly agree.</li>
+<li><a href="http://ossperks.com/">OSS Perks</a> - A listing of tools that are made freely available to open source projects.</li>
+<li><a href="http://www.1stfloorgraphics.nl/2013/10/14/rupy-budapest-2013-the-day-after/">RuPy</a> - Couldn&#8217;t make it to this year&#8217;s RuPy conference? Thank Glob I wrote a recap.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -601,25 +631,6 @@ Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, h
 <li><a href="https://gocardless.com/blog/raspberry-pi-metric-dashboards/">Office Pi</a> - GoCardless cooked up a fancy Office Dashboard Pi.</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The slides of our fourth meetup are online]]></title>
-    <link href="http://vienna-rb.at/blog/2013/06/07/slides-4th-meetup-online/"/>
-    <updated>2013-06-07T14:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/06/07/slides-4th-meetup-online</id>
-    <content type="html"><![CDATA[<h2>Brace yourselves, the slides are coming</h2>
-
-<p>Hi there, we just pushed the slides of the fourth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
-
-<h5>Markus Prinz - 10 things you didn&#8217;t know about Postgres</h5>
-
-<h5>Martin Natano - Implementing git-orm</h5>
-
-<h5>Gerald Bauer - Using Markdown for building books, websites or presentations</h5>
-
-<p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/111534092/">meetup</a>, July 18 at Sektor5!</p>
 ]]></content>
   </entry>
   

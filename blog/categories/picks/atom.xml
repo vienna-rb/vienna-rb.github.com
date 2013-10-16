@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-10-09T13:18:33+02:00</updated>
+  <updated>2013-10-16T15:47:17+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/10/16/picks/"/>
+    <updated>2013-10-16T12:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/10/16/picks</id>
+    <content type="html"><![CDATA[<h3>16/10 Picks!!</h3>
+
+<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twenty-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://vimeo.com/32422551">Nyan Cat RSpec Formatter</a> - Because... why the hell not?</li>
+<li><a href="http://government.github.com/">GitHub and Government</a> - Make government better, together.</li>
+<li><a href="http://rubini.us/2013/10/15/introducing-rubinius-x/">Rubinius X</a> - Introducing a different kind of Ruby.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://devandpencil.herokuapp.com/blog/2013/10/09/being-an-asshole-does-not-make-you-awesome/?utm_content=bufferdd261&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Ruby gems gone wrong</a> - On inconsiderate gem naming, wholeheartedly agree.</li>
+<li><a href="http://ossperks.com/">OSS Perks</a> - A listing of tools that are made freely available to open source projects.</li>
+<li><a href="http://www.1stfloorgraphics.nl/2013/10/14/rupy-budapest-2013-the-day-after/">RuPy</a> - Couldn't make it to this year's RuPy conference? Thank Glob I wrote a recap.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -128,36 +158,6 @@ Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's fo
 <li><a href="https://github.com/chrishunt/git-pissed">git-pissed</a> - <code>git pissed</code> tracks any number of words across your entire git history. And that's hilarious.</li>
 <li><a href="http://thechangelog.com/103/">GitLab</a> - Talking GitLab and open source with Sytse Sijbrandij.</li>
 <li><a href="http://www.rubyflow.com/items/9780-sinatra-planet-planet-web-app-powered-by-pluto-gem-planet-rub">Planet Ruby</a> - vienna.rb regular Gerald Bauer doing fun stuff with the pluto gem: <a href="https://github.com/geraldb/pluto.live">pluto.live</a>.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/09/04/picks/"/>
-    <updated>2013-09-04T13:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/09/04/picks</id>
-    <content type="html"><![CDATA[<h3>4/9 Picks!!</h3>
-
-<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twentieth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://notmagic.org/2013/09/02/unit_testing_for_the_non_tdder">Unit Testing for the Non-TDDer</a> - Nice post by Bryan Powell on how he as a self-proclaimed non-tester was indeed testing, and started testing much earlier than he thought.</li>
-<li><a href="http://www.braveclojure.com/">brave clojure</a> - Clojure for the Brave and True. Yep.</li>
-<li><a href="http://slid.es/markusschirp/mutation-testing">mutation testing</a> - Markus Schirp's slides of his mutation testing talk (as seen at eurucamp and RedFrogConf).</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://jhollingworth.github.io/bootstrap-wysihtml5/">bootstrap-wysihtml5</a> - Simple, beautiful wysiwyg editors.</li>
-<li><a href="http://www.devfest.at/agenda">DevFest Vienna</a> - The program for DevFest Vienna is up, go register (especially for the hackathon - vienna.rb represent!)</li>
-<li><a href="http://devblog.avdi.org/2013/08/26/confident-ruby-is-finished/">Confident Ruby</a> - Avdi's lastest brain child (Confident Ruby), is finished. Get your (e)copy!</li>
 </ul>
 
 ]]></content>
