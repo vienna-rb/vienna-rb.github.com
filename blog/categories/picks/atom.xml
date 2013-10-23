@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-10-16T15:47:17+02:00</updated>
+  <updated>2013-10-23T13:22:24+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/10/23/picks/"/>
+    <updated>2013-10-23T12:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/10/23/picks</id>
+    <content type="html"><![CDATA[<h3>23/10 Picks!!</h3>
+
+<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twenty-seventh edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://www.meetup.com/Vienna-BEAMers/events/139618342/">Wiener BEAMers</a> - A new meetup in Vienna about Erlang/OTP Elixir &amp; friends.</li>
+<li><a href="http://nuclearsquid.com/writings/how-to-become-a-better-developer/">How to become a better developer</a> - The write-up to his talk at the October vienna.rb meetup.</li>
+<li><a href="http://blog.willj.net/2013/10/20/new-pi-mount-and-testing-the-power-requirements/">Raspberry Pi + Go = Robot</a> - Follow Will on his path building a robot with a Raspberry Pi and Golang.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://jack.minardi.org/projects/displaying-realtime-github-activity-on-a-full-color-led-matrix/">GitHub Arduino</a> - Fun! Displaying realtime Github activity on a full color LED Matrix.</li>
+<li><a href="http://thechangelog.com/108/">Changelog #108</a> - The Changelog talking Exercism.io with Katrina Owen.</li>
+<li><a href="http://ec.europa.eu/commission_2010-2014/kroes/en/content/25-30-november-europe-code-week">Europe Code Week</a> - 25-30 November is Europe Code Week! Join the fun!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -128,36 +158,6 @@ Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's fo
 <li><a href="https://ryanseys.com/blog/177-days-of-github/">Eat, sleep, commit</a> - How challenging yourself to contributing to open source every day changes your life... for the better!</li>
 <li><a href="http://googlecreativelab.github.io/coder/">CODER</a> - A simple way to make web stuff on Raspberry Pi.</li>
 <li><a href="http://blog.codosaur.us/">codosaur.us</a> - Adventures of a dinosaur evolving to meet today's challenges. Or actually: Dave Aronson sharing his thoughts on writing 'good Ruby'.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/09/19/picks/"/>
-    <updated>2013-09-19T11:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/09/19/picks</id>
-    <content type="html"><![CDATA[<h3>19/9 Picks!!</h3>
-
-<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twenty-second edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://emacsredux.com/">Emacs Redux</a> - Return to the Essence of Text Editing.</li>
-<li><a href="http://explainshell.com/">Explain Shell</a> - Explain what your command line parameters are doing, also see <a href="https://github.com/schneems/explain_shell">this</a> to use it from your shell.</li>
-<li><a href="http://www.codewars.com/">Codewars</a> - Enhance your mind with coding katas.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/chrishunt/git-pissed">git-pissed</a> - <code>git pissed</code> tracks any number of words across your entire git history. And that's hilarious.</li>
-<li><a href="http://thechangelog.com/103/">GitLab</a> - Talking GitLab and open source with Sytse Sijbrandij.</li>
-<li><a href="http://www.rubyflow.com/items/9780-sinatra-planet-planet-web-app-powered-by-pluto-gem-planet-rub">Planet Ruby</a> - vienna.rb regular Gerald Bauer doing fun stuff with the pluto gem: <a href="https://github.com/geraldb/pluto.live">pluto.live</a>.</li>
 </ul>
 
 ]]></content>

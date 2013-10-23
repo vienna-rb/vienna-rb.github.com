@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-10-16T15:47:17+02:00</updated>
+  <updated>2013-10-23T13:22:24+02:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/10/23/picks/"/>
+    <updated>2013-10-23T12:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/10/23/picks</id>
+    <content type="html"><![CDATA[<h3>23/10 Picks!!</h3>
+
+<p>In a series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the twenty-seventh edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://www.meetup.com/Vienna-BEAMers/events/139618342/">Wiener BEAMers</a> - A new meetup in Vienna about Erlang/OTP Elixir &amp; friends.</li>
+<li><a href="http://nuclearsquid.com/writings/how-to-become-a-better-developer/">How to become a better developer</a> - The write-up to his talk at the October vienna.rb meetup.</li>
+<li><a href="http://blog.willj.net/2013/10/20/new-pi-mount-and-testing-the-power-requirements/">Raspberry Pi + Go = Robot</a> - Follow Will on his path building a robot with a Raspberry Pi and Golang.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://jack.minardi.org/projects/displaying-realtime-github-activity-on-a-full-color-led-matrix/">GitHub Arduino</a> - Fun! Displaying realtime Github activity on a full color LED Matrix.</li>
+<li><a href="http://thechangelog.com/108/">Changelog #108</a> - The Changelog talking Exercism.io with Katrina Owen.</li>
+<li><a href="http://ec.europa.eu/commission_2010-2014/kroes/en/content/25-30-november-europe-code-week">Europe Code Week</a> - 25-30 November is Europe Code Week! Join the fun!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -599,36 +629,6 @@ Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, h
 <li><a href="http://floordrees.tumblr.com/post/53059312740/crash-course-to-svn-for-former-git-users">svn-git</a> - crash course to svn for (former) git users, written by yours truly.</li>
 <li><a href="http://www.versioneye.com/">version eye</a> - Follow your libraries and get notified about new versions. Visually neat tool.</li>
 <li><a href="https://github.com/eric1234/gist-dep">gist-dep</a> - Anytime you want to re-use code but the amount of code is so small it would be silly to create a library.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/06/11/picks/"/>
-    <updated>2013-06-11T16:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/06/11/picks</id>
-    <content type="html"><![CDATA[<h3>11/6 Picks!!</h3>
-
-<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the eighth edition:</p>
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="http://wiki.postgresql.org/wiki/What%27s_new_in_PostgreSQL_9.3">PostgreSQL 9.3: What&#8217;s new</a> - Beta information about the Best RDBMS Ever&trade;</li>
-<li><a href="https://plus.google.com/+GeorgeTakei/posts">Best Google+ Profile Ever</a> - Support the <a href="http://oktobetakei.spreadshirt.com/t-s-a-takei-straight-alliance-C114867">T.S.A.</a>!</li>
-<li><a href="http://www.pairprogramwith.me/">For More Pair Programming</a> - Get support for your project.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://coderwall.com/p/euwpig">git log</a> - Bored and tired of the old git log screen? Try this.</li>
-<li><a href="http://divshot.github.io/geo-bootstrap/">geo-bootstrap</a> - My new favorite CSS bootstrapper: it has comic sans, funky colors and MC Hammer.</li>
-<li><a href="https://gocardless.com/blog/raspberry-pi-metric-dashboards/">Office Pi</a> - GoCardless cooked up a fancy Office Dashboard Pi.</li>
 </ul>
 
 ]]></content>
