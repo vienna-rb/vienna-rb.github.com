@@ -1,21 +1,21 @@
 ---
 layout: post
 title: "Picks / what the vienna.rb team thinks is worth sharing this week"
-date: 2013-07-24 19:00
+date: 2013-07-26 19:00
 published: true
 comments: true
 categories:
   - picks
 ---
 
-### 24/7 Picks!!
+### 26/7 Picks!!
 
 In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
 Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fourteenth edition:
 
 ##### [Andy][1]:
   - [Top 10 Proactive Web Application Security Measures][2] - Security should concern everyone, from the developer to the CEO
-  - [pkgr][3] - Package your Rails app into deb or rpm packages 
+  - [pkgr][3] - Package your Rails app into deb or rpm packages
   - [fpm][4] - Effing package managers! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 
 ##### [Floor][9]:
@@ -33,4 +33,3 @@ Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for 
 [11]: http://laberslab.com/
 [12]: http://www.karriere.at/blog/co-working-sektor-5.html
 [13]: http://events.laberslab.com/
-

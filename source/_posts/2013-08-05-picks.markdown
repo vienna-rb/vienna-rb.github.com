@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Picks / what the vienna.rb team thinks is worth sharing this week"
+date: 2013-08-07 13:00
+published: true
+comments: true
+categories:
+  - picks
+---
+
+### 7/8 Picks!!
+
+In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the sixteenth edition:
+
+##### [Andy][1]:
+  - [We still don’t really know how bicycles work][2] - Forget mysterious dark matter and the inexplicable accelerating expansion of the universe; the bicycle represents a far more embarrassing hole in the accomplishments of physics
+  - [docker.io][3] - Docker is an open-source engine which automates the deployment of applications as highly portable, self-sufficient containers.
+  - [Mailpile][4] - [Mailpile](http:/www.mailpile.is/) is a free-as-in-freedom personal e-mail searching and indexing tool, largely inspired by Google's popular proprietary-but-gratis e-mail service. Check out their fundraiser http://igg.me/at/mailpile
+  
+##### [Floor][9]:
+  - [Animated Opacity for Hangout Overlays][10] - The Hangouts API team recently released a new feature in the Dev Channel of the Hangouts API, that allows controlling the opacity of overlays. Check out how Gerwin Sturm's has been playing around with the code to create some [awesome effects][13]. 
+  - [Never leave the terminal][11] - Konstantin Haase shared this great resource. Go watch it!
+  - [#pairwithme][12] - We'd love to experiment a little with pair programming sessions! For the next meetup we reserve 18:00 - 19:00 for pairing, with the talks starting at 19:15. Drop by at 6pm and we'll hook you up with a partner! 
+
+[1]: http://www.twitter.com/pxlpnk
+[2]: http://www.newstatesman.com/2013/07/mysteries-bicycle
+[3]: http://www.docker.io/
+[4]: https://github.com/pagekite/Mailpile
+[9]: http://www.twitter.com/floordrees
+[10]: https://plus.google.com/117030170248799553421/posts/CUhUAQwKxFz
+[11]: http://ascii.io/a/4348
+[12]: http://www.meetup.com/vienna-rb/events/125429382/
+[13]: https://lh3.googleusercontent.com/-aLSHUuHtp4E/UfgMkXm5bAI/AAAAAAABFTA/RVhy4Yv8EAs/w426-h237/opacity.avi

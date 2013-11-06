@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Picks / what the vienna.rb team thinks is worth sharing this week"
+date: 2013-08-21 13:00
+published: true
+comments: true
+categories:
+  - picks
+---
+
+### 21/8 Picks!!
+
+In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the eightteenth edition:
+
+##### [Andy][1]:
+  - [rubygems-proxy][2] - The first version of a rubygems-proxy that caches the Gems for your local network.
+  - [gemspec_deps_gen][3] - Builds your project dependencies inside gemspec file.
+  - [rom/devtools][4] - The perfect CI rake task.
+
+##### [Floor][9]:
+  - [Kids'n'Tech][10] - Kids'n'Tech teaches HTML code to... kids, obviously.
+  - [Git tips][11] - ... because there's no such thing as knowing to many shortcuts.
+  - [Scala tutorials][12] - Looking forward to the launch of scalatutorials.com, MOAR learning!
+
+[1]: http://www.twitter.com/pxlpnk
+[2]: https://github.com/pxlpnk/rubygems-proxy
+[3]: https://github.com/shvets/gemspec_deps_gen
+[4]: https://github.com/rom-rb/devtools
+[9]: http://www.twitter.com/floordrees
+[10]: http://inventures.eu/kidsntech-teaches-html-code
+[11]: http://adit.io/posts/2013-08-16-five-useful-git-tips.html
+[12]: http://scalatutorials.com/?3d
