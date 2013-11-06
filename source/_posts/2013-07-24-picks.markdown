@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Picks / what the vienna.rb team thinks is worth sharing this week"
+date: 2013-07-24 19:00
+published: true
+comments: true
+categories:
+  - picks
+---
+
+### 24/7 Picks!!
+
+In a little series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies... you're in for an eclectic mix! So, here's for the fourteenth edition:
+
+##### [Andy][1]:
+  - [Top 10 Proactive Web Application Security Measures][2] - Security should concern everyone, from the developer to the CEO
+  - [pkgr][3] - Package your Rails app into deb or rpm packages 
+  - [fpm][4] - Effing package managers! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+
+##### [Floor][9]:
+  - [gem install exercism][10] - Exercism - a Katrina Owen production - is all about giving and receiving feedback. And code reviews.
+  - [Laber's lab][11] - to all the makers out there, check out the dates for the [Arduino lab's][13]!
+  - [Sektor5][12] - neat post (with dito pictures) about the co-working space that hosts our monthly meetups
+
+[1]: http://www.twitter.com/pxlpnk
+[2]: https://blog.whitehatsec.com/top-10-proactive-web-application-security-measures/
+[3]: http://crohr.me/pkgr/
+[4]: https://github.com/jordansissel/fpm
+[5]: http://www.twitter.com/tony_xpro
+[9]: http://www.twitter.com/floordrees
+[10]: http://exercism.io
+[11]: http://laberslab.com/
+[12]: http://www.karriere.at/blog/co-working-sektor-5.html
+[13]: http://events.laberslab.com/
+
