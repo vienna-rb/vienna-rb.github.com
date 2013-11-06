@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-10-23T13:22:24+02:00</updated>
+  <updated>2013-11-06T10:11:59+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,66 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/11/13/picks/"/>
+    <updated>2013-11-13T10:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2013/11/13/picks</id>
+    <content type="html"><![CDATA[<h3>13/11 Picks!!</h3>
+
+<p>In a series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the twenty-nineth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href=""></a> -</li>
+<li><a href=""></a> -</li>
+<li><a href=""></a> -</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href=""></a> -</li>
+<li><a href=""></a> -</li>
+<li><a href=""></a> -</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/11/06/picks/"/>
+    <updated>2013-11-06T10:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2013/11/06/picks</id>
+    <content type="html"><![CDATA[<h3>6/11 Picks!!</h3>
+
+<p>In a series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the twenty-eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://www.hokstad.com/compiler/29-the-operators-3">Writing a (Ruby) compiler in Ruby bottom up - step 29</a> - The Operators - Part 3: Operating on our newly minted Fixnums.</li>
+<li><a href="https://index.okfn.org/">Open Data Index</a> - The Open Data Index assesses the state of open government data around the world.</li>
+<li><a href="http://crypt.codemancers.com/posts/2013-09-26-setting-up-emacs-as-development-environment-on-osx/">Setting up Emacs as Ruby development environment on OSX</a> - Has a few nice tips and tricks for Emacs operators who write Ruby and Ruby on Rails.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/backbone-model-collection-and-view-code-walkthrough/">backbone</a> - Check out this free Frontend Masters lesson, where Sam steps through an example using a model, collection and view together in Backbone.js.</li>
+<li><a href="http://www.slideshare.net/wooga/programmin-games-minutecrashcourse">gosu</a> - Programming games - A 10 minute crash course with Patrick Huesler (Wooga).</li>
+<li><a href="http://www.tutorials.jumpstartlab.com">jumpstartlab</a> - Ruby tutorials ftw! &lt;3</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -406,6 +466,36 @@ Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, h
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/07/24/picks/"/>
+    <updated>2013-07-24T19:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2013/07/24/picks</id>
+    <content type="html"><![CDATA[<h3>24/7 Picks!!</h3>
+
+<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the fourteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="https://blog.whitehatsec.com/top-10-proactive-web-application-security-measures/">Top 10 Proactive Web Application Security Measures</a> - Security should concern everyone, from the developer to the CEO</li>
+<li><a href="http://crohr.me/pkgr/">pkgr</a> - Package your Rails app into deb or rpm packages</li>
+<li><a href="https://github.com/jordansissel/fpm">fpm</a> - Effing package managers! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://exercism.io">gem install exercism</a> - Exercism - a Katrina Owen production - is all about giving and receiving feedback. And code reviews.</li>
+<li><a href="http://laberslab.com/">Laber&#8217;s lab</a> - to all the makers out there, check out the dates for the <a href="http://events.laberslab.com/">Arduino lab&#8217;s</a>!</li>
+<li><a href="http://www.karriere.at/blog/co-working-sektor-5.html">Sektor5</a> - neat post (with dito pictures) about the co-working space that hosts our monthly meetups</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[The slides of our fifth meetup are online]]></title>
     <link href="http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup/"/>
     <updated>2013-07-19T14:00:00+02:00</updated>
@@ -538,97 +628,6 @@ Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, h
 <li><a href="http://tosdr.org/">tosdr</a> - Because “I have read and agree to the Terms” is the biggest lie on the web.</li>
 <li><a href="http://huboard.com/">Huboard</a> - Instant project management for GitHub repositories.</li>
 <li><a href="http://dribbble.com/shots/1124541-Inc-app-to-share-knowledge-within-your-company?list=following">Inc</a> - App to share knowledge within your company, from the makers of Kippt. Disclaimer: I&#8217;m a HUGE Kippt fan.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/06/26/picks/"/>
-    <updated>2013-06-26T13:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/06/26/picks</id>
-    <content type="html"><![CDATA[<h3>26/6 Picks!!</h3>
-
-<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the tenth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://wimdu.github.io/blog/2013/06/24/performance-optimization-with-pry-debugger/">Performance Optimization With Pry-debugger</a> - A nice introduction to the Pry-debugger</li>
-<li><a href="http://deborahheiligman.com/books/the-boy-who-loved-math/">The Boy Who Loved Math</a> - The Improbable Life of Paul Erdös. A cute book for kids.</li>
-<li><a href="http://thecatapi.com/">Where everyday is Caturday</a> - Need a nice kitten as a placeholder? Or just a random kitten for your chatbot?</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>: (with support from <a href="https://www.twitter.com/fadr">@fadr</a>)</h5>
-
-<ul>
-<li><a href="http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/">Rails 4.0</a> - Final version released!</li>
-<li><a href="http://www.vanseodesign.com/css/vertical-centering/">Vertical Centering with CSS</a> - Huge guide, nice explanation of the css methods used.</li>
-<li><a href="http://bradfrost.github.io/this-is-responsive/patterns.html">Responsive Patterns</a> - Interesting approach for designs that change with media sizes.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://chrome.google.com/webstore/detail/github-similar-repositori/ilohmipmgoellpajalkccofkgdheomfh">GitHub Similar Repositories</a> - Great Google Chrome add-on, that helps you discover &amp; upvote similar git repos on GitHub.</li>
-<li><a href="http://desmondrawls.com/2013/06/20/teach-like-you-dont-know/">Teach Like You Don’t Know</a> - A &#8216;serial beginner&#8217; on how teachers can’t relate to their students because they know too much. Good read!</li>
-<li><a href="https://coderwall.com/p/xczkaq?&amp;p=1&amp;q=">deploy via Git</a> - Straight-forward walkthrough deploying via Git.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Fifth meetup is Testing and Continuous Deployment themed]]></title>
-    <link href="http://vienna-rb.at/blog/2013/06/20/fifth-meetup-sponsored-by-codeship/"/>
-    <updated>2013-06-20T12:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/06/20/fifth-meetup-sponsored-by-codeship</id>
-    <content type="html"><![CDATA[<h3>Codeship.io sponsors vienna.rb user group get-together</h3>
-
-<p>The vienna.rb organizing team can&#8217;t wait for their next developer get-together, taking place Thursday, July 18 at co-working space <a href="http://sektor5.at/">Sektor5</a> (Siebenbrunnengasse 44, Vienna).</p>
-
-<p>The meetup is sponsored by <a href="http://www.codeship.io/">Codeship</a>. Manuel Weiss, cofounder of Codeship, on why they support vienna.rb:</p>
-
-<blockquote><p>We love what vienna.rb is doing and want to start giving back to the city and people who have given us so much.</p><footer><strong>Codeship</strong></footer></blockquote>
-
-
-<p>The vienna.rb team is collecting topics for lightning talks from their community. The topics so far - Making your tests faster; Continuous Deployment; Building and distributing virtualized development environments - make for an interesting evening of knowledge exchanging and networking. A little time is always reserved for spontaneous lightning talks from the attendees.</p>
-
-<p>Vienna.rb meetups are open to both experienced Ruby developers and people that are new to programming.</p>
-
-<p>For more information regarding the program and more upcoming events, please visit <a href="http://meetup.com/vienna-rb">vienna.rb on meetup</a> or follow <a href="https://twitter.com/viennarb">@viennarb</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/06/19/picks/"/>
-    <updated>2013-06-19T12:50:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/06/19/picks</id>
-    <content type="html"><![CDATA[<h3>19/6 Picks!!</h3>
-
-<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the ninth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://www.paperplanes.de/2013/6/17/a-short-story-on-human-error.html">A Short Story on Human Error</a> - There is no single root cause or the further back you go in time, the more reasons you&#8217;ll find that there&#8217;s a tangled web of lots of little causes, that again have their own causes.</li>
-<li><a href="https://docs.google.com/forms/d/1XNMoSdfYFe_WkPfU--M88oL00PDLIOAo1HxjhZvZYJ4/viewform?pli=1">Your top 100 unix commands, for science!</a> - Contribute your daily used Unix commands.</li>
-<li><a href="http://mherman.org/blog/2013/06/13/up-and-running-with-espresso-rapid-web-development-in-the-browser/">Rapid Web Development in the Browser using Espresso</a> - Interesting and fast way to push out a prototype.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://floordrees.tumblr.com/post/53059312740/crash-course-to-svn-for-former-git-users">svn-git</a> - crash course to svn for (former) git users, written by yours truly.</li>
-<li><a href="http://www.versioneye.com/">version eye</a> - Follow your libraries and get notified about new versions. Visually neat tool.</li>
-<li><a href="https://github.com/eric1234/gist-dep">gist-dep</a> - Anytime you want to re-use code but the amount of code is so small it would be silly to create a library.</li>
 </ul>
 
 ]]></content>
