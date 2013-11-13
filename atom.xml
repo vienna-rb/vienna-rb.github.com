@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-11-06T10:15:01+01:00</updated>
+  <updated>2013-11-13T15:00:04+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -35,7 +35,7 @@ Books, articles, gems, fun stuff&#8230; you&#8217;re in for an eclectic mix! So,
 <h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
 
 <ul>
-<li><a href="http://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/backbone-model-collection-and-view-code-walkthrough/">backbone</a> - Check out this free Frontend Masters lesson, where Sam steps through an example using a model, collection and view together in Backbone.js.</li>
+<li><a href="http://www.frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/backbone-model-collection-and-view-code-walkthrough/">backbone</a> - Check out this free Frontend Masters lesson, where Sam steps through an example using a model, collection and view together in Backbone.js.</li>
 <li><a href="http://www.slideshare.net/wooga/programmin-games-minutecrashcourse">gosu</a> - Programming games - A 10 minute crash course with Patrick Huesler (Wooga).</li>
 <li><a href="http://www.tutorials.jumpstartlab.com">jumpstartlab</a> - Ruby tutorials ftw! &lt;3</li>
 </ul>
