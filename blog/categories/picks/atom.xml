@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-11-13T15:00:04+01:00</updated>
+  <updated>2013-11-13T15:01:48+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/11/13/picks/"/>
+    <updated>2013-11-13T10:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2013/11/13/picks</id>
+    <content type="html"><![CDATA[<h3>13/11 Picks!!</h3>
+
+<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twenty-nineth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://gobot.io/">Gobot</a> - Go, Robot, Go! Golang for Robotics.</li>
+<li><a href="http://artoo.io/">artoo</a> - Ruby + Robots = &lt;3</li>
+<li><a href="http://www.try-alf.org/">Try ALF</a> - Relational Algebra at your Ruby fingertips.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://codepen.io/kevinjannis/pen/pyuix">Codepen</a> - I love browsing codepens, like these cool Chrome logo's.</li>
+<li><a href="http://www.refsmmat.com/statistics/">Statistics Done Wrong</a> - The woefully complete guide</li>
+<li><a href="https://github.com/skazhy/github-decorator">GitHub profile decorator</a> - Show off your ASCII skills with  GitHub profile decorator!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -128,36 +158,6 @@ Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's fo
 <li><a href="http://www.iloveopensource.io/">iloveopensource</a> - And I'm not afraid to show it!</li>
 <li><a href="http://www1.idc.ac.il/tecs/course/talk.pdf">From Nand to Tetris in 12 Steps</a> - Currently going through this, super interesting.</li>
 <li><a href="http://www.onextrapixel.com/2013/09/30/the-legacy-of-web-languages">The Legacy of Web Languages</a> - Compared to the web of old, the way we develop sites has altered drastically. Here's how.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/10/02/picks/"/>
-    <updated>2013-10-02T12:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/10/02/picks</id>
-    <content type="html"><![CDATA[<h3>02/10 Picks!!</h3>
-
-<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twenty-fourth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://www.shellcheck.net/">shellcheck</a> - automatically detects problems with sh/bash scripts and commands.</li>
-<li><a href="https://github.com/rowanmanning/joblint">joblint</a> - tests tech job specs for issues with sexism, culture, expectations, and recruiter fails.</li>
-<li><a href="http://www.phenoelit.org/blog/archives/2013/09/24/ruby_on_rails_default_token_database/index.html">Secret Token</a> - Ruby on Rails Default Token Database detects if a signing token is known somewhere in the Internet, or not.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://gistflow.com/posts/901-sandi_meter-tool-for-checking-sandi-metz-rules">sandi_meter</a> - Introducing: a gem which automates scanning your code versus Sandi Metz' rules.</li>
-<li><a href="http://googlevis.frontwise.com/#3|2012|1|">GoogleVis</a> - Frontwise sure knows how to visualize the Takedown Requests dataset from Google!</li>
-<li><a href="http://www.confreaks.com/videos/432-rubyconf2010-the-road-from-ruby-hacker-to-entrepreneur">RubyConf 2010</a> - The Road from Ruby Hacker to Entrepreneur (by GitHub's Tom Preston-Werner).</li>
 </ul>
 
 ]]></content>
