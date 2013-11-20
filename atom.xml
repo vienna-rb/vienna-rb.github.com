@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-11-13T15:01:48+01:00</updated>
+  <updated>2013-11-20T16:09:11+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/11/20/picks/"/>
+    <updated>2013-11-20T10:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2013/11/20/picks</id>
+    <content type="html"><![CDATA[<h3>20/11 Picks!!</h3>
+
+<p>In a series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the thirtieth edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://www.rubytapas.com/episodes/20-Struct?filter=free">Struct</a> - Great RubyTapas episode on Struct.</li>
+<li><a href="https://github.com/chanks/que">Que</a> - A queue for Ruby applications that manages jobs using PostgreSQL&#8217;s advisory locks. Yeah.</li>
+<li><a href="http://mo.morsi.org/blog/node/382">bundler_ext</a> - Using gem and system installed Ruby dependencies side by side.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://gitter.im/">Gitter</a> - Chat. For GitHub.</li>
+<li><a href="https://www.hackerschool.com/apply?2014">Hacker School</a> - Apply to the Winter 2014 Batch.</li>
+<li><a href="http://kathrinto.be/2013/11/wanna-learn-ruby-on-rails/">RoR workshop in Vienna</a> - &#8230; we&#8217;re hosting one. Tell your friends/family!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -589,45 +619,6 @@ Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, h
 <li><a href="https://github.com/dunxrion/console.image">console.image</a> - The one thing Chrome Dev Tools didn&#8217;t need. The day has come when you have the ability to put images in the console.</li>
 <li><a href="www.dodgycoder.net/p/programming-trends.html">Programming Trends</a> - Programming trends on StackOverflow.</li>
 <li><a href="http://fredwu.me/post/54175219257/the-future-of-computing-the-future-of-computer">Interview with Matz</a> - The future of computing, the future of computer programmers - an interview with Yukihiro Matsumoto.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/07/02/picks/"/>
-    <updated>2013-07-02T13:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/07/02/picks</id>
-    <content type="html"><![CDATA[<h3>2/7 Picks!!</h3>
-
-<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the eleventh edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://theforeman.org/">The Foreman</a> - The Foreman is a complete lifecycle management tool for physical and virtual servers.</li>
-<li><a href="http://vagabond.github.io/2013/06/21/z_packagers-dont-know-best/?utm_content=buffer0a898&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Packagers don&#8217;t know best</a> - Why package maintainers and the authors of software should work together.</li>
-<li><a href="http://vagabond.github.io/2013/06/21/zz_packaging-and-the-tide-of-history/">Packaging and the tide of history</a> - And the follow up.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/rs-dev/ripper-tags">ripper-tags</a> - fast, accurate ctags generator for ruby source code using Ripper (work in progress - please check the upstream, too)</li>
-<li><a href="http://torso.me/chicken">Chicken chicken chicken</a> - chicken chicken</li>
-<li><a href="http://blog.codeship.io/2013/07/02/testing-tuesday-12-euruko-2013.html">Report from EuRuKo 2013</a> - by Clemens from Codeship</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://tosdr.org/">tosdr</a> - Because “I have read and agree to the Terms” is the biggest lie on the web.</li>
-<li><a href="http://huboard.com/">Huboard</a> - Instant project management for GitHub repositories.</li>
-<li><a href="http://dribbble.com/shots/1124541-Inc-app-to-share-knowledge-within-your-company?list=following">Inc</a> - App to share knowledge within your company, from the makers of Kippt. Disclaimer: I&#8217;m a HUGE Kippt fan.</li>
 </ul>
 
 ]]></content>
