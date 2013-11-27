@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-11-20T16:09:11+01:00</updated>
+  <updated>2013-11-27T10:49:42+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/11/27/picks/"/>
+    <updated>2013-11-27T10:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2013/11/27/picks</id>
+    <content type="html"><![CDATA[<h3>27/11 Picks!!</h3>
+
+<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the thirty-first edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://goosecode.com/watson/">watson</a> - Creat GitHub and Bitbucket issues straight from your source code.</li>
+<li><a href="https://flynn.io/blog/demo-roadmap">Greetings from Flynn</a> - A Flynn Demo and Roadmap of the open source SaaS.</li>
+<li><a href="http://robm.me.uk/ruby/2013/11/20/ruby-enp.html">Know your Ruby switches</a> - Ruby's -e, -n and -p switches for the command line.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.ruby2d.com/">R2D</a> - A gem for 2D graphics in Ruby. Under 'heavy development', but interesting nevertheless.</li>
+<li><a href="http://www.sitepoint.com/use-webfont-icons-bullet-points-html5-lists/">webfont icons</a> - How to use webfont icons as bullet points in HTML5 lists.</li>
+<li><a href="http://teamtreehouse.com/library/technology-foundations/chrome-devtools-basics/the-elements-panel">Chrome DevTools</a> - Get your Chrome DevTools basics right with this Treehouse course.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -128,36 +158,6 @@ Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's fo
 <li><a href="http://jack.minardi.org/projects/displaying-realtime-github-activity-on-a-full-color-led-matrix/">GitHub Arduino</a> - Fun! Displaying realtime Github activity on a full color LED Matrix.</li>
 <li><a href="http://thechangelog.com/108/">Changelog #108</a> - The Changelog talking Exercism.io with Katrina Owen.</li>
 <li><a href="http://ec.europa.eu/commission_2010-2014/kroes/en/content/25-30-november-europe-code-week">Europe Code Week</a> - 25-30 November is Europe Code Week! Join the fun!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/10/16/picks/"/>
-    <updated>2013-10-16T12:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/10/16/picks</id>
-    <content type="html"><![CDATA[<h3>16/10 Picks!!</h3>
-
-<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twenty-sixth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://vimeo.com/32422551">Nyan Cat RSpec Formatter</a> - Because... why the hell not?</li>
-<li><a href="http://government.github.com/">GitHub and Government</a> - Make government better, together.</li>
-<li><a href="http://rubini.us/2013/10/15/introducing-rubinius-x/">Rubinius X</a> - Introducing a different kind of Ruby.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://devandpencil.herokuapp.com/blog/2013/10/09/being-an-asshole-does-not-make-you-awesome/?utm_content=bufferdd261&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Ruby gems gone wrong</a> - On inconsiderate gem naming, wholeheartedly agree.</li>
-<li><a href="http://ossperks.com/">OSS Perks</a> - A listing of tools that are made freely available to open source projects.</li>
-<li><a href="http://www.1stfloorgraphics.nl/2013/10/14/rupy-budapest-2013-the-day-after/">RuPy</a> - Couldn't make it to this year's RuPy conference? Thank Glob I wrote a recap.</li>
 </ul>
 
 ]]></content>

@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-11-20T16:09:11+01:00</updated>
+  <updated>2013-11-27T10:49:42+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/11/27/picks/"/>
+    <updated>2013-11-27T10:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2013/11/27/picks</id>
+    <content type="html"><![CDATA[<h3>27/11 Picks!!</h3>
+
+<p>In a series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the thirty-first edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://goosecode.com/watson/">watson</a> - Creat GitHub and Bitbucket issues straight from your source code.</li>
+<li><a href="https://flynn.io/blog/demo-roadmap">Greetings from Flynn</a> - A Flynn Demo and Roadmap of the open source SaaS.</li>
+<li><a href="http://robm.me.uk/ruby/2013/11/20/ruby-enp.html">Know your Ruby switches</a> - Ruby&#8217;s -e, -n and -p switches for the command line.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.ruby2d.com/">R2D</a> - A gem for 2D graphics in Ruby. Under &#8216;heavy development&#8217;, but interesting nevertheless.</li>
+<li><a href="http://www.sitepoint.com/use-webfont-icons-bullet-points-html5-lists/">webfont icons</a> - How to use webfont icons as bullet points in HTML5 lists.</li>
+<li><a href="http://teamtreehouse.com/library/technology-foundations/chrome-devtools-basics/the-elements-panel">Chrome DevTools</a> - Get your Chrome DevTools basics right with this Treehouse course.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -580,45 +610,6 @@ Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, h
 <li><a href="http://www.teaching-materials.org/">Web Development Teaching Materials</a> - A variety of CC-licensed web development curriculum which was developed for GirlDevelopIt SF. Useful to students as well. via @bastilian</li>
 <li><a href="http://osrc.dfm.io/">The Open Source Report Card</a> - Enter a GitHub username to see a dynamically generated progress report for their open source contributions. With graphs and charts and EVERYTHING!</li>
 <li><a href="http://cssdeck.com/labs/pure-css-minion">CSS Minion</a> - How cool is this: Minion drawn entirely using only HTML&amp;CSS.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/07/09/picks/"/>
-    <updated>2013-07-09T13:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/07/09/picks</id>
-    <content type="html"><![CDATA[<h3>9/7 Picks!!</h3>
-
-<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the twelfth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://i.stanford.edu/~ullman/focs.html">Foundations of Computer Science</a> - Although the book has been taken out of print by W. H. Freeman, you are welcome to read it online. And I suggest you do.</li>
-<li><a href="http://batsov.com/articles/2013/06/27/the-elements-of-style-in-ruby-number-2-favor-sprintf-format-over-string-number-percent/">The Elements of Style in Ruby #2</a> - Second in its series, topic being the following rule from the Ruby Style Guide: Favor the use of sprintf and its alias format over the fairly cryptic String#% method.</li>
-<li><a href="http://rubylearning.com/blog/2013/07/09/do-you-know-how-to-create-a-bot-in-ruby/">ALL teh bots</a> - Do you know how to create a bot in Ruby? Now you do!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="https://gist.github.com/steveklabnik/5961629">Gems that need help with Rails 4</a> - A Gist started by Steve Klabnik</li>
-<li><a href="https://www.relishapp.com/bogus/bogus/docs">Bogus</a> - a library that aims to reduce the risks associated with isolated unit testing.</li>
-<li><a href="http://what-if.xkcd.com/53/">Drain the oceans!</a> - &#8230; and let the Netherlands rule?</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/dunxrion/console.image">console.image</a> - The one thing Chrome Dev Tools didn&#8217;t need. The day has come when you have the ability to put images in the console.</li>
-<li><a href="www.dodgycoder.net/p/programming-trends.html">Programming Trends</a> - Programming trends on StackOverflow.</li>
-<li><a href="http://fredwu.me/post/54175219257/the-future-of-computing-the-future-of-computer">Interview with Matz</a> - The future of computing, the future of computer programmers - an interview with Yukihiro Matsumoto.</li>
 </ul>
 
 ]]></content>
