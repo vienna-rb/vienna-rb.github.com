@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-11-27T10:49:42+01:00</updated>
+  <updated>2013-12-04T10:03:11+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,63 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/12/04/picks/"/>
+    <updated>2013-12-04T10:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2013/12/04/picks</id>
+    <content type="html"><![CDATA[<h3>04/12 Picks!!</h3>
+
+<p>In a series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the thirty-second edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://blog.joshsoftware.com/2013/11/23/pro-tips-for-writing-better-rspec-tests/">Writing Better Specs</a> - 10 Basic steps that help you write cleaner and more focused tests.</li>
+<li><a href="http://samsaffron.com/archive/2013/11/22/demystifying-the-ruby-gc">Demystifying the Ruby GC</a> - The Ruby Garbage Collector under the hood.</li>
+<li><a href="http://vimeo.com/78739988">Nerdbot 2.0 Based on Lita</a> - Because robots are awesome.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://events.laberslab.com/about/arduino/bootcamp/vienna/122013/">Arduino-Bootcamp</a> -  You REALLY want to attend the last Arduino-Bootcamp of the year, at Hotel Karolinenhof in Vienna, on December 7th.</li>
+<li><a href="http://thechangelog.com/list-js/">List.js</a> -  Search, sort, and filter your HTML tables, lists, and more!</li>
+<li><a href="http://24pullrequests.com/">24 Pull Requests</a> - Giving back little gifts of code for Christmas.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://explainshell.com">ExplainShell</a> - Match command-line arguments to their help text.</li>
+<li><a href="http://fishshell.com">FishShell</a> - Because the 90s are back.</li>
+<li><a href="http://www.raspberrypi.org/archives/5282">Mathematica</a> - Mathematica now free for the Raspberry Pi.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md">Free Programming Books</a> - About like everything.</li>
+<li><a href="http://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color">Which HTML color are you?</a> - Why does HTML think &#8220;chucknorris&#8221; is a color?</li>
+<li><a href="http://carlos.bueno.org/optimization/">Mature Optimization Handbook</a> - Performance measurement and optimization.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/List_of_computer_technology_code_names">list of computer technology code names</a> - Ever ran out of names for you projects or physical devices? pick a code name!</li>
+<li><a href="https://github.com/pivotal/blue-shell">Blue Shell</a> - friendly command-line matchers for shell scripting in ruby using RSpec.</li>
+<li>How <a href="http://www.infoq.com/presentations/github-evolution">Github</a> (no longer) Works.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -573,45 +630,6 @@ Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, h
 <h5>Markus Prinz - An introduction to Vagrant</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/125429382/">meetup</a>, September 5th at Sektor5!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/07/17/picks/"/>
-    <updated>2013-07-17T16:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/07/17/picks</id>
-    <content type="html"><![CDATA[<h3>17/7 Picks!!</h3>
-
-<p>In a little series on this website we&#8217;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, funsies&#8230; you&#8217;re in for an eclectic mix! So, here&#8217;s for the thirteenth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://dbpmail.net/essays/2013-06-29-hackers-replacement-for-gmail.html">A Hacker&#8217;s Replacement for GMail</a> - If you are willing to operate your own mailserver this is a good starting point.</li>
-<li><a href="https://www.honeybadger.io/blog/2013/06/25/stop-using-rubygemsorg-in-production">The case against using RubyGems.org in production</a> - A screed + a screencast showing you how to host your own gems.</li>
-<li><a href="https://github.com/copiousfreetime/stickler">Stickler</a> - Stickler is a tool to organize and maintain your own gem repository.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/">Demeter: It&#8217;s not just a good idea. It&#8217;s the law.</a> - A very interesting demonstration and solutions by Avdi Grimm.</li>
-<li><a href="http://fonicmonkey.net/2013/07/15/swapping-rails-stack-traces-for-a-repl/">Swapping Rails Stack Traces for a REPL</a> - You do like <a href="https:/github.com/pry/pry">pry</a>? <a href="https://github.com/charliesome/better_errors">Better Errors</a>? THIS is the thing for you!</li>
-<li><a href="https://github.com/rs-dev/adapter-registry">Adapter Registry</a> - Store your decorators in a in-memory registry, and retrieve them in the correct context!  (Shameless plug)</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.teaching-materials.org/">Web Development Teaching Materials</a> - A variety of CC-licensed web development curriculum which was developed for GirlDevelopIt SF. Useful to students as well. via @bastilian</li>
-<li><a href="http://osrc.dfm.io/">The Open Source Report Card</a> - Enter a GitHub username to see a dynamically generated progress report for their open source contributions. With graphs and charts and EVERYTHING!</li>
-<li><a href="http://cssdeck.com/labs/pure-css-minion">CSS Minion</a> - How cool is this: Minion drawn entirely using only HTML&amp;CSS.</li>
-</ul>
-
 ]]></content>
   </entry>
   
