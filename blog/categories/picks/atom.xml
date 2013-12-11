@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-12-04T10:03:11+01:00</updated>
+  <updated>2013-12-11T14:13:23+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,63 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/12/11/picks/"/>
+    <updated>2013-12-11T10:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2013/12/11/picks</id>
+    <content type="html"><![CDATA[<h3>11/12 Picks!!</h3>
+
+<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the thirty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
+
+<ul>
+<li><a href="http://exple.tive.org/blarg/2013/10/22/citation-needed/">On Array indices</a> - Should they start at 0 or 1?</li>
+<li><a href="https://github.com/apotonick/roar">roar</a> - Resource-Oriented Architectures in Ruby.</li>
+<li><a href="http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years">Architecture the Lost Years</a> - Keynote by Robert Martin at the Ruby Midwest 2011. Still a must watch!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://linz.kod.io/">kod.io</a> - March 1st, Linz will host kod.io - a developer conference around Python, Ruby and JavaScript (and all its frameworks). Go check it out.</li>
+<li><a href="http://tmate.io/">tmate</a> - Instant terminal sharing ftw.</li>
+<li><a href="http://xem.github.io/miniCodeEditor/">MiniCodeEditor</a> - A HTML/CSS/JavaScript code editor in 230+ bytes!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://python-trek-2013.herokuapp.com">PythonTrek</a> - Because who doesn't love a Star Trek/Monty Python generator? Bonus: you can view all generated phrases on the official twitter account!</li>
+<li><a href="http://fontawesome.pro">Are you a FontAwesome Pro?</a> - So, are you?</li>
+<li><a href=""></a> -</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://perfectionkills.com/exploring-canvas-drawing-techniques/">Drawing on canvas</a> - Exploring canvas drawing techniques</li>
+<li><a href="https://medium.com/design-ux/26e74d719081">Text-only UI sketches</a> - Before sketching in that notebook, try writing out your UI first.</li>
+<li><a href="http://www.kickstarter.com/projects/timmillwood/sinatra-cookbook-recipes-for-the-ruby-framework">Sinatra Cookbook</a> - Recipes for the Ruby framework</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=V_dZQ6AeZDE">TracePoint</a> - An Introduction to TracePoint in Ruby 2.0</li>
+<li><a href="https://github.com/OpenEmu/OpenEmu">OpenEmu</a> - play all your childhood games! <a href="https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#cloning">howto build</a></li>
+<li><a href="https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#cloning"></a> -</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -155,36 +212,6 @@ Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's fo
 <li><a href="http://codepen.io/kevinjannis/pen/pyuix">Codepen</a> - I love browsing codepens, like these cool Chrome logo's.</li>
 <li><a href="http://www.refsmmat.com/statistics/">Statistics Done Wrong</a> - The woefully complete guide</li>
 <li><a href="https://github.com/skazhy/github-decorator">GitHub profile decorator</a> - Show off your ASCII skills with  GitHub profile decorator!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/11/06/picks/"/>
-    <updated>2013-11-06T10:00:00+01:00</updated>
-    <id>http://vienna-rb.at/blog/2013/11/06/picks</id>
-    <content type="html"><![CDATA[<h3>6/11 Picks!!</h3>
-
-<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twenty-eighth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://www.hokstad.com/compiler/29-the-operators-3">Writing a (Ruby) compiler in Ruby bottom up - step 29</a> - The Operators - Part 3: Operating on our newly minted Fixnums.</li>
-<li><a href="https://index.okfn.org/">Open Data Index</a> - The Open Data Index assesses the state of open government data around the world.</li>
-<li><a href="http://crypt.codemancers.com/posts/2013-09-26-setting-up-emacs-as-development-environment-on-osx/">Setting up Emacs as Ruby development environment on OSX</a> - Has a few nice tips and tricks for Emacs operators who write Ruby and Ruby on Rails.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/backbone-model-collection-and-view-code-walkthrough/">backbone</a> - Check out this free Frontend Masters lesson, where Sam steps through an example using a model, collection and view together in Backbone.js.</li>
-<li><a href="http://www.slideshare.net/wooga/programmin-games-minutecrashcourse">gosu</a> - Programming games - A 10 minute crash course with Patrick Huesler (Wooga).</li>
-<li><a href="http://www.tutorials.jumpstartlab.com">jumpstartlab</a> - Ruby tutorials ftw! &lt;3</li>
 </ul>
 
 ]]></content>
