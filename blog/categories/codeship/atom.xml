@@ -4,7 +4,7 @@
   <title><![CDATA[Category: codeship | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/codeship/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-12-11T14:13:23+01:00</updated>
+  <updated>2013-12-12T11:01:56+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -18,17 +18,17 @@
     <link href="http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup/"/>
     <updated>2013-07-19T14:00:00+02:00</updated>
     <id>http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup</id>
-    <content type="html"><![CDATA[<h2>That escalated quickly...</h2>
+    <content type="html"><![CDATA[<h2>That escalated quickly&hellip;</h2>
 
-<p>Hi there, we just pushed the slides of our fifth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out! What's in there? Well, this:</p>
+<p>Hi there, we just pushed the slides of our fifth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out! What&rsquo;s in there? Well, this:</p>
 
-<h5>Andreas Tiefenthaler - Introduction and the Gem of the month: brakeman</h5>
+<h5>Andreas Tiefenthaler &ndash; Introduction and the Gem of the month: brakeman</h5>
 
-<h5>Tony Bangratz - Make your tests faster and use Ruby 2.0</h5>
+<h5>Tony Bangratz &ndash; Make your tests faster and use Ruby 2.0</h5>
 
-<h5>Clemens Helm - Make your workflow continuous, deploy continuous</h5>
+<h5>Clemens Helm &ndash; Make your workflow continuous, deploy continuous</h5>
 
-<h5>Markus Prinz - An introduction to Vagrant</h5>
+<h5>Markus Prinz &ndash; An introduction to Vagrant</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/125429382/">meetup</a>, September 5th at Sektor5!</p>
 ]]></content>

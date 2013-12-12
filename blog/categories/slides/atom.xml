@@ -4,7 +4,7 @@
   <title><![CDATA[Category: slides | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/slides/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-12-11T14:13:23+01:00</updated>
+  <updated>2013-12-12T11:01:56+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -18,17 +18,17 @@
     <link href="http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup/"/>
     <updated>2013-07-19T14:00:00+02:00</updated>
     <id>http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup</id>
-    <content type="html"><![CDATA[<h2>That escalated quickly...</h2>
+    <content type="html"><![CDATA[<h2>That escalated quickly&hellip;</h2>
 
-<p>Hi there, we just pushed the slides of our fifth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out! What's in there? Well, this:</p>
+<p>Hi there, we just pushed the slides of our fifth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out! What&rsquo;s in there? Well, this:</p>
 
-<h5>Andreas Tiefenthaler - Introduction and the Gem of the month: brakeman</h5>
+<h5>Andreas Tiefenthaler &ndash; Introduction and the Gem of the month: brakeman</h5>
 
-<h5>Tony Bangratz - Make your tests faster and use Ruby 2.0</h5>
+<h5>Tony Bangratz &ndash; Make your tests faster and use Ruby 2.0</h5>
 
-<h5>Clemens Helm - Make your workflow continuous, deploy continuous</h5>
+<h5>Clemens Helm &ndash; Make your workflow continuous, deploy continuous</h5>
 
-<h5>Markus Prinz - An introduction to Vagrant</h5>
+<h5>Markus Prinz &ndash; An introduction to Vagrant</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/125429382/">meetup</a>, September 5th at Sektor5!</p>
 ]]></content>
@@ -43,11 +43,11 @@
 
 <p>Hi there, we just pushed the slides of the fourth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
 
-<h5>Markus Prinz - 10 things you didn't know about Postgres</h5>
+<h5>Markus Prinz &ndash; 10 things you didn&rsquo;t know about Postgres</h5>
 
-<h5>Martin Natano - Implementing git-orm</h5>
+<h5>Martin Natano &ndash; Implementing git-orm</h5>
 
-<h5>Gerald Bauer - Using Markdown for building books, websites or presentations</h5>
+<h5>Gerald Bauer &ndash; Using Markdown for building books, websites or presentations</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/111534092/">meetup</a>, July 18 at Sektor5!</p>
 ]]></content>
@@ -85,7 +85,7 @@
 
 <h5>Gerald Bauer on his beer.db and world.db gem</h5>
 
-<h5>Tomáš Kramár on 'open' data in Slovakia</h5>
+<h5>Tomáš Kramár on &lsquo;open&rsquo; data in Slovakia</h5>
 
 <h5>Anton Bangratz opened up his big o' bag of tricks</h5>
 
@@ -100,9 +100,9 @@
     <id>http://vienna-rb.at/blog/2013/03/26/the-slides-of-our-first-meetup-are-online</id>
     <content type="html"><![CDATA[<h2>Slides slides slides</h2>
 
-<p>Hey there folks, we just pushed the slides of our very first meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out even if you weren't there. If you like what you see, join us for our next <a href="http://www.meetup.com/vienna-rb/events/102695402/">meetup</a> on April the 12th at Sektor 5.</p>
+<p>Hey there folks, we just pushed the slides of our very first meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out even if you weren&rsquo;t there. If you like what you see, join us for our next <a href="http://www.meetup.com/vienna-rb/events/102695402/">meetup</a> on April the 12th at Sektor 5.</p>
 
-<p>In the future we plan to collect and publish the slides so you won't miss anything if you can't make it.</p>
+<p>In the future we plan to collect and publish the slides so you won&rsquo;t miss anything if you can&rsquo;t make it.</p>
 ]]></content>
   </entry>
   

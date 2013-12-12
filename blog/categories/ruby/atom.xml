@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ruby | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-12-11T14:13:23+01:00</updated>
+  <updated>2013-12-12T11:01:56+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -58,21 +58,21 @@ The next vienna.rb takes place at sektor5 Siebenbrunnengasse 44, 1050 Wien and s
     <link href="http://vienna-rb.at/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava/"/>
     <updated>2013-03-22T18:42:00+01:00</updated>
     <id>http://vienna-rb.at/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava</id>
-    <content type="html"><![CDATA[<h2>Dobrý večer - good evening!</h2>
+    <content type="html"><![CDATA[<h2>Dobrý večer &ndash; good evening!</h2>
 
-<p>Last week, Andy (<a href="https:/twitter.com/pxlpnk">@pxlpnk</a>) and me decided to visit the Rubyslava event - because <a href="/blog/2013/02/14/vienna-dot-rb-brings-rubyists-together/">they already visited and helped to start off the first vienna.rb meetup</a> - and we wanted to return the favour. Yes, and we are actually both extremely curious and wanted to learn some things first hand.</p>
+<p>Last week, Andy (<a href="https:/twitter.com/pxlpnk">@pxlpnk</a>) and me decided to visit the Rubyslava event &ndash; because <a href="/blog/2013/02/14/vienna-dot-rb-brings-rubyists-together/">they already visited and helped to start off the first vienna.rb meetup</a> &ndash; and we wanted to return the favour. Yes, and we are actually both extremely curious and wanted to learn some things first hand.</p>
 
 <p>After a short train and bus ride we reached our destination, the <a href="https://www.facebook.com/pages/Kaf%C3%A9-Nervosa/194088387296884">Kafé Nervosa</a>. As a location, I found it very much to my liking: pizza, beer, a beamer and a PA system. When we arrived, it was already well filled with people, and they still kept on coming in. Later we would learn that this was a record breaking evening in that regard.</p>
 
-<p>For starting off, we were treated with an interesting overview of techniques and tools that help you <strong>saving time</strong>, presented by <a href="https://twitter.com/milan_novota">Milan Novota</a> of <a href="http://subteca.com/">Subteca</a>. Interestingly enough, the slides were in english, but the talk wasn't - I could follow it, though, even if we weren't really reacting appropriately to certain questions for the audience. And Milan, I know you weren't aware that the two of us weren't able to follow every word, the apology really wasn't necessary. I enjoyed the fact that a lot of the stuff presented (like the pomodoro technique, tmux, zsh, tdd, git, ...) is already part of our work repertoire. The short chat afterwards was also really interesting and enlightening, and I would love to support any effort of teaching more people stuff that I know.</p>
+<p>For starting off, we were treated with an interesting overview of techniques and tools that help you <strong>saving time</strong>, presented by <a href="https://twitter.com/milan_novota">Milan Novota</a> of <a href="http://subteca.com/">Subteca</a>. Interestingly enough, the slides were in english, but the talk wasn&rsquo;t &ndash; I could follow it, though, even if we weren&rsquo;t really reacting appropriately to certain questions for the audience. And Milan, I know you weren&rsquo;t aware that the two of us weren&rsquo;t able to follow every word, the apology really wasn&rsquo;t necessary. I enjoyed the fact that a lot of the stuff presented (like the pomodoro technique, tmux, zsh, tdd, git, &hellip;) is already part of our work repertoire. The short chat afterwards was also really interesting and enlightening, and I would love to support any effort of teaching more people stuff that I know.</p>
 
 <p>Oh, and thanks for the free beer :)</p>
 
-<p>The next talk was really interesting for me personally - Ján Lunter of Innovatrics presented interesting ways of using Ruby/RoR in a non-standard way - in embedded systems, gathering and comparing biometric data. I got that having such a huge framework running on a PC or Intel Server is quite different to having it running on a small ARM based appliance. Kudos for sailing those rough waters and succeeding!</p>
+<p>The next talk was really interesting for me personally &ndash; Ján Lunter of Innovatrics presented interesting ways of using Ruby/RoR in a non-standard way &ndash; in embedded systems, gathering and comparing biometric data. I got that having such a huge framework running on a PC or Intel Server is quite different to having it running on a small ARM based appliance. Kudos for sailing those rough waters and succeeding!</p>
 
-<p>It didn't stop there at all, though. The next topic was presented by <a href="https://twitter.com/petrbela">Petr Bela</a>: a short introduction to <a href="http://angularjs.org/">AngularJS</a> and how it is being used to power <a href="http://www.kdyjedes.cz/">Kdyjedeš</a>. Petr, sorry for springing a slew on questions of you immediately - and then again in the horrible mix of dialects I use to sprinkle my English violently with. And thanks for your patience with me - I got a good idea what I will use AngularJS for soon. I will definitely try it, and the other things you presented.</p>
+<p>It didn&rsquo;t stop there at all, though. The next topic was presented by <a href="https://twitter.com/petrbela">Petr Bela</a>: a short introduction to <a href="http://angularjs.org/">AngularJS</a> and how it is being used to power <a href="http://www.kdyjedes.cz/">Kdyjedeš</a>. Petr, sorry for springing a slew on questions of you immediately &ndash; and then again in the horrible mix of dialects I use to sprinkle my English violently with. And thanks for your patience with me &ndash; I got a good idea what I will use AngularJS for soon. I will definitely try it, and the other things you presented.</p>
 
-<p>After those presentations, we had a lot of fun talking to people about various aspects of ruby, RoR and related topics. And had a second beer. Maybe a third ...</p>
+<p>After those presentations, we had a lot of fun talking to people about various aspects of ruby, RoR and related topics. And had a second beer. Maybe a third &hellip;</p>
 
 <p>It was a pity that we had to leave then to catch the train back to Vienna in time. And while I can not promise that I will visit every time, I definitely will come over every once in a while, to meet, greet and learn.</p>
 

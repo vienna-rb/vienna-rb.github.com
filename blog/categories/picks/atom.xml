@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-12-11T14:13:23+01:00</updated>
+  <updated>2013-12-12T11:01:56+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -20,51 +20,51 @@
     <id>http://vienna-rb.at/blog/2013/12/11/picks</id>
     <content type="html"><![CDATA[<h3>11/12 Picks!!</h3>
 
-<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the thirty-third edition:</p>
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-third edition:</p>
 
 <h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
 
 <ul>
-<li><a href="http://exple.tive.org/blarg/2013/10/22/citation-needed/">On Array indices</a> - Should they start at 0 or 1?</li>
-<li><a href="https://github.com/apotonick/roar">roar</a> - Resource-Oriented Architectures in Ruby.</li>
-<li><a href="http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years">Architecture the Lost Years</a> - Keynote by Robert Martin at the Ruby Midwest 2011. Still a must watch!</li>
+<li><a href="http://exple.tive.org/blarg/2013/10/22/citation-needed/">On Array indices</a> &ndash; Should they start at 0 or 1?</li>
+<li><a href="https://github.com/apotonick/roar">roar</a> &ndash; Resource-Oriented Architectures in Ruby.</li>
+<li><a href="http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years">Architecture the Lost Years</a> &ndash; Keynote by Robert Martin at the Ruby Midwest 2011. Still a must watch!</li>
 </ul>
 
 
 <h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
 
 <ul>
-<li><a href="http://linz.kod.io/">kod.io</a> - March 1st, Linz will host kod.io - a developer conference around Python, Ruby and JavaScript (and all its frameworks). Go check it out.</li>
-<li><a href="http://tmate.io/">tmate</a> - Instant terminal sharing ftw.</li>
-<li><a href="http://xem.github.io/miniCodeEditor/">MiniCodeEditor</a> - A HTML/CSS/JavaScript code editor in 230+ bytes!</li>
+<li><a href="http://linz.kod.io/">kod.io</a> &ndash; March 1st, Linz will host kod.io &ndash; a developer conference around Python, Ruby and JavaScript (and all its frameworks). Go check it out.</li>
+<li><a href="http://tmate.io/">tmate</a> &ndash; Instant terminal sharing ftw.</li>
+<li><a href="http://xem.github.io/miniCodeEditor/">MiniCodeEditor</a> &ndash; A HTML/CSS/JavaScript code editor in 230+ bytes!</li>
 </ul>
 
 
 <h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
 
 <ul>
-<li><a href="http://python-trek-2013.herokuapp.com">PythonTrek</a> - Because who doesn't love a Star Trek/Monty Python generator? Bonus: you can view all generated phrases on the official twitter account!</li>
-<li><a href="http://fontawesome.pro">Are you a FontAwesome Pro?</a> - So, are you?</li>
-<li><a href=""></a> -</li>
+<li><a href="http://python-trek-2013.herokuapp.com">PythonTrek</a> &ndash; Because who doesn&rsquo;t love a Star Trek/Monty Python generator? Bonus: you can view all generated phrases on the official twitter account!</li>
+<li><a href="http://fontawesome.pro">Are you a FontAwesome Pro?</a> &ndash; So, are you?</li>
+<li><a href=""></a> &ndash;</li>
 </ul>
 
 
 <h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
 
 <ul>
-<li><a href="http://perfectionkills.com/exploring-canvas-drawing-techniques/">Drawing on canvas</a> - Exploring canvas drawing techniques</li>
-<li><a href="https://medium.com/design-ux/26e74d719081">Text-only UI sketches</a> - Before sketching in that notebook, try writing out your UI first.</li>
-<li><a href="http://www.kickstarter.com/projects/timmillwood/sinatra-cookbook-recipes-for-the-ruby-framework">Sinatra Cookbook</a> - Recipes for the Ruby framework</li>
+<li><a href="http://perfectionkills.com/exploring-canvas-drawing-techniques/">Drawing on canvas</a> &ndash; Exploring canvas drawing techniques</li>
+<li><a href="https://medium.com/design-ux/26e74d719081">Text-only UI sketches</a> &ndash; Before sketching in that notebook, try writing out your UI first.</li>
+<li><a href="http://www.kickstarter.com/projects/timmillwood/sinatra-cookbook-recipes-for-the-ruby-framework">Sinatra Cookbook</a> &ndash; Recipes for the Ruby framework</li>
 </ul>
 
 
 <h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
 
 <ul>
-<li><a href="http://www.youtube.com/watch?v=V_dZQ6AeZDE">TracePoint</a> - An Introduction to TracePoint in Ruby 2.0</li>
-<li><a href="https://github.com/OpenEmu/OpenEmu">OpenEmu</a> - play all your childhood games! <a href="https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#cloning">howto build</a></li>
-<li><a href="https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#cloning"></a> -</li>
+<li><a href="http://www.youtube.com/watch?v=V_dZQ6AeZDE">TracePoint</a> &ndash; An Introduction to TracePoint in Ruby 2.0</li>
+<li><a href="https://github.com/OpenEmu/OpenEmu">OpenEmu</a> &ndash; play all your childhood games! <a href="https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#cloning">howto build</a></li>
+<li><a href="https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#cloning"></a> &ndash;</li>
 </ul>
 
 ]]></content>
@@ -77,50 +77,50 @@ Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's fo
     <id>http://vienna-rb.at/blog/2013/12/04/picks</id>
     <content type="html"><![CDATA[<h3>04/12 Picks!!</h3>
 
-<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the thirty-second edition:</p>
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-second edition:</p>
 
 <h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
 
 <ul>
-<li><a href="http://blog.joshsoftware.com/2013/11/23/pro-tips-for-writing-better-rspec-tests/">Writing Better Specs</a> - 10 Basic steps that help you write cleaner and more focused tests.</li>
-<li><a href="http://samsaffron.com/archive/2013/11/22/demystifying-the-ruby-gc">Demystifying the Ruby GC</a> - The Ruby Garbage Collector under the hood.</li>
-<li><a href="http://vimeo.com/78739988">Nerdbot 2.0 Based on Lita</a> - Because robots are awesome.</li>
+<li><a href="http://blog.joshsoftware.com/2013/11/23/pro-tips-for-writing-better-rspec-tests/">Writing Better Specs</a> &ndash; 10 Basic steps that help you write cleaner and more focused tests.</li>
+<li><a href="http://samsaffron.com/archive/2013/11/22/demystifying-the-ruby-gc">Demystifying the Ruby GC</a> &ndash; The Ruby Garbage Collector under the hood.</li>
+<li><a href="http://vimeo.com/78739988">Nerdbot 2.0 Based on Lita</a> &ndash; Because robots are awesome.</li>
 </ul>
 
 
 <h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
 
 <ul>
-<li><a href="http://events.laberslab.com/about/arduino/bootcamp/vienna/122013/">Arduino-Bootcamp</a> -  You REALLY want to attend the last Arduino-Bootcamp of the year, at Hotel Karolinenhof in Vienna, on December 7th.</li>
-<li><a href="http://thechangelog.com/list-js/">List.js</a> -  Search, sort, and filter your HTML tables, lists, and more!</li>
-<li><a href="http://24pullrequests.com/">24 Pull Requests</a> - Giving back little gifts of code for Christmas.</li>
+<li><a href="http://events.laberslab.com/about/arduino/bootcamp/vienna/122013/">Arduino-Bootcamp</a> &ndash;  You REALLY want to attend the last Arduino-Bootcamp of the year, at Hotel Karolinenhof in Vienna, on December 7th.</li>
+<li><a href="http://thechangelog.com/list-js/">List.js</a> &ndash;  Search, sort, and filter your HTML tables, lists, and more!</li>
+<li><a href="http://24pullrequests.com/">24 Pull Requests</a> &ndash; Giving back little gifts of code for Christmas.</li>
 </ul>
 
 
 <h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
 
 <ul>
-<li><a href="http://explainshell.com">ExplainShell</a> - Match command-line arguments to their help text.</li>
-<li><a href="http://fishshell.com">FishShell</a> - Because the 90s are back.</li>
-<li><a href="http://www.raspberrypi.org/archives/5282">Mathematica</a> - Mathematica now free for the Raspberry Pi.</li>
+<li><a href="http://explainshell.com">ExplainShell</a> &ndash; Match command-line arguments to their help text.</li>
+<li><a href="http://fishshell.com">FishShell</a> &ndash; Because the 90s are back.</li>
+<li><a href="http://www.raspberrypi.org/archives/5282">Mathematica</a> &ndash; Mathematica now free for the Raspberry Pi.</li>
 </ul>
 
 
 <h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
 
 <ul>
-<li><a href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md">Free Programming Books</a> - About like everything.</li>
-<li><a href="http://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color">Which HTML color are you?</a> - Why does HTML think "chucknorris" is a color?</li>
-<li><a href="http://carlos.bueno.org/optimization/">Mature Optimization Handbook</a> - Performance measurement and optimization.</li>
+<li><a href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md">Free Programming Books</a> &ndash; About like everything.</li>
+<li><a href="http://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color">Which HTML color are you?</a> &ndash; Why does HTML think &ldquo;chucknorris&rdquo; is a color?</li>
+<li><a href="http://carlos.bueno.org/optimization/">Mature Optimization Handbook</a> &ndash; Performance measurement and optimization.</li>
 </ul>
 
 
 <h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
 
 <ul>
-<li><a href="http://en.wikipedia.org/wiki/List_of_computer_technology_code_names">list of computer technology code names</a> - Ever ran out of names for you projects or physical devices? pick a code name!</li>
-<li><a href="https://github.com/pivotal/blue-shell">Blue Shell</a> - friendly command-line matchers for shell scripting in ruby using RSpec.</li>
+<li><a href="http://en.wikipedia.org/wiki/List_of_computer_technology_code_names">list of computer technology code names</a> &ndash; Ever ran out of names for you projects or physical devices? pick a code name!</li>
+<li><a href="https://github.com/pivotal/blue-shell">Blue Shell</a> &ndash; friendly command-line matchers for shell scripting in ruby using RSpec.</li>
 <li>How <a href="http://www.infoq.com/presentations/github-evolution">Github</a> (no longer) Works.</li>
 </ul>
 
@@ -134,24 +134,24 @@ Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's fo
     <id>http://vienna-rb.at/blog/2013/11/27/picks</id>
     <content type="html"><![CDATA[<h3>27/11 Picks!!</h3>
 
-<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the thirty-first edition:</p>
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-first edition:</p>
 
 <h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
 
 <ul>
-<li><a href="http://goosecode.com/watson/">watson</a> - Creat GitHub and Bitbucket issues straight from your source code.</li>
-<li><a href="https://flynn.io/blog/demo-roadmap">Greetings from Flynn</a> - A Flynn Demo and Roadmap of the open source SaaS.</li>
-<li><a href="http://robm.me.uk/ruby/2013/11/20/ruby-enp.html">Know your Ruby switches</a> - Ruby's -e, -n and -p switches for the command line.</li>
+<li><a href="http://goosecode.com/watson/">watson</a> &ndash; Creat GitHub and Bitbucket issues straight from your source code.</li>
+<li><a href="https://flynn.io/blog/demo-roadmap">Greetings from Flynn</a> &ndash; A Flynn Demo and Roadmap of the open source SaaS.</li>
+<li><a href="http://robm.me.uk/ruby/2013/11/20/ruby-enp.html">Know your Ruby switches</a> &ndash; Ruby&rsquo;s -e, -n and -p switches for the command line.</li>
 </ul>
 
 
 <h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
 
 <ul>
-<li><a href="http://www.ruby2d.com/">R2D</a> - A gem for 2D graphics in Ruby. Under 'heavy development', but interesting nevertheless.</li>
-<li><a href="http://www.sitepoint.com/use-webfont-icons-bullet-points-html5-lists/">webfont icons</a> - How to use webfont icons as bullet points in HTML5 lists.</li>
-<li><a href="http://teamtreehouse.com/library/technology-foundations/chrome-devtools-basics/the-elements-panel">Chrome DevTools</a> - Get your Chrome DevTools basics right with this Treehouse course.</li>
+<li><a href="http://www.ruby2d.com/">R2D</a> &ndash; A gem for 2D graphics in Ruby. Under &lsquo;heavy development&rsquo;, but interesting nevertheless.</li>
+<li><a href="http://www.sitepoint.com/use-webfont-icons-bullet-points-html5-lists/">webfont icons</a> &ndash; How to use webfont icons as bullet points in HTML5 lists.</li>
+<li><a href="http://teamtreehouse.com/library/technology-foundations/chrome-devtools-basics/the-elements-panel">Chrome DevTools</a> &ndash; Get your Chrome DevTools basics right with this Treehouse course.</li>
 </ul>
 
 ]]></content>
@@ -164,24 +164,24 @@ Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's fo
     <id>http://vienna-rb.at/blog/2013/11/20/picks</id>
     <content type="html"><![CDATA[<h3>20/11 Picks!!</h3>
 
-<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the thirtieth edition:</p>
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirtieth edition:</p>
 
 <h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
 
 <ul>
-<li><a href="http://www.rubytapas.com/episodes/20-Struct?filter=free">Struct</a> - Great RubyTapas episode on Struct.</li>
-<li><a href="https://github.com/chanks/que">Que</a> - A queue for Ruby applications that manages jobs using PostgreSQL's advisory locks. Yeah.</li>
-<li><a href="http://mo.morsi.org/blog/node/382">bundler_ext</a> - Using gem and system installed Ruby dependencies side by side.</li>
+<li><a href="http://www.rubytapas.com/episodes/20-Struct?filter=free">Struct</a> &ndash; Great RubyTapas episode on Struct.</li>
+<li><a href="https://github.com/chanks/que">Que</a> &ndash; A queue for Ruby applications that manages jobs using PostgreSQL&rsquo;s advisory locks. Yeah.</li>
+<li><a href="http://mo.morsi.org/blog/node/382">bundler_ext</a> &ndash; Using gem and system installed Ruby dependencies side by side.</li>
 </ul>
 
 
 <h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
 
 <ul>
-<li><a href="http://gitter.im/">Gitter</a> - Chat. For GitHub.</li>
-<li><a href="https://www.hackerschool.com/apply?2014">Hacker School</a> - Apply to the Winter 2014 Batch.</li>
-<li><a href="http://kathrinto.be/2013/11/wanna-learn-ruby-on-rails/">RoR workshop in Vienna</a> - ... we're hosting one. Tell your friends/family!</li>
+<li><a href="http://gitter.im/">Gitter</a> &ndash; Chat. For GitHub.</li>
+<li><a href="https://www.hackerschool.com/apply?2014">Hacker School</a> &ndash; Apply to the Winter 2014 Batch.</li>
+<li><a href="http://kathrinto.be/2013/11/wanna-learn-ruby-on-rails/">RoR workshop in Vienna</a> &ndash; &hellip; we&rsquo;re hosting one. Tell your friends/family!</li>
 </ul>
 
 ]]></content>
@@ -194,24 +194,24 @@ Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's fo
     <id>http://vienna-rb.at/blog/2013/11/13/picks</id>
     <content type="html"><![CDATA[<h3>13/11 Picks!!</h3>
 
-<p>In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the twenty-nineth edition:</p>
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the twenty-nineth edition:</p>
 
 <h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
 
 <ul>
-<li><a href="http://gobot.io/">Gobot</a> - Go, Robot, Go! Golang for Robotics.</li>
-<li><a href="http://artoo.io/">artoo</a> - Ruby + Robots = &lt;3</li>
-<li><a href="http://www.try-alf.org/">Try ALF</a> - Relational Algebra at your Ruby fingertips.</li>
+<li><a href="http://gobot.io/">Gobot</a> &ndash; Go, Robot, Go! Golang for Robotics.</li>
+<li><a href="http://artoo.io/">artoo</a> &ndash; Ruby + Robots = &lt;3</li>
+<li><a href="http://www.try-alf.org/">Try ALF</a> &ndash; Relational Algebra at your Ruby fingertips.</li>
 </ul>
 
 
 <h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
 
 <ul>
-<li><a href="http://codepen.io/kevinjannis/pen/pyuix">Codepen</a> - I love browsing codepens, like these cool Chrome logo's.</li>
-<li><a href="http://www.refsmmat.com/statistics/">Statistics Done Wrong</a> - The woefully complete guide</li>
-<li><a href="https://github.com/skazhy/github-decorator">GitHub profile decorator</a> - Show off your ASCII skills with  GitHub profile decorator!</li>
+<li><a href="http://codepen.io/kevinjannis/pen/pyuix">Codepen</a> &ndash; I love browsing codepens, like these cool Chrome logo&rsquo;s.</li>
+<li><a href="http://www.refsmmat.com/statistics/">Statistics Done Wrong</a> &ndash; The woefully complete guide</li>
+<li><a href="https://github.com/skazhy/github-decorator">GitHub profile decorator</a> &ndash; Show off your ASCII skills with  GitHub profile decorator!</li>
 </ul>
 
 ]]></content>

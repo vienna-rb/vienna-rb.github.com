@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetup | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/meetup/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-12-11T14:13:23+01:00</updated>
+  <updated>2013-12-12T11:01:56+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -18,17 +18,17 @@
     <link href="http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup/"/>
     <updated>2013-07-19T14:00:00+02:00</updated>
     <id>http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup</id>
-    <content type="html"><![CDATA[<h2>That escalated quickly...</h2>
+    <content type="html"><![CDATA[<h2>That escalated quickly&hellip;</h2>
 
-<p>Hi there, we just pushed the slides of our fifth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out! What's in there? Well, this:</p>
+<p>Hi there, we just pushed the slides of our fifth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out! What&rsquo;s in there? Well, this:</p>
 
-<h5>Andreas Tiefenthaler - Introduction and the Gem of the month: brakeman</h5>
+<h5>Andreas Tiefenthaler &ndash; Introduction and the Gem of the month: brakeman</h5>
 
-<h5>Tony Bangratz - Make your tests faster and use Ruby 2.0</h5>
+<h5>Tony Bangratz &ndash; Make your tests faster and use Ruby 2.0</h5>
 
-<h5>Clemens Helm - Make your workflow continuous, deploy continuous</h5>
+<h5>Clemens Helm &ndash; Make your workflow continuous, deploy continuous</h5>
 
-<h5>Markus Prinz - An introduction to Vagrant</h5>
+<h5>Markus Prinz &ndash; An introduction to Vagrant</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/125429382/">meetup</a>, September 5th at Sektor5!</p>
 ]]></content>
@@ -41,12 +41,12 @@
     <id>http://vienna-rb.at/blog/2013/06/20/fifth-meetup-sponsored-by-codeship</id>
     <content type="html"><![CDATA[<h3>Codeship.io sponsors vienna.rb user group get-together</h3>
 
-<p>The vienna.rb organizing team can't wait for their next developer get-together, taking place Thursday, July 18 at co-working space <a href="http://sektor5.at/">Sektor5</a> (Siebenbrunnengasse 44, Vienna).</p>
+<p>The vienna.rb organizing team can&rsquo;t wait for their next developer get-together, taking place Thursday, July 18 at co-working space <a href="http://sektor5.at/">Sektor5</a> (Siebenbrunnengasse 44, Vienna).</p>
 
 <p>The meetup is sponsored by <a href="http://www.codeship.io/">Codeship</a>. Manuel Weiss, cofounder of Codeship, on why they support vienna.rb:
 <blockquote><p>We love what vienna.rb is doing and want to start giving back to the city and people who have given us so much.</p><footer><strong>Codeship</strong></footer></blockquote></p>
 
-<p>The vienna.rb team is collecting topics for lightning talks from their community. The topics so far - Making your tests faster; Continuous Deployment; Building and distributing virtualized development environments - make for an interesting evening of knowledge exchanging and networking. A little time is always reserved for spontaneous lightning talks from the attendees.</p>
+<p>The vienna.rb team is collecting topics for lightning talks from their community. The topics so far &ndash; Making your tests faster; Continuous Deployment; Building and distributing virtualized development environments &ndash; make for an interesting evening of knowledge exchanging and networking. A little time is always reserved for spontaneous lightning talks from the attendees.</p>
 
 <p>Vienna.rb meetups are open to both experienced Ruby developers and people that are new to programming.</p>
 
@@ -63,11 +63,11 @@
 
 <p>Hi there, we just pushed the slides of the fourth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
 
-<h5>Markus Prinz - 10 things you didn't know about Postgres</h5>
+<h5>Markus Prinz &ndash; 10 things you didn&rsquo;t know about Postgres</h5>
 
-<h5>Martin Natano - Implementing git-orm</h5>
+<h5>Martin Natano &ndash; Implementing git-orm</h5>
 
-<h5>Gerald Bauer - Using Markdown for building books, websites or presentations</h5>
+<h5>Gerald Bauer &ndash; Using Markdown for building books, websites or presentations</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/111534092/">meetup</a>, July 18 at Sektor5!</p>
 ]]></content>
@@ -99,13 +99,13 @@
     <id>http://vienna-rb.at/blog/2013/05/06/third-meetup-to-take-place-at-co-working-space-sektor5</id>
     <content type="html"><![CDATA[<h3>Ruby on Rails user group meetup taking place at Sektor5</h3>
 
-<p>After a full house for both the first and the second vienna.rb meetups the organizing team can't wait for their next developer get-together, taking place Thursday, May the 9th at co-working space <a href="http://sektor5.at/">Sektor5</a> (Siebenbrunnengasse 44, Vienna).
+<p>After a full house for both the first and the second vienna.rb meetups the organizing team can&rsquo;t wait for their next developer get-together, taking place Thursday, May the 9th at co-working space <a href="http://sektor5.at/">Sektor5</a> (Siebenbrunnengasse 44, Vienna).
 Vienna.rb meetups are open to both experienced Ruby developers and people that are new to programming.</p>
 
 <p>The meetup is sponsored by <a href="http://www.runtastic.com/">Runtastic</a>:
-<blockquote><p>At Runtastic we're using Ruby and Rails since our foundation in 2010. We like to keep our developers happy, and thus bet on Ruby whenever we can. With many members of the Ruby community being present at the vienna.rb meetup, we might meet one of our future colleagues there.</p><footer><strong>Runtastic</strong></footer></blockquote></p>
+<blockquote><p>At Runtastic we&rsquo;re using Ruby and Rails since our foundation in 2010. We like to keep our developers happy, and thus bet on Ruby whenever we can. With many members of the Ruby community being present at the vienna.rb meetup, we might meet one of our future colleagues there.</p><footer><strong>Runtastic</strong></footer></blockquote></p>
 
-<p>The vienna.rb team collected topics for talks from their community. Starting with David Österreicher from Runtastic, Sarah Howorka will then talk about the <a href="https://railsgirls.com/">Rails Girls project</a>. Clemens Helm will eleborate on 'The Ruby workflow' and Andreas Kopecky will give us an insight on why he uses Sequel and its advantages to Active Record. A little time is always reserved for spontaneous lightning talks from the attendees.</p>
+<p>The vienna.rb team collected topics for talks from their community. Starting with David Österreicher from Runtastic, Sarah Howorka will then talk about the <a href="https://railsgirls.com/">Rails Girls project</a>. Clemens Helm will eleborate on &lsquo;The Ruby workflow&rsquo; and Andreas Kopecky will give us an insight on why he uses Sequel and its advantages to Active Record. A little time is always reserved for spontaneous lightning talks from the attendees.</p>
 
 <p>For more information regarding the program and more upcoming events, please visit <a href="http://meetup.com/vienna-rb">vienna.rb on meetup</a> or follow <a href="https://twitter.com/viennarb">@viennarb</a></p>
 ]]></content>
