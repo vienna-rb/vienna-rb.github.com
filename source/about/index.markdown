@@ -20,18 +20,18 @@ class Vienna
   end
 
   def when?
-    Time.new(2013,6,6, 18,00,0, "+01:00")
+    Time.new(2014,1,9, 18,00,0, "+01:00")
   end
 
   def what_and_why?
-    URI("http://www.meetup.com/vienna-rb/events/111533282/")
+    URI("http://www.meetup.com/vienna-rb/events/155095492/")
   end
 
   def who?
     organizers = {
-      "Floor Drees" => "@floordrees",
-      "Anton Bangratz" => "@tony_xpro",
-      "Andreas Tiefenthaler" => "@pxlpnk"}
+      "Laura Gaetano" => "@alicetragedy",
+      "Alex Tacho" => "@alexandertacho",
+      "Ben Fritsch" => "@beanieboi"}
   end
 
   def to_s
