@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-12-25T11:34:41+01:00</updated>
+  <updated>2013-12-25T11:45:46+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/12/25/picks/"/>
+    <updated>2013-12-25T10:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2013/12/25/picks</id>
+    <content type="html"><![CDATA[<h3>25/12 Picks Happy Christmas Everyone!!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://codepo8.github.io/CSS3-Rainbow-Dividers/">from .meh to .fabulous</a> &ndash; OMG RAINBOW DIVIDERS IN CSS! (by the awesome, Chris Heilmann and Lea Verou)</li>
+<li><a href="http://briangonzalez.github.io/jquery.adaptive-backgrounds.js">adaptive backgrounds</a> &ndash; Extract dominant colors from images and applying it to its parent.</li>
+<li><a href="http://www.codecademy.com/courses/web-beginner-en-bay3D/0/1">Codecademy &ndash; jQuery</a> &ndash; I intend to become a jQuery MASTER over Christmas.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://podcasts.thoughtbot.com/giantrobots">Thoughtbot Podcast</a> &ndash; GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS PODCAST</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/explore">GitHub Explore</a> &ndash; subscribe to the newsletter to stay up to date on GitHub</li>
+<li><a href="http://tmm1.net/ruby21-profiling/">Ruby 2.1</a> &ndash; Ruby 2.1: Profiling Ruby</li>
+<li><a href="http://papersplea.se">Papers, Please</a> &ndash; have some spare time during the holidays? play Papers, please!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -652,36 +689,6 @@ Books, articles, gems, funsies&hellip; you&rsquo;re in for an eclectic mix! So, 
 <li><a href="https://www.bloc.io/ruby-warrior">warrior.attack!</a> &ndash; Code Ruby to get further in this cute game!</li>
 <li><a href="http://www.newscientist.com/article/mg21929275.800-kindergarten-coders-can-program-before-they-can-read.html">Kindergarten coders</a> &ndash; 4-year-olds are learning to program thanks to a new graphics-based coding language</li>
 <li><a href="http://www.onextrapixel.com/2013/07/26/website-deconstruction-myspace-com/">Deconstructing MySpace</a> &ndash; I like onextrapixel&rsquo;s approach to destructing non-traditional layout</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/07/26/picks/"/>
-    <updated>2013-07-26T19:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/07/26/picks</id>
-    <content type="html"><![CDATA[<h3>26/7 Picks!!</h3>
-
-<p>In a little series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, funsies&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fourteenth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="https://blog.whitehatsec.com/top-10-proactive-web-application-security-measures/">Top 10 Proactive Web Application Security Measures</a> &ndash; Security should concern everyone, from the developer to the CEO</li>
-<li><a href="http://crohr.me/pkgr/">pkgr</a> &ndash; Package your Rails app into deb or rpm packages</li>
-<li><a href="https://github.com/jordansissel/fpm">fpm</a> &ndash; Effing package managers! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://exercism.io">gem install exercism</a> &ndash; Exercism &ndash; a Katrina Owen production &ndash; is all about giving and receiving feedback. And code reviews.</li>
-<li><a href="http://laberslab.com/">Laber&rsquo;s lab</a> &ndash; to all the makers out there, check out the dates for the <a href="http://events.laberslab.com/">Arduino lab&rsquo;s</a>!</li>
-<li><a href="http://www.karriere.at/blog/co-working-sektor-5.html">Sektor5</a> &ndash; neat post (with dito pictures) about the co-working space that hosts our monthly meetups</li>
 </ul>
 
 ]]></content>

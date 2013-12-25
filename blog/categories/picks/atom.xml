@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-12-25T11:34:41+01:00</updated>
+  <updated>2013-12-25T11:45:46+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2013/12/25/picks/"/>
+    <updated>2013-12-25T10:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2013/12/25/picks</id>
+    <content type="html"><![CDATA[<h3>25/12 Picks Happy Christmas Everyone!!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://codepo8.github.io/CSS3-Rainbow-Dividers/">from .meh to .fabulous</a> &ndash; OMG RAINBOW DIVIDERS IN CSS! (by the awesome, Chris Heilmann and Lea Verou)</li>
+<li><a href="http://briangonzalez.github.io/jquery.adaptive-backgrounds.js">adaptive backgrounds</a> &ndash; Extract dominant colors from images and applying it to its parent.</li>
+<li><a href="http://www.codecademy.com/courses/web-beginner-en-bay3D/0/1">Codecademy &ndash; jQuery</a> &ndash; I intend to become a jQuery MASTER over Christmas.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://podcasts.thoughtbot.com/giantrobots">Thoughtbot Podcast</a> &ndash; GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS PODCAST</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/explore">GitHub Explore</a> &ndash; subscribe to the newsletter to stay up to date on GitHub</li>
+<li><a href="http://tmm1.net/ruby21-profiling/">Ruby 2.1</a> &ndash; Ruby 2.1: Profiling Ruby</li>
+<li><a href="http://papersplea.se">Papers, Please</a> &ndash; have some spare time during the holidays? play Papers, please!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -200,36 +237,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.ruby2d.com/">R2D</a> &ndash; A gem for 2D graphics in Ruby. Under &lsquo;heavy development&rsquo;, but interesting nevertheless.</li>
 <li><a href="http://www.sitepoint.com/use-webfont-icons-bullet-points-html5-lists/">webfont icons</a> &ndash; How to use webfont icons as bullet points in HTML5 lists.</li>
 <li><a href="http://teamtreehouse.com/library/technology-foundations/chrome-devtools-basics/the-elements-panel">Chrome DevTools</a> &ndash; Get your Chrome DevTools basics right with this Treehouse course.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/11/20/picks/"/>
-    <updated>2013-11-20T10:00:00+01:00</updated>
-    <id>http://vienna-rb.at/blog/2013/11/20/picks</id>
-    <content type="html"><![CDATA[<h3>20/11 Picks!!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirtieth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://www.rubytapas.com/episodes/20-Struct?filter=free">Struct</a> &ndash; Great RubyTapas episode on Struct.</li>
-<li><a href="https://github.com/chanks/que">Que</a> &ndash; A queue for Ruby applications that manages jobs using PostgreSQL&rsquo;s advisory locks. Yeah.</li>
-<li><a href="http://mo.morsi.org/blog/node/382">bundler_ext</a> &ndash; Using gem and system installed Ruby dependencies side by side.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://gitter.im/">Gitter</a> &ndash; Chat. For GitHub.</li>
-<li><a href="https://www.hackerschool.com/apply?2014">Hacker School</a> &ndash; Apply to the Winter 2014 Batch.</li>
-<li><a href="http://kathrinto.be/2013/11/wanna-learn-ruby-on-rails/">RoR workshop in Vienna</a> &ndash; &hellip; we&rsquo;re hosting one. Tell your friends/family!</li>
 </ul>
 
 ]]></content>
