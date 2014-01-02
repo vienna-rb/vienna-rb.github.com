@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-12-25T11:45:46+01:00</updated>
+  <updated>2014-01-02T10:53:22+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/01/01/picks/"/>
+    <updated>2014-01-01T10:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2014/01/01/picks</id>
+    <content type="html"><![CDATA[<h3>01/01 Picks!!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://creativemornings.com/talks/michael-bierut/1">Let&rsquo;s Talk About Clients</a> &ndash; Oldie but Goldie: Michael Bierut&rsquo;s talk at the NYC Creative Mornings</li>
+<li><a href="http://danielchoi.com/software/vmail.html">Vmail</a> &ndash; A Vim Interface to Gmail</li>
+<li><a href="https://medium.com/p/e034a09248c1">Girls haven&rsquo;t been hacking for the last 10 years</a> &ndash; A good article focusing on the heart of the problem</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://tympanus.net/Development/SVGDrawingAnimation/">SVG Drawing Animation</a> &ndash; Line drawing animation with illustration fade-in</li>
+<li><a href="http://blog.obiefernandez.com/content/2013/11/hamls-little-known-list_of-helper.html">Haml&rsquo;s little-known list_of helper</a> &ndash; The list_of method will iterate and yield the results of the block into sequential <li> elements.</li>
+<li><a href="http://emilebosch.github.io/polybox/">Polybox</a> &ndash; A combo of Docker and Vagrant to make full dev environments easily available. Prestocked with boxes for Rails 4, Django, Go, Haskell, and Nodejs.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf">Removing the GIL in Ruby</a> &ndash; Eliminating Global Interpreter Locks in Ruby through Hardware Transactional Memory</li>
+<li><a href="http://tmm1.net/ruby21-rgengc/">Ruby 2.1 Garbe Collectors</a> &ndash; nice write up of the changes in Ruby 2.1</li>
+<li><a href="http://www.catb.org/esr/structure-packing/">The Lost Art of C Structure Packing</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -659,36 +698,6 @@ Books, articles, gems, funsies&hellip; you&rsquo;re in for an eclectic mix! So, 
 <li><a href="https://plus.google.com/117030170248799553421/posts/CUhUAQwKxFz">Animated Opacity for Hangout Overlays</a> &ndash; The Hangouts API team recently released a new feature in the Dev Channel of the Hangouts API, that allows controlling the opacity of overlays. Check out how Gerwin Sturm&rsquo;s has been playing around with the code to create some <a href="https://lh3.googleusercontent.com/-aLSHUuHtp4E/UfgMkXm5bAI/AAAAAAABFTA/RVhy4Yv8EAs/w426-h237/opacity.avi">awesome effects</a>.</li>
 <li><a href="http://ascii.io/a/4348">Never leave the terminal</a> &ndash; Konstantin Haase shared this great resource. Go watch it!</li>
 <li><a href="http://www.meetup.com/vienna-rb/events/125429382/">#pairwithme</a> &ndash; We&rsquo;d love to experiment a little with pair programming sessions! For the next meetup we reserve 18:00 &ndash; 19:00 for pairing, with the talks starting at 19:15. Drop by at 6pm and we&rsquo;ll hook you up with a partner!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/07/31/picks/"/>
-    <updated>2013-07-31T13:00:00+02:00</updated>
-    <id>http://vienna-rb.at/blog/2013/07/31/picks</id>
-    <content type="html"><![CDATA[<h3>31/7 Picks!!</h3>
-
-<p>In a little series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, funsies&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifteenth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://http2.github.io/http2-spec//">HTTP v2.0 draft</a> &ndash; The first release of the Hypertext Transfer Protocol version 2.0.</li>
-<li><a href="http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html">Simple API with Nginx and PostgreSQL</a> &ndash; How to build a simple REST API using only Nginx and PostgreSQL.</li>
-<li><a href="http://regexcrossword.com/">Regex Cross­word</a> -Bored by regular crossword puzzles? Then level up!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://www.bloc.io/ruby-warrior">warrior.attack!</a> &ndash; Code Ruby to get further in this cute game!</li>
-<li><a href="http://www.newscientist.com/article/mg21929275.800-kindergarten-coders-can-program-before-they-can-read.html">Kindergarten coders</a> &ndash; 4-year-olds are learning to program thanks to a new graphics-based coding language</li>
-<li><a href="http://www.onextrapixel.com/2013/07/26/website-deconstruction-myspace-com/">Deconstructing MySpace</a> &ndash; I like onextrapixel&rsquo;s approach to destructing non-traditional layout</li>
 </ul>
 
 ]]></content>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2013-12-25T11:45:46+01:00</updated>
+  <updated>2014-01-02T10:53:22+01:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/01/01/picks/"/>
+    <updated>2014-01-01T10:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2014/01/01/picks</id>
+    <content type="html"><![CDATA[<h3>01/01 Picks!!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://creativemornings.com/talks/michael-bierut/1">Let&rsquo;s Talk About Clients</a> &ndash; Oldie but Goldie: Michael Bierut&rsquo;s talk at the NYC Creative Mornings</li>
+<li><a href="http://danielchoi.com/software/vmail.html">Vmail</a> &ndash; A Vim Interface to Gmail</li>
+<li><a href="https://medium.com/p/e034a09248c1">Girls haven&rsquo;t been hacking for the last 10 years</a> &ndash; A good article focusing on the heart of the problem</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://tympanus.net/Development/SVGDrawingAnimation/">SVG Drawing Animation</a> &ndash; Line drawing animation with illustration fade-in</li>
+<li><a href="http://blog.obiefernandez.com/content/2013/11/hamls-little-known-list_of-helper.html">Haml&rsquo;s little-known list_of helper</a> &ndash; The list_of method will iterate and yield the results of the block into sequential <li> elements.</li>
+<li><a href="http://emilebosch.github.io/polybox/">Polybox</a> &ndash; A combo of Docker and Vagrant to make full dev environments easily available. Prestocked with boxes for Rails 4, Django, Go, Haskell, and Nodejs.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf">Removing the GIL in Ruby</a> &ndash; Eliminating Global Interpreter Locks in Ruby through Hardware Transactional Memory</li>
+<li><a href="http://tmm1.net/ruby21-rgengc/">Ruby 2.1 Garbe Collectors</a> &ndash; nice write up of the changes in Ruby 2.1</li>
+<li><a href="http://www.catb.org/esr/structure-packing/">The Lost Art of C Structure Packing</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -207,36 +246,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://en.wikipedia.org/wiki/List_of_computer_technology_code_names">list of computer technology code names</a> &ndash; Ever ran out of names for you projects or physical devices? pick a code name!</li>
 <li><a href="https://github.com/pivotal/blue-shell">Blue Shell</a> &ndash; friendly command-line matchers for shell scripting in ruby using RSpec.</li>
 <li>How <a href="http://www.infoq.com/presentations/github-evolution">Github</a> (no longer) Works.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/11/27/picks/"/>
-    <updated>2013-11-27T10:00:00+01:00</updated>
-    <id>http://vienna-rb.at/blog/2013/11/27/picks</id>
-    <content type="html"><![CDATA[<h3>27/11 Picks!!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-first edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://goosecode.com/watson/">watson</a> &ndash; Creat GitHub and Bitbucket issues straight from your source code.</li>
-<li><a href="https://flynn.io/blog/demo-roadmap">Greetings from Flynn</a> &ndash; A Flynn Demo and Roadmap of the open source SaaS.</li>
-<li><a href="http://robm.me.uk/ruby/2013/11/20/ruby-enp.html">Know your Ruby switches</a> &ndash; Ruby&rsquo;s -e, -n and -p switches for the command line.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.ruby2d.com/">R2D</a> &ndash; A gem for 2D graphics in Ruby. Under &lsquo;heavy development&rsquo;, but interesting nevertheless.</li>
-<li><a href="http://www.sitepoint.com/use-webfont-icons-bullet-points-html5-lists/">webfont icons</a> &ndash; How to use webfont icons as bullet points in HTML5 lists.</li>
-<li><a href="http://teamtreehouse.com/library/technology-foundations/chrome-devtools-basics/the-elements-panel">Chrome DevTools</a> &ndash; Get your Chrome DevTools basics right with this Treehouse course.</li>
 </ul>
 
 ]]></content>
