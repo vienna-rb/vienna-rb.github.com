@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-01-10T22:35:55+00:00</updated>
+  <updated>2014-01-10T22:43:28+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/01/08/picks/"/>
+    <updated>2014-01-08T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/01/08/picks</id>
+    <content type="html"><![CDATA[<h3>08/01 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-seventh edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://github.com/karan/Projects">Projects</a> &ndash; A list of practical projects to be solved in any language.</li>
+<li><a href="http://motherboard.vice.com/blog/the-mathematical-reality-of-reality-an-interview-with-cosmologist-max-tegmark">The Mathematical Reality of Reality</a> &ndash; An interview with cosmologist Max Tegmark.</li>
+<li><a href="http://github.com/osnr/cruncher">Cruncher</a> &ndash; An implementation of Bret Victor&rsquo;s Scrubbing Calculator.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/kkga/spacegray">Spacegray</a> &ndash; A set of minimal Sublime Text 2/3 themes.</li>
+<li><a href="https://github.com/shuky19/sublime_debugger">Sublime Ruby Debugger</a> &ndash; Debugger plugin for interactive ruby and RoR debugging on Sublime Text.</li>
+<li><a href="http://brandonhilkert.com/blog/setting-up-a-cloudfront-cdn-for-rails/">CDN for Rails</a> &ndash; Setting up a cloudfront CDN for Rails.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://watsi.github.io/2014/01/09/updated-ar-connection-pool-size-on-heroku-with-puma-and-sidekiq.html">Connection Pooling</a> &ndash; Setting ActiveRecord&rsquo;s connection pool size on Heroku with Puma or Sidekiq</li>
+<li><a href="http://googleonlinesecurity.blogspot.de/2014/01/ffmpeg-and-thousand-fixes.html">FFmpeg Security</a> &ndash; FFmpeg and a thousand fixes</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/tony_xpro">Tony</a></h5>
+
+<ul>
+<li><a href="http://martinfowler.com/bliki/BranchByAbstraction.html">Martin Fowler: Branch by Abstraction</a> &ndash; Make a large-scale change while releasing regularily.</li>
+<li><a href="http://feelings-erased.blogspot.co.at/2014/01/mocks-are-breaking-encapsulation-heres.html">Mocks are &ldquo;breaking encapsulation&rdquo;</a> &ndash; Grzegorz Gałęzowski disagrees with his notions (and I agree with him).</li>
+<li><a href="http://blog.8thlight.com/uncle-bob/2013/12/10/Thankyou-Kent.html">Extreme Programming, a Reflection</a> &ndash; Uncle Bob Martin gives a lot of nostalgia a reality check. We&rsquo;ve come far!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -668,36 +715,6 @@ over or under the ground. Read why it&rsquo;s so tricky and how they want to sol
 <li><a href="http://mytechnologyworld9.blogspot.co.at/2010/08/complicated-mechanisms-explained-in.html">Complicated Mechanisms Explained</a> &ndash; Complicated Mechanisms Explained in simple animations. I think this is just great.</li>
 <li><a href="http://codepen.io/">Codepen</a> &ndash; I really love Codepen&rsquo;s team picks of great CSS stuff on their homepage!</li>
 <li><a href="https://github.com/Mamady/green-slate">Green slate</a> &ndash; Now you too can drink the &ldquo;we only hire opensource contributors&rdquo; kool-aid ;)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/08/07/picks/"/>
-    <updated>2013-08-07T13:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2013/08/07/picks</id>
-    <content type="html"><![CDATA[<h3>7/8 Picks!!</h3>
-
-<p>In a little series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, funsies&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixteenth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://www.newstatesman.com/2013/07/mysteries-bicycle">We still don’t really know how bicycles work</a> &ndash; Forget mysterious dark matter and the inexplicable accelerating expansion of the universe; the bicycle represents a far more embarrassing hole in the accomplishments of physics</li>
-<li><a href="http://www.docker.io/">docker.io</a> &ndash; Docker is an open-source engine which automates the deployment of applications as highly portable, self-sufficient containers.</li>
-<li><a href="https://github.com/pagekite/Mailpile">Mailpile</a> &ndash; <a href="http:/www.mailpile.is/">Mailpile</a> is a free-as-in-freedom personal e-mail searching and indexing tool, largely inspired by Google&rsquo;s popular proprietary-but-gratis e-mail service. Check out their fundraiser <a href="http://igg.me/at/mailpile">http://igg.me/at/mailpile</a></li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://plus.google.com/117030170248799553421/posts/CUhUAQwKxFz">Animated Opacity for Hangout Overlays</a> &ndash; The Hangouts API team recently released a new feature in the Dev Channel of the Hangouts API, that allows controlling the opacity of overlays. Check out how Gerwin Sturm&rsquo;s has been playing around with the code to create some <a href="https://lh3.googleusercontent.com/-aLSHUuHtp4E/UfgMkXm5bAI/AAAAAAABFTA/RVhy4Yv8EAs/w426-h237/opacity.avi">awesome effects</a>.</li>
-<li><a href="http://ascii.io/a/4348">Never leave the terminal</a> &ndash; Konstantin Haase shared this great resource. Go watch it!</li>
-<li><a href="http://www.meetup.com/vienna-rb/events/125429382/">#pairwithme</a> &ndash; We&rsquo;d love to experiment a little with pair programming sessions! For the next meetup we reserve 18:00 &ndash; 19:00 for pairing, with the talks starting at 19:15. Drop by at 6pm and we&rsquo;ll hook you up with a partner!</li>
 </ul>
 
 ]]></content>
