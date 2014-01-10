@@ -346,9 +346,6 @@ task :setup_github_pages, :repo do |t, args|
   mkdir deploy_dir
   cd "#{deploy_dir}" do
     system "git init"
-    system "echo 'My Octopress Page is coming soon &hellip;' > index.html"
-    system "git add ."
-    system "git commit -m \"Octopress init\""
     system "git branch -m gh-pages" unless branch == 'master'
     system "git remote add origin #{repo_url}"
     rakefile = IO.read(__FILE__)
