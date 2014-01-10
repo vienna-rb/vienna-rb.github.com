@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetup | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/meetup/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-01-10T22:17:02+00:00</updated>
+  <updated>2014-01-10T22:20:53+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -44,9 +44,7 @@
 <p>The vienna.rb organizing team can&rsquo;t wait for their next developer get-together, taking place Thursday, July 18 at co-working space <a href="http://sektor5.at/">Sektor5</a> (Siebenbrunnengasse 44, Vienna).</p>
 
 <p>The meetup is sponsored by <a href="http://www.codeship.io/">Codeship</a>. Manuel Weiss, cofounder of Codeship, on why they support vienna.rb:
-{%blockquote Codeship %}
-We love what vienna.rb is doing and want to start giving back to the city and people who have given us so much.
-{%endblockquote%}</p>
+<blockquote><p>We love what vienna.rb is doing and want to start giving back to the city and people who have given us so much.</p><footer><strong>Codeship</strong></footer></blockquote></p>
 
 <p>The vienna.rb team is collecting topics for lightning talks from their community. The topics so far &ndash; Making your tests faster; Continuous Deployment; Building and distributing virtualized development environments &ndash; make for an interesting evening of knowledge exchanging and networking. A little time is always reserved for spontaneous lightning talks from the attendees.</p>
 
@@ -105,9 +103,7 @@ We love what vienna.rb is doing and want to start giving back to the city and pe
 Vienna.rb meetups are open to both experienced Ruby developers and people that are new to programming.</p>
 
 <p>The meetup is sponsored by <a href="http://www.runtastic.com/">Runtastic</a>:
-{%blockquote Runtastic %}
-At Runtastic we&rsquo;re using Ruby and Rails since our foundation in 2010. We like to keep our developers happy, and thus bet on Ruby whenever we can. With many members of the Ruby community being present at the vienna.rb meetup, we might meet one of our future colleagues there.
-{%endblockquote%}</p>
+<blockquote><p>At Runtastic we&rsquo;re using Ruby and Rails since our foundation in 2010. We like to keep our developers happy, and thus bet on Ruby whenever we can. With many members of the Ruby community being present at the vienna.rb meetup, we might meet one of our future colleagues there.</p><footer><strong>Runtastic</strong></footer></blockquote></p>
 
 <p>The vienna.rb team collected topics for talks from their community. Starting with David Österreicher from Runtastic, Sarah Howorka will then talk about the <a href="https://railsgirls.com/">Rails Girls project</a>. Clemens Helm will eleborate on &lsquo;The Ruby workflow&rsquo; and Andreas Kopecky will give us an insight on why he uses Sequel and its advantages to Active Record. A little time is always reserved for spontaneous lightning talks from the attendees.</p>
 
