@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-01-15T09:46:09+00:00</updated>
+  <updated>2014-01-15T09:46:55+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/01/15/picks/"/>
+    <updated>2014-01-15T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/01/15/picks</id>
+    <content type="html"><![CDATA[<h3>15/01 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/veltman/clmystery">The Command Line Murders</a> &ndash; A command-line murder mystery. How cool is that?</li>
+<li><a href="http://speaking.io/">Speaking.io</a> &ndash; Thoughts on public speaking by GitHub&rsquo;s Zach Holman</li>
+<li><a href="https://github.com/rcorral/github-stargazers/">GitHub Stargazers</a> &ndash; making your stargazers twinkle!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://monkeyandcrow.com/blog/reading_rails_concern/">Rails Concern</a> &ndash; Understanding how &lsquo;Concern&rsquo; works will help you better understand how Ruby&rsquo;s &lsquo;Module&rsquo; works.</li>
+<li><a href="https://github.com/appfolio/gemsurance">Gemsurance</a> &ndash; Gemsurance is a tool for monitoring if any of your Ruby Gems are out-of-date or vulnerable.</li>
+<li><a href="http://insideintercom.io/using-job-stories-design-features-ui-ux/">Job Stories</a> &ndash; Designing features using job stories.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://myronmars.to/n/dev-blog/2014/01/new-in-rspec-3-composable-matchers">RSpec Matchers</a> &ndash; Composable Matchers in RSpec 3</li>
+<li><a href="http://walpurgisriot.github.io/blog/2013/12/18/ruby-syntax-trivia.html">Ruby Syntax Trivia</a> &ndash; Neat little Ruby tricks</li>
+<li><a href="http://security.stackexchange.com/questions/20803/how-does-ssl-work">How does SSL work?</a> &ndash; What every developer should know about SSL.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/citizen428/try_to">try_to</a> &ndash; Sophisticated, configurable error handling that can be used instead of Object#try.</li>
+<li><a href="http://www.benjaminfleischer.com/2013/07/12/make-the-world-a-better-place-put-a-license-in-your-gemspec/">&ldquo;Make the world a better place&rdquo;</a> &ndash; &hellip; put a license in your gemspec.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -179,63 +226,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.youtube.com/watch?v=1-vcErOPofQ">Grace Hopper</a> on Lettermann</li>
 <li><a href="https://github.com/MarkDunne/33-questions">33 questions</a> &ndash; find questions which identify everyone on this planet</li>
 <li><a href="http://www.youtube.com/watch?v=jSlwuafyUUo">Guy Kawasaki</a> &ldquo;The Art of the Start&rdquo;</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/12/11/picks/"/>
-    <updated>2013-12-11T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2013/12/11/picks</id>
-    <content type="html"><![CDATA[<h3>11/12 Picks!!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-third edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://exple.tive.org/blarg/2013/10/22/citation-needed/">On Array indices</a> &ndash; Should they start at 0 or 1?</li>
-<li><a href="https://github.com/apotonick/roar">roar</a> &ndash; Resource-Oriented Architectures in Ruby.</li>
-<li><a href="http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years">Architecture the Lost Years</a> &ndash; Keynote by Robert Martin at the Ruby Midwest 2011. Still a must watch!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://linz.kod.io/">kod.io</a> &ndash; March 1st, Linz will host kod.io &ndash; a developer conference around Python, Ruby and JavaScript (and all its frameworks). Go check it out.</li>
-<li><a href="http://tmate.io/">tmate</a> &ndash; Instant terminal sharing ftw.</li>
-<li><a href="http://xem.github.io/miniCodeEditor/">MiniCodeEditor</a> &ndash; A HTML/CSS/JavaScript code editor in 230+ bytes!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://python-trek-2013.herokuapp.com">PythonTrek</a> &ndash; Because who doesn&rsquo;t love a Star Trek/Monty Python generator? Bonus: you can view all generated phrases on the official twitter account!</li>
-<li><a href="http://fontawesome.pro">Are you a FontAwesome Pro?</a> &ndash; So, are you?</li>
-<li><a href=""></a> &ndash;</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://perfectionkills.com/exploring-canvas-drawing-techniques/">Drawing on canvas</a> &ndash; Exploring canvas drawing techniques</li>
-<li><a href="https://medium.com/design-ux/26e74d719081">Text-only UI sketches</a> &ndash; Before sketching in that notebook, try writing out your UI first.</li>
-<li><a href="http://www.kickstarter.com/projects/timmillwood/sinatra-cookbook-recipes-for-the-ruby-framework">Sinatra Cookbook</a> &ndash; Recipes for the Ruby framework</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=V_dZQ6AeZDE">TracePoint</a> &ndash; An Introduction to TracePoint in Ruby 2.0</li>
-<li><a href="https://github.com/OpenEmu/OpenEmu">OpenEmu</a> &ndash; play all your childhood games! <a href="https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#cloning">howto build</a></li>
-<li><a href="https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#cloning"></a> &ndash;</li>
 </ul>
 
 ]]></content>
