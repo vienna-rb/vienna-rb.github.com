@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: codeship | User group for Viennese rubyists]]></title>
+  <link href="http://vienna-rb.at/blog/categories/codeship/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2014-01-15T09:46:55+00:00</updated>
+  <id>http://vienna-rb.at/</id>
+  <author>
+    <name><![CDATA[vienna.rb team]]></name>
+    <email><![CDATA[viennarb@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The slides of our fifth meetup are online]]></title>
+    <link href="http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup/"/>
+    <updated>2013-07-19T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup</id>
+    <content type="html"><![CDATA[<h2>That escalated quickly&hellip;</h2>
+
+<p>Hi there, we just pushed the slides of our fifth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out! What&rsquo;s in there? Well, this:</p>
+
+<h5>Andreas Tiefenthaler &ndash; Introduction and the Gem of the month: brakeman</h5>
+
+<h5>Tony Bangratz &ndash; Make your tests faster and use Ruby 2.0</h5>
+
+<h5>Clemens Helm &ndash; Make your workflow continuous, deploy continuous</h5>
+
+<h5>Markus Prinz &ndash; An introduction to Vagrant</h5>
+
+<p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/125429382/">meetup</a>, September 5th at Sektor5!</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ruby | User group for Viennese rubyists]]></title>
+  <link href="http://vienna-rb.at/blog/categories/ruby/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2014-01-15T09:46:55+00:00</updated>
+  <id>http://vienna-rb.at/</id>
+  <author>
+    <name><![CDATA[vienna.rb team]]></name>
+    <email><![CDATA[viennarb@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New about page]]></title>
+    <link href="http://vienna-rb.at/blog/2013/03/27/new-about-page/"/>
+    <updated>2013-03-27T20:12:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2013/03/27/new-about-page</id>
+    <content type="html"><![CDATA[<h2>The vienna.rb class</h2>
+
+<p>We just added a new page to the blog. The <a href="/about">about</a> page contains a bit more information about what we do, where we do it and who we are. It also is a functioning Ruby class.</p>
+
+<p><div><script src='https://gist.github.com/5257111.js?file=irb_test'></script>
+<noscript><pre><code>→ curl -o vienna.rb https://gist.github.com/pxlpnk/5257111/raw/a577da6be4807daa4b4a2751659d100f7d1ba9f6/vienna.rb 
+
+→ irb -r &quot;./vienna.rb&quot;
+
+&gt;&gt; v = Vienna.new
+=&gt; The next vienna.rb takes place at sektor5 Siebenbrunnengasse 44, 1050 Wien and starts at 2013-04-12 18:00:00 +0100. For more see: http://vienna-rb.at/blog/2013/03/19/second-meetup-to-take-place-at-co-working-space-sektor5/
+
+&gt;&gt; v.where?
+=&gt; #&lt;struct Struct::Location name=&quot;sektor5&quot;, address=&quot;Siebenbrunnengasse 44, 1050 Wien&quot;, details=nil&gt;
+
+&gt;&gt; v.when?
+=&gt; 2013-04-12 18:00:00 +0100
+
+&gt;&gt; v.what_and_why?
+=&gt; #&lt;URI::HTTP:0x007fc26983c9c0 URL:http://vienna-rb.at/blog/2013/03/19/second-meetup-to-take-place-at-co-working-space-sektor5/&gt;
+
+&gt;&gt; v.who?
+=&gt; {&quot;Floor Drees&quot;=&gt;&quot;@floordrees&quot;, &quot;Anton Bangratz&quot;=&gt;&quot;@tony_xpro&quot;, &quot;Andreas Tiefenthaler&quot;=&gt;&quot;@pxlpnk&quot;}
+
+&gt;&gt; v.version
+=&gt; &quot;v0.0.3 - 2013-03-27 19:39&quot;
+
+&gt;&gt; puts v 
+The next vienna.rb takes place at sektor5 Siebenbrunnengasse 44, 1050 Wien and starts at 2013-04-12 18:00:00 +0100. For more see: http://vienna-rb.at/blog/2013/03/19/second-meetup-to-take-place-at-co-working-space-sektor5/
+=&gt; nil
+</code></pre></noscript></div>
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rubyslava #26 - Ruby Meet Up in Bratislava]]></title>
+    <link href="http://vienna-rb.at/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava/"/>
+    <updated>2013-03-22T18:42:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2013/03/22/rubyslava-number-26-ruby-meet-up-in-bratislava</id>
+    <content type="html"><![CDATA[<h2>Dobrý večer &ndash; good evening!</h2>
+
+<p>Last week, Andy (<a href="https:/twitter.com/pxlpnk">@pxlpnk</a>) and me decided to visit the Rubyslava event &ndash; because <a href="/blog/2013/02/14/vienna-dot-rb-brings-rubyists-together/">they already visited and helped to start off the first vienna.rb meetup</a> &ndash; and we wanted to return the favour. Yes, and we are actually both extremely curious and wanted to learn some things first hand.</p>
+
+<p>After a short train and bus ride we reached our destination, the <a href="https://www.facebook.com/pages/Kaf%C3%A9-Nervosa/194088387296884">Kafé Nervosa</a>. As a location, I found it very much to my liking: pizza, beer, a beamer and a PA system. When we arrived, it was already well filled with people, and they still kept on coming in. Later we would learn that this was a record breaking evening in that regard.</p>
+
+<p>For starting off, we were treated with an interesting overview of techniques and tools that help you <strong>saving time</strong>, presented by <a href="https://twitter.com/milan_novota">Milan Novota</a> of <a href="http://subteca.com/">Subteca</a>. Interestingly enough, the slides were in english, but the talk wasn&rsquo;t &ndash; I could follow it, though, even if we weren&rsquo;t really reacting appropriately to certain questions for the audience. And Milan, I know you weren&rsquo;t aware that the two of us weren&rsquo;t able to follow every word, the apology really wasn&rsquo;t necessary. I enjoyed the fact that a lot of the stuff presented (like the pomodoro technique, tmux, zsh, tdd, git, &hellip;) is already part of our work repertoire. The short chat afterwards was also really interesting and enlightening, and I would love to support any effort of teaching more people stuff that I know.</p>
+
+<p>Oh, and thanks for the free beer :)</p>
+
+<p>The next talk was really interesting for me personally &ndash; Ján Lunter of Innovatrics presented interesting ways of using Ruby/RoR in a non-standard way &ndash; in embedded systems, gathering and comparing biometric data. I got that having such a huge framework running on a PC or Intel Server is quite different to having it running on a small ARM based appliance. Kudos for sailing those rough waters and succeeding!</p>
+
+<p>It didn&rsquo;t stop there at all, though. The next topic was presented by <a href="https://twitter.com/petrbela">Petr Bela</a>: a short introduction to <a href="http://angularjs.org/">AngularJS</a> and how it is being used to power <a href="http://www.kdyjedes.cz/">Kdyjedeš</a>. Petr, sorry for springing a slew on questions of you immediately &ndash; and then again in the horrible mix of dialects I use to sprinkle my English violently with. And thanks for your patience with me &ndash; I got a good idea what I will use AngularJS for soon. I will definitely try it, and the other things you presented.</p>
+
+<p>After those presentations, we had a lot of fun talking to people about various aspects of ruby, RoR and related topics. And had a second beer. Maybe a third &hellip;</p>
+
+<p>It was a pity that we had to leave then to catch the train back to Vienna in time. And while I can not promise that I will visit every time, I definitely will come over every once in a while, to meet, greet and learn.</p>
+
+<p>Thanks for having us!</p>
+
+<p>Andy &amp; tony</p>
+]]></content>
+  </entry>
+  
+</feed>
