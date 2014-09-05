@@ -3,7 +3,6 @@ layout: post
 title: "Vienna.rb #16 Recap"
 date: 2014-09-05 10:14:52 +0200
 comments: true
-published: false
 author: "Anton Bangratz (@tony_xpro)"
 categories:
   - recap
@@ -14,6 +13,7 @@ categories:
 Yesterday, on Thursday, September 9th, Rubyists met in Vienna again to listen to interesting talks and share their
 thoughts in discussions both formal and informal.
 
+{% img /images/vienna_rb_16_impressions.png 'Impressions from vienna.rb#16' 'Pictures from vienna.rb#16' %}
 <!-- more -->
 After our summer break, we wanted to start with a lot of new energy and on time - and we did! At 6.30pm sharp, the first
 talk started, namely
@@ -31,7 +31,7 @@ started. It gave us a short and pointed introduction into the troubles you will 
 interfaces. Problems create solutions, and so with a combination of git version control, Github workflows, a DNS service
 providing a scriptable API, JSON data files and ruby scripts as glue code come together in a neat package that avoids
 conflicts, enforces reviews and minimizes risk. Well done! (And we got promised that the code will be released on Github
-soon, too!)
+soon, too! And he's _looking for a name for the project_, so feel free to suggest something!)
 
 Next up, we heard about
 
@@ -46,10 +46,15 @@ about a more technical representation? Because of the fact that the data is in t
 US tax payer, it was possible to create a scraper called [factbook](https://github.com/worlddb/factbook.ruby) that
 downloads that data into ruby hashes, making it easy to store them or use the data directly. Neat, huh?
 
-Next up Gerald presented another real gem containing useful public domain country data:
+Gerald then presented another real gem containing useful public domain country data:
 [worldlite](https://github.com/worlddb/world.lite.ruby). A great accumulation of useful factoids like membership in G20
 or FIFA or the United Nations, the wikidata id, factbook urls etc. Everything is organised in constants which contain
 simple to use objects. Great!
+
+Before the break, a raffle was started with prices being t-shirts and tote bags from the Rails Girls Linz event earlier
+this year! Here are the proud winners:
+
+{% img /images/vienna_rb_16_raffle_winners.jpg 'Winners of the raffle' 'Raffle winners at vienna.rb#16' %}
 
 After a short break, we started with the new (for me at least) format, the formal (kinda) discussion. Yours truly was
 doubly excited because I got the chance to present one of the questions that I didn't find an easy answer to, namely
@@ -90,7 +95,7 @@ that were made are:
     project later
   - The above holds true for code that you haven't touched for a few weeks for yourself.
   - As programming is easy and programming well is hard, testing well is sometimes even harder.
-  - Therefor, it has to be practised a lot.
+  - Therefore, it has to be practised a lot.
   - The mentee also needs to know that no number of tests can cover all bases. If there is a test missing, you write it
     when necessary.
   - Practising gives you the confidence to know what to test when and how - and when to stop
@@ -99,4 +104,4 @@ After the discussion, most people stayed for a chat and a beer, and the discussi
 Promise: I'll do that series of talks about SOLID together with Aaron, and we'll be well prepared for any and all
 questions!
 
-Thanks again to all participants, and I am definitely looking forward towards the next meetings!
+Thanks again to all participants, and I am definitely looking forward to the next meetings!
