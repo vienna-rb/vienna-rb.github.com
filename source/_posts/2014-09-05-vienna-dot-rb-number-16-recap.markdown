@@ -3,6 +3,7 @@ layout: post
 title: "Vienna.rb #16 Recap"
 date: 2014-09-05 10:14:52 +0200
 comments: true
+published: false
 author: "Anton Bangratz (@tony_xpro)"
 categories:
   - recap
