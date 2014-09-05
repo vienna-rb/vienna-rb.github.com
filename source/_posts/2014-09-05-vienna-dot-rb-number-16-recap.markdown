@@ -4,7 +4,7 @@ title: "Vienna.rb #16 Recap"
 date: 2014-09-05 10:14:52 +0200
 comments: true
 published: false
-author: "Anton Bangratz (@tony_xpro)"
+author: "Anton Bangratz (@tony_xpro), Floor Drees (@floordrees)"
 categories:
   - recap
   - meetup
