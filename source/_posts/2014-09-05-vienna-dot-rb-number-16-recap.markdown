@@ -11,7 +11,7 @@ categories:
 ---
 ### After a summer break, we take up momentum again
 
-Yesterday, on Thursday, September 9th, Rubyists met in Vienna again to listen to interesting talks and share their
+On Thursday, September 9th, Rubyists met in Vienna again to listen to interesting talks and share their
 thoughts in discussions both formal and informal.
 
 {% img /images/vienna_rb_16_impressions.png 'Impressions from vienna.rb#16' 'Pictures from vienna.rb#16' %}
