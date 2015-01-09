@@ -30,7 +30,8 @@ class Vienna
   def who?
     organizers = {
       "Laura Gaetano" => "@alicetragedy",
-      "Alex Tacho" => "@alexandertacho",
+      "Floor Drees" => "@floordrees",
+      "Aaron Cruz" => "@mraaroncruz",
       "Ben Fritsch" => "@beanieboi"}
   end
 
