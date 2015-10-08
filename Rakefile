@@ -222,10 +222,11 @@ task :deploy do
   Rake::Task[:copydot].invoke(public_dir, deploy_dir)
   cp_r "stylesheets", deploy_dir
   cd "#{deploy_dir}" do
+    message = "Site updated at #{Time.now.utc}"
     Bundler.with_clean_env {
       system "git init"
       system "git remote add origin git@github.com:vienna-rb/vienna-rb.github.com.git"
-      system "git add --all && git commit --allow-empty -m 'Deployed Manually `date`'"
+      system "git add --all && git commit --allow-empty -m '#{message}'"
       system "git push --force origin master"
    }
   end
