@@ -216,16 +216,32 @@ end
 
 desc "Default deploy task"
 task :deploy do
-  # Check if preview posts exist, which should not be published
-  if File.exists?(".preview-mode")
-    puts "## Found posts in preview mode, regenerating files ..."
-    File.delete(".preview-mode")
-    Rake::Task[:generate].execute
+  begin; rm_r deploy_dir; rescue; end
+  Bundler.with_clean_env { system "bundle exec jekyll build" }
+  cp_r "public/.", deploy_dir
+  Rake::Task[:copydot].invoke(public_dir, deploy_dir)
+  cp_r "stylesheets", deploy_dir
+  cd "#{deploy_dir}" do
+    Bundler.with_clean_env {
+      system "git init"
+      system "git remote add origin git@github.com:vienna-rb/vienna-rb.github.com.git"
+      system "git add --all && git commit --allow-empty -m 'Deployed Manually `date`'"
+      system "git push --force origin master"
+   }
   end
-
-  Rake::Task[:copydot].invoke(source_dir, public_dir)
-  Rake::Task["#{deploy_default}"].execute
+  rm_r deploy_dir
 end
+# task :deploy do
+#   # Check if preview posts exist, which should not be published
+#   if File.exists?(".preview-mode")
+#     puts "## Found posts in preview mode, regenerating files ..."
+#     File.delete(".preview-mode")
+#     Rake::Task[:generate].execute
+#   end
+
+#   Rake::Task[:copydot].invoke(source_dir, public_dir)
+#   Rake::Task["#{deploy_default}"].execute
+# end
 
 desc "Generate website and deploy"
 task :gen_deploy => [:integrate, :generate, :deploy] do
