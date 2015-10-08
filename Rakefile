@@ -220,7 +220,6 @@ task :deploy do
   Bundler.with_clean_env { system "bundle exec jekyll build" }
   cp_r "public/.", deploy_dir
   Rake::Task[:copydot].invoke(public_dir, deploy_dir)
-  cp_r "stylesheets", deploy_dir
   cd "#{deploy_dir}" do
     message = "Site updated at #{Time.now.utc}"
     Bundler.with_clean_env {
