@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Vienna-rb-29-summary"
-date: 2016-01-26 13:43:15 +0100
+title: "Viennarb #29: Summary"
+date: 2016-01-28 13:43:15 +0100
+published: true
 comments: true
 categories:
+  - meetups
 ---
 # Vienna.rb #29 — Summary
 
-Happy new year! For our twenty-ninth Vienna.rb we had a relatively laid back edition. Great time to catch up after the winter break!
+Happy new year! For our twenty-ninth vienna.rb we had a relatively laid back edition. Great time to catch up after the winter break!
 
 For starters, some announcements:
 
