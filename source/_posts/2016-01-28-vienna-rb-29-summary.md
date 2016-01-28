@@ -5,7 +5,8 @@ date: 2016-01-28 13:43:15 +0100
 published: true
 comments: true
 categories:
-  - meetups
+  - meetup
+  - recap
 ---
 
 Happy new year! For our twenty-ninth vienna.rb we had a relatively laid back edition. Great time to catch up after the winter break!
