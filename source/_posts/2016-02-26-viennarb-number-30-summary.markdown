@@ -16,7 +16,7 @@ If you missed out on the deliciousness, fret not! Here's the brain food:
 
 ## [Tawan](https://twitter.com/tawan) — Domain Specific Languages — What are they good for, and how does Ruby help
 
-Tawan was very kind to introduce us to the world of Domain Specific Languages, or DSLs, for short. He started by drawing up the distinction between technologies that fall within the definition of a DSL, at which don't:
+Tawan was very kind to introduce us to the world of Domain Specific Languages, or DSLs, for short. He started by drawing up the distinction between technologies that fall within the definition of a DSL, and which don't:
 
 ### DSLs
 
