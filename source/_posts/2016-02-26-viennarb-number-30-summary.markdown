@@ -4,27 +4,27 @@ title: "Viennarb #30 - Summary"
 date: 2016-02-26 20:00:43 +0100
 comments: true
 categories:
-	- meetup
-	- recap
+  - meetup
+  - recap
 ---
 
 Hello! We had a lot of fun at our thirtieth edition of Vienna.rb. Quite a milestone! As commemoration, our lovely meetup-ers were treated to delicious cupcakes and banana bread.
 
 If you missed out on the deliciousness, fret not! Here's the brain food:
 
-# Our Talks
+## Our Talks
 
-## [Tawan](https://twitter.com/tawan) — Domain Specific Languages — What are they good for, and how does Ruby help
+### [Tawan](https://twitter.com/tawan) — Domain Specific Languages — What are they good for, and how does Ruby help
 
 Tawan was very kind to introduce us to the world of Domain Specific Languages, or DSLs, for short. He started by drawing up the distinction between technologies that fall within the definition of a DSL, and which don't:
 
-### DSLs
+#### DSLs
 
 - SQL
 - HTML
 - Rspec
 
-### Not a DSL
+#### Not a DSL
 
 - Ruby
 - Java
@@ -34,7 +34,7 @@ When trying to categorize these, it's important to think about what you want to 
 
 The fun image of an onion chopper was brought up: It's easy to use, it's safe, easy to explain and to learn. This is what we want to achieve when designing a DSL! Thank you Tawan!
 
-# [Emi](https://twitter.com/michaelem) — Super fast image resizing with ruby
+### [Emi](https://twitter.com/michaelem) — Super fast image resizing with ruby
 
 Emi gave us some insight into what goes on during work!
 
@@ -58,7 +58,7 @@ Of course, there are downsides:
 
 Thanks for the talk, Emi!
 
-# [Max](https://twitter.com/klappradla) — Mongo on demand — NoSQL in PostgreSQL 
+### [Max](https://twitter.com/klappradla) — Mongo on demand — NoSQL in PostgreSQL 
 
 In Max's talk, we dive into the world of NoSQL, which is a term for databases that don't use tables.
 
@@ -70,7 +70,7 @@ After showing us a demo, Max made it apparent that using JSONB is much faster, a
 
 One thing that needs to be noted, though, is that the JSONB type is available starting with postgres 9.4. Thanks for sharing, Max!
 
-# After our talks
+## After our talks
 
 Brave volunteers came up and gave us some tips and insights into their work. Below is a list of these (should be most, if not all):
 
