@@ -74,16 +74,16 @@ One thing that needs to be noted, though, is that the JSONB type is available st
 
 Brave volunteers came up and gave us some tips and insights into their work. Below is a list of these (should be most, if not all):
 
-    - (app)[Where2Help](http://where2help.at/): "Organizational app for NGOs and Volunteers"
-    - (book)[Pickaxe book](https://pragprog.com/book/ruby/programming-ruby)
-    - (book)[JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
-    - (book)[JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
-    - (podcast)[Biertaucher Podcast](http://spielend-programmieren.at/de:podcast:biertaucher:start)
-    - (site)[Rials Doctrine](http://rubyonrails.org/doctrine/)
-    - (meetup)[Vienna.html — Static website meetup](http://viennahtml.github.io/)    
-    - (newsletter)[Static times](http://statictimes.github.io/)
-    - (static website generator)[Jekyll](http://jekyllrb.com/)
-    - (static website generator)[Hugo](https://gohugo.io/)
+  - [Where2Help](http://where2help.at/): "Organizational app for NGOs and Volunteers"
+  - [Pickaxe book](https://pragprog.com/book/ruby/programming-ruby)
+  - [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
+  - [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
+  - [Biertaucher Podcast](http://spielend-programmieren.at/de:podcast:biertaucher:start)
+  - [Rials Doctrine](http://rubyonrails.org/doctrine/)
+  - [Vienna.html — Static website meetup](http://viennahtml.github.io/)    
+  - [Static times](http://statictimes.github.io/)
+  - [Jekyll](http://jekyllrb.com/)
+  - [Hugo](https://gohugo.io/)
 
 We wrap up with some friendly chit chat.
 
