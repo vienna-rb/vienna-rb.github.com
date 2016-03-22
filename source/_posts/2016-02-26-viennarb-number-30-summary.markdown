@@ -79,7 +79,7 @@ Brave volunteers came up and gave us some tips and insights into their work. Bel
   - [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
   - [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
   - [Biertaucher Podcast](http://spielend-programmieren.at/de:podcast:biertaucher:start)
-  - [Rials Doctrine](http://rubyonrails.org/doctrine/)
+  - [Rails Doctrine](http://rubyonrails.org/doctrine/)
   - [Vienna.html — Static website meetup](http://viennahtml.github.io/)    
   - [Static times](http://statictimes.github.io/)
   - [Jekyll](http://jekyllrb.com/)
