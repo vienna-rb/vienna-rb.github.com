@@ -9,7 +9,7 @@ Hi! Couldn't make it to our fun-filled 31st meetup? Put your regrets to rest! He
 
 # Our Talks
 
-## [Gerald](https://twitter.com/viennahtml) — Stay Static — Jekyll vs. Middleman — Build Static (Web) Sites w/ Ruby
+## [Gerald](https://twitter.com/viennahtml): Stay Static — Jekyll vs. Middleman — Build Static (Web) Sites w/ Ruby
 
 We started with Gerald comparing two of the most popular Ruby-based static website generators: [Middleman](https://middlemanapp.com/) and [Jekyll](https://jekyllrb.com/).
 
