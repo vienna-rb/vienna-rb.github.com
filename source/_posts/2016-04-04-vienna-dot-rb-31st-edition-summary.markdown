@@ -4,12 +4,14 @@ title: "Vienna.rb 31st Edition Summary"
 date: 2016-04-04 23:03:46 +0200
 comments: true
 categories: 
+  - meetup
+  - recap
 ---
 Hi! Couldn't make it to our fun-filled 31st meetup? Put your regrets to rest! Here's what you missed:
 
-# Our Talks
+## Our Talks
 
-## [Gerald](https://twitter.com/viennahtml): Stay Static — Jekyll vs. Middleman — Build Static (Web) Sites w/ Ruby
+### [Gerald](https://twitter.com/viennahtml): Stay Static — Jekyll vs. Middleman — Build Static (Web) Sites w/ Ruby
 
 We started with Gerald comparing two of the most popular Ruby-based static website generators: [Middleman](https://middlemanapp.com/) and [Jekyll](https://jekyllrb.com/).
 
@@ -19,7 +21,7 @@ He then went over why we should use Liquid, vouching chiefly for its security ov
 
 Finally, he invites us to check out [Static Times](https://twitter.com/statictimes), keeping followers up to date on all things static site generators. Thanks, Gerald!
 
-## [Thomas](https://twitter.com/_gettalong): Using Markdown (HTML “Shortcodes” in Plain Vanilla Text) with the kramdown Library and Tools 
+### [Thomas](https://twitter.com/_gettalong): Using Markdown (HTML “Shortcodes” in Plain Vanilla Text) with the kramdown Library and Tools 
 
 Next up, Thomas showed us all about Markdown, specifically with his gem for parsing Markdown, [kramdown](http://kramdown.gettalong.org/).
 
@@ -39,7 +41,7 @@ Below are some of the extended features that kramdown offers:
 
 Interesting stuff, thank you Thomas!
 
-## [Stefan](https://twitter.com/informatom): Risk mitigation in Ruby projects
+### [Stefan](https://twitter.com/informatom): Risk mitigation in Ruby projects
 
 Finally, Stefan showed us what became the discussion round: How can we manage risk in a project, specifically a ruby one?
 
