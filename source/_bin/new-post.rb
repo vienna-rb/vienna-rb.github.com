@@ -1,4 +1,7 @@
 #!/usr/bin/env ruby
+# This script generates a new, empty picks post. It automatically figures out the next date,
+# and fills out all the parts that it can fill out (ie., everything except the picks themselves)
+# Simply run the script, and it'll tell you what file was generated.
 
 require 'date'
 require 'erb'
