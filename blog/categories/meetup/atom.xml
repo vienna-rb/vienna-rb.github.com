@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meetup | User group for Viennese rubyists]]></title>
+  <link href="http://vienna-rb.at/blog/categories/meetup/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2017-05-25T12:20:47+02:00</updated>
+  <id>http://vienna-rb.at/</id>
+  <author>
+    <name><![CDATA[vienna.rb team]]></name>
+    <email><![CDATA[viennarb@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Vienna.rb 31st Edition Summary]]></title>
+    <link href="http://vienna-rb.at/blog/2016/04/04/vienna-dot-rb-31st-edition-summary/"/>
+    <updated>2016-04-04T23:03:46+02:00</updated>
+    <id>http://vienna-rb.at/blog/2016/04/04/vienna-dot-rb-31st-edition-summary</id>
+    <content type="html"><![CDATA[<p>Hi! Couldn&rsquo;t make it to our fun-filled 31st meetup? Put your regrets to rest! Here&rsquo;s what you missed:</p>
+
+<h2>Our Talks</h2>
+
+<h3><a href="https://twitter.com/viennahtml">Gerald</a>: Stay Static — Jekyll vs. Middleman — Build Static (Web) Sites w/ Ruby</h3>
+
+<p>We started with Gerald comparing two of the most popular Ruby-based static website generators: <a href="https://middlemanapp.com/">Middleman</a> and <a href="https://jekyllrb.com/">Jekyll</a>.</p>
+
+<p>He went over their biggest differences. Middleman uses <a href="http://ruby-doc.org/stdlib-2.3.0/libdoc/erb/rdoc/ERB.html">ERB</a>, whereas Jekyll uses <a href="https://jekyllrb.com/docs/templates/">Liquid</a>. Middleman uses the asset pipeline, whereas Jekyll doesn&rsquo;t. Middleman sites need a Gemfile, whereas Jekyll-made ones don&rsquo;t necessarily.</p>
+
+<p>He then went over why we should use Liquid, vouching chiefly for its security over ERB.</p>
+
+<p>Finally, he invites us to check out <a href="https://twitter.com/statictimes">Static Times</a>, keeping followers up to date on all things static site generators. Thanks, Gerald!</p>
+
+<h3><a href="https://twitter.com/_gettalong">Thomas</a>: Using Markdown (HTML “Shortcodes” in Plain Vanilla Text) with the kramdown Library and Tools</h3>
+
+<p>Next up, Thomas showed us all about Markdown, specifically with his gem for parsing Markdown, <a href="http://kramdown.gettalong.org/">kramdown</a>.</p>
+
+<p>He started by answering the question &ldquo;Why use Markdown?&rdquo; quite quickly: HTML is verbose.</p>
+
+<p>After giving us the lowdown on how to use Markdown, Thomas told us the problem with it. There are over 70 implementations of Markdown and there&rsquo;s little to no standardization thereof. And where does kramdown fit in all this? Well, it&rsquo;s a parser written purely in Ruby based on Maroku and Markdown extra.</p>
+
+<p>Below are some of the extended features that kramdown offers:
+- AST parsing
+- Header IDs
+- Fenced code blocks
+- Definition lists
+- Simple tables with headers and alignments
+- Footnotes
+- End Of Block
+- Inline attribute lists</p>
+
+<p>Interesting stuff, thank you Thomas!</p>
+
+<h3><a href="https://twitter.com/informatom">Stefan</a>: Risk mitigation in Ruby projects</h3>
+
+<p>Finally, Stefan showed us what became the discussion round: How can we manage risk in a project, specifically a ruby one?</p>
+
+<p>He began by opening a huge Gemfile and going over it. Having so many dependencies and code can introduce a lot of risk.</p>
+
+<p>He then told us about the <a href="https://en.wikipedia.org/wiki/Bus_factor">Truck/Bus Factor</a>, that is the measure of how many people would need to drop from a project before it became unmaintainable. He then shared a breakdown of the <a href="http://mtov.github.io/Truck-Factor/">Truck Factor</a> numbers across several projects, which was staggering!</p>
+
+<p>We then went into a friendly discussion about risk formalization, stakeholders, and other factors. Thank you for the talk, Stefan!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Viennarb #30 - Summary]]></title>
+    <link href="http://vienna-rb.at/blog/2016/02/26/viennarb-number-30-summary/"/>
+    <updated>2016-02-26T20:00:43+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/02/26/viennarb-number-30-summary</id>
+    <content type="html"><![CDATA[<p>Hello! We had a lot of fun at our thirtieth edition of Vienna.rb. Quite a milestone! As commemoration, our lovely meetup-ers were treated to delicious cupcakes and banana bread.</p>
+
+<p>If you missed out on the deliciousness, fret not! Here&rsquo;s the brain food:</p>
+
+<h2>Our Talks</h2>
+
+<h3><a href="https://twitter.com/tawan">Tawan</a> — Domain Specific Languages — What are they good for, and how does Ruby help</h3>
+
+<p>Tawan was very kind to introduce us to the world of Domain Specific Languages, or DSLs, for short. He started by drawing up the distinction between technologies that fall within the definition of a DSL, and which don&rsquo;t:</p>
+
+<h4>DSLs</h4>
+
+<ul>
+<li>SQL</li>
+<li>HTML</li>
+<li>Rspec</li>
+</ul>
+
+
+<h4>Not a DSL</h4>
+
+<ul>
+<li>Ruby</li>
+<li>Java</li>
+<li>PHP</li>
+</ul>
+
+
+<p>When trying to categorize these, it&rsquo;s important to think about what you want to achieve against how you want to achieve.</p>
+
+<p>The fun image of an onion chopper was brought up: It&rsquo;s easy to use, it&rsquo;s safe, easy to explain and to learn. This is what we want to achieve when designing a DSL! Thank you Tawan!</p>
+
+<h3><a href="https://twitter.com/michaelem">Emi</a> — Super fast image resizing with ruby</h3>
+
+<p>Emi gave us some insight into what goes on during work!</p>
+
+<p>Creating smaller or bigger versions of images in a ruby application needs to be done quickly! Usual toolks used for this are things like <a href="http://www.imagemagick.org/script/index.php"><code>imagemagick</code></a> or <a href="https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/CoreImaging/ci_intro/ci_intro.html"><code>CoreImage</code></a>.</p>
+
+<p>On this fateful day, Emi introduced us to <a href="https://github.com/jcupitt/libvips"><code>libvips</code></a>. On the surface, its advantages include:</p>
+
+<ul>
+<li>Being quicker than <code>imagemagick</code></li>
+<li>Using less memory than the above</li>
+<li>Being open source</li>
+</ul>
+
+
+<p>We have a nice ruby wrapper, too! It&rsquo;s called <a href="https://github.com/jcupitt/ruby-vips"><code>ruby-vips</code></a>.</p>
+
+<p>Other nice things include calling up header data without reloading pixels, shrinking an image upon loading, specifying target resolutions quickly, and more!</p>
+
+<p>Of course, there are downsides:</p>
+
+<ul>
+<li>It&rsquo;s not as simple or as high level as <code>rmagick</code></li>
+<li>It has the occasional memory leak</li>
+<li>The contribution is not so active</li>
+</ul>
+
+
+<p>Thanks for the talk, Emi!</p>
+
+<h3><a href="https://twitter.com/klappradla">Max</a> — Mongo on demand — NoSQL in PostgreSQL</h3>
+
+<p>In Max&rsquo;s talk, we dive into the world of NoSQL, which is a term for databases that don&rsquo;t use tables.</p>
+
+<p>NoSQL databases have their uses in the world of data storage. For example, <a href="https://trello.com/">Trello</a> cards have several parts into them that don&rsquo;t fit a specific data type.</p>
+
+<p>Max showed us how to use a <a href="https://www.mongodb.org/">Mongo</a>-like data storage in <a href="http://www.postgresql.org/">postgres</a>. This is done using <a href="http://www.postgresql.org/docs/9.4/static/datatype-json.html">JSON</a>. Postgres offers either JSON or JSONB, the latter of which is a decomposed binary format, but allows indexing, which means faster queries.</p>
+
+<p>After showing us a demo, Max made it apparent that using JSONB is much faster, and using the <code>store_accessor</code> declaration in <code>rails</code> lets us declare fields that will be accessed often.</p>
+
+<p>One thing that needs to be noted, though, is that the JSONB type is available starting with postgres 9.4. Thanks for sharing, Max!</p>
+
+<h2>After our talks</h2>
+
+<p>Brave volunteers came up and gave us some tips and insights into their work. Below is a list of these (should be most, if not all):</p>
+
+<ul>
+<li><a href="http://where2help.at/">Where2Help</a>: &ldquo;Organizational app for NGOs and Volunteers&rdquo;</li>
+<li><a href="https://pragprog.com/book/ruby/programming-ruby">Pickaxe book</a></li>
+<li><a href="http://shop.oreilly.com/product/9780596805531.do">JavaScript: The Definitive Guide</a></li>
+<li><a href="http://shichuan.github.io/javascript-patterns/">JavaScript Patterns</a></li>
+<li><a href="http://spielend-programmieren.at/de:podcast:biertaucher:start">Biertaucher Podcast</a></li>
+<li><a href="http://rubyonrails.org/doctrine/">Rails Doctrine</a></li>
+<li><a href="http://viennahtml.github.io/">Vienna.html — Static website meetup</a></li>
+<li><a href="http://statictimes.github.io/">Static times</a></li>
+<li><a href="http://jekyllrb.com/">Jekyll</a></li>
+<li><a href="https://gohugo.io/">Hugo</a></li>
+</ul>
+
+
+<p>We wrap up with some friendly chit chat.</p>
+
+<p>Wanna stay in touch? Follow us <a href="https://twitter.com/viennarb">@viennarb</a>.</p>
+
+<p>&lsquo;Til next time!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Viennarb #29 — Summary]]></title>
+    <link href="http://vienna-rb.at/blog/2016/01/28/vienna-rb-29-summary/"/>
+    <updated>2016-01-28T13:43:15+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/01/28/vienna-rb-29-summary</id>
+    <content type="html"><![CDATA[<p>Happy new year! For our twenty-ninth vienna.rb we had a relatively laid back edition. Great time to catch up after the winter break!</p>
+
+<p>For starters, some announcements:</p>
+
+<ul>
+<li>The Rails Girls Summer of Code Call for Projects is open! Submit your open source project and help support newcomers get into open source software development. Find out more <a href="http://railsgirlssummerofcode.org/guide/projects/">http://railsgirlssummerofcode.org/guide/projects/</a></li>
+<li>We&rsquo;d love to get feedback from you! Drop us a line at <a href="&#109;&#97;&#x69;&#108;&#116;&#x6f;&#58;&#x68;&#x65;&#x6c;&#x6c;&#111;&#64;&#118;&#105;&#101;&#110;&#110;&#x61;&#x2d;&#x72;&#98;&#46;&#x61;&#x74;">&#x68;&#x65;&#108;&#108;&#x6f;&#x40;&#118;&#x69;&#101;&#110;&#110;&#x61;&#45;&#x72;&#x62;&#x2e;&#97;&#x74;</a></li>
+<li>Our Slack channel is live! Sign up <a href="http://vienna-rb-slack.herokuapp.com/">here</a>.</li>
+</ul>
+
+
+<p>We kicked off with a proposal from <a href="https://twitter.com/klappradla">Max</a> on dedicating some time for members of the meetup to come up and give us a quick look into their daily work toolchain. A &lsquo;How We Work&rsquo;, if you will.</p>
+
+<h2>Our Talks</h2>
+
+<p>For our main talk, <a href="https://twitter.com/mraaroncruz">Aaron</a> showed us &lsquo;Crystal For Rubyists&rsquo;.  The main issue with Ruby being discussed nowadays is that of concurrency. While looking at alternatives, such as Go, Elixir, and the IO language, Aaron came upon the <a href="http://crystal-lang.org/">Crystal</a> language.</p>
+
+<p>Some plus points about Crystal:</p>
+
+<ul>
+<li>It&rsquo;s got a Ruby-like syntax. So much so, that when showing us some code, Aaron had initially led us to believe that we were looking at Ruby, when we were in fact looking at Crystal. Devious!</li>
+<li>It&rsquo;s statically typed.</li>
+<li>It has a Go-like concurrency.</li>
+<li>You can generate new projects with the Crystal command line interface.</li>
+<li>You can compile and run your code, but also do so separately, as you would with <code>C</code>.</li>
+</ul>
+
+
+<p>Be sure to check out the <a href="awesome-crystal.com">Awesome page</a> for Crystal!</p>
+
+<h2>Discussion Round</h2>
+
+<p>Our discussion round was broken into smaller groups, but here&rsquo;s some tips that came up:</p>
+
+<ul>
+<li><a href="https://github.com/sorin-ionescu/prezto">Prezto: Config framework for zsh</a></li>
+<li><a href="http://robey.lag.net/2010/06/21/mensch-font.html">Mensch: Menlo-like font</a></li>
+</ul>
+
+
+<p>That, along with some friendly catching up and meeting new folks, wrapped up our meetup!</p>
+
+<p>Looking forward to the next one!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Vienna.rb #18 Recap]]></title>
+    <link href="http://vienna-rb.at/blog/2014/11/06/vienna-rb-recap/"/>
+    <updated>2014-11-06T09:14:52+01:00</updated>
+    <id>http://vienna-rb.at/blog/2014/11/06/vienna-rb-recap</id>
+    <content type="html"><![CDATA[<p>Thursday November 6 another one of our meetups took place at <a href="http://sektor5.at/">sektor5</a>. The 18th to be precise - and as one of our attendees rightly noticed: we&rsquo;re grown-ups now! Drinks were on <a href="http://dailycious.co/">Dailycious</a> and Susanne Mairhofer (<a href="http://www.twitter.com/alittlesue">@alittlesue</a>) told us they are looking for developers. Just as <a href="http://railsgirls.com/bratislava">Rails Girls Bratislava</a> is looking for coaches for their December 5-6 workshop. And <a href="http://conc.at">.concat()</a> - a Salzburg web development conference - is looking for speakers. AND we are looking for guest picks. We try to publish our &lsquo;very best in the Ruby world&rsquo; every Wednesday - in case you&rsquo;d like to contribute, <a href="https://github.com/vienna-rb">fork our repo</a> and add your picks!</p>
+
+<h3>Stop the user from changing your Rails Models!</h3>
+
+<p>Phillipp Röll&rsquo;s (<a href="http://www.twitter.com/phillipp">@phillipp</a>) thumb rule is: (almost) never let the user change a ActiveRecord model. And: always use a form object. Why? Because otherwise you will &lsquo;mess up everything&rsquo;. <em>&ldquo;The real world is complex, most apps have complex business logic that is not necessarily tied to data. Why would ActiveRecord be the best place for it? Plus: if you put your business logic into ActiveRecord, you will build at least one god object.&rdquo;</em></p>
+
+<p>Parameter security is one of the most important security features of your app, Phillipp continues. In Rails 3.x you&rsquo;d utilize <code>attr_accessible</code> (in Rails 4 this then got wrapped up in the protected_attributes gem). In Rails 4 parameter security is put into controller: <code>strong_parameters</code>.</p>
+
+<p>Phillipp&rsquo;s wishlist for forms includes:
+- complete independency of models
+- clean controller code
+- validations &ldquo;as usual&rdquo; == as in active record
+- easily testable and secure mass assignments
+- explicit business logic</p>
+
+<p>What can you use today to get all the good stuff? Well, Phillipp uses his own wrapper but he recommends taking a look at <a href="https://github.com/orgsync/active_interaction">active_interaction</a> and <a href="https://github.com/cypriss/mutations">mutations</a>. In order to look ar Phillipp&rsquo;s code, <a href="https://github.com/phillipp/vienna-rb-forms">clickety-click here</a>.</p>
+
+<h3>Building HTTP JSON APIs w/ Ruby</h3>
+
+<p>Gerald Bauer (<a href="http://www.twitter.com/geraldbauer">@geraldbauer</a>) is trying to collect all Austrian beers. Help him over at <a href="http://at365.herokuapp.com/">at365.herokuapp.com</a>. Then, this Sinatra thing. Gerald praised the simple (yet powerful and flexible) micro web framework and its 2000 lines of code. &ldquo;Many micro frameworks are inspired by Sinatra. Examples are Express.js, Scotty for Haskell, Dancer for Perl, Fitzgerald for PHP, Ratpack for Groovy, Zappa for CoffeeScript, Martini for Go and many more.</p>
+
+<p>Why would one use Sinatra building API&rsquo;s? Because of its single file scripts, because it&rsquo;s easy to package up into a gem, and because Sinatra lets you build command line tools and mount app inside app (including Rails).</p>
+
+<p>Arriving at the JSON (JavaScript Object Notation) part of his talk, Gerald mentioned that JSON is built into Ruby 2.x as a standard library. Unlocking &lsquo;many more options&rsquo; Gerald recommended <a href="https://github.com/rails/jbuilder">jbuilder</a> and <a href="https://github.com/rubys/wunderbar/">Wunderbar</a>. And then he touched <a href="http://rack.github.io">Rack</a>, which lets you mix ‘n’ match servers and apps. And&hellip; stack apps inside apps inside apps inside apps inside apps. A Sinatra app is actually a Rack app. More micro framework alternatives are <a href="https://github.com/chneukirchen/rum">Rum</a>, a grand unified mapper for Rack apps, <a href="http://cuba.is/">Cuba</a>, a tiny but powerful mapper for Rack apps and <a href="http://roda.jeremyevans.net/">Roda</a>, a routing tree web framework.</p>
+
+<p>Less lines of code means faster code and more requests per second. Gerald is a big fan of &lsquo;only using what you need&rsquo;. In that aspect Cuba has 152 lines, Sinatra 1476, Rails 13181, and <a href="https://github.com/rkh/almost-sinatra">(almost) Sinatra</a> 7. He also mentioned that building HTTP JSON APIs with Go is pretty powerful: <em>&ldquo;It is a kind of a &lsquo;better&rsquo; more &lsquo;modern&rsquo; C.&rdquo;</em> Code gets compiled (to machine-code ahead-of-time) and linked to let you build (small-ish) zero-dependency all-in-one binary (file) programs. No virtual machine or byte code runtime or just-in-time compiler machinery needed. Plus: it includes garbage collector.</p>
+
+<p>Or of course just try a NoSQL database and get JSON HTTP APIs (almost) for “free”.</p>
+
+<h3>W2UI to the rescue</h3>
+
+<p><strong>Alternative title:</strong> I built this awesome app, but my customer cannot use it&hellip;</p>
+
+<p>Stefan Haslinger (<a href="http://www.twitter.com/informatom">@informatom</a>) did just that. Running his ecommerce app by his customer, he quickly realised he needed an &lsquo;actual useable&rsquo; UI. The Hobo bootstrapping framework for Ruby on Rails only introduced loads of user interface screens. <em>&ldquo;W2UI gives us, within only 60K of JavaScript, Layouts (and nesting of layouts), Grids, Forms, Toolbars, Sidebars, Popups and Overlays.&rdquo;</em> Additionally, Stefan used Treewidget (provided by Fancytree) and made use of JQueryUI&rsquo;s draggable and droppable functionality to create a tree for the ProductCategories on the left and a detail grid for the Products on the right. Using a subsite Productmanager he tried to &lsquo;separate thing out&rsquo;. Follow along with his <a href="http://informatom.com/presentations/hobo_w2ui/hobo_w2ui.html#28">tutorial</a>.</p>
+
+<p>Hobo has it&rsquo;s own templating engine DRYML. DRYML is an XHTML-extension, similar to the now famous web components, but to be used serverside. It gets compiled to .erb like in standard Rails. Which in turn is then compiled to HTML, again, like in Rails.</p>
+
+<p>Tags are either called like this:</p>
+
+<p><code>&lt;tag attr1 attr2/&gt;</code></p>
+
+<p>or if they have params:</p>
+
+<pre><code>&lt;tag attr1 attr2&gt;
+&lt;param1:&gt;param content&lt;/param1:&gt;
+&lt;param2:&gt;more param content&lt;/param2:&gt;
+&lt;/tag
+</code></pre>
+
+<p>Stefan wrote a small hobo_w2ui gem to integrate assets easily (amongst other things) and would - in a second talk on this subject - talk about either handling 100 thousands of data sets with Ajax, Active model serializer usage or the integration with Hobo and Rails standard actions.</p>
+
+<h3>Readme Driven Development</h3>
+
+<p>I (<a href="http://www.twitter.com/floordrees">@floordrees</a>) then got to make a case for Readme Driven Development which served as an introduction into the discussion round. Explaining my problem with popular software methodologies where we only start writing documentation for our apps after we have developed them, I tried to get across that writing down the requirements (BDD), intended usage and example use cases of your app, documentation writing becomes a vital part in the decision making process - making damn sure we don&rsquo;t feature-freak.</p>
+
+<p>RDD should be considered a light version of DDD. By restricting your design documentation to a single file that is intended to be read as an introduction to your software, RDD keeps you safe from lengthy or overprecise specifications. Starting with a Readme for your next project helps you to be crystal clear with all stakeholders including oneself about the intentions and to collect feedback before you even start formatting your page, before you run your scaffolds. Before anything else. A Readme summarizes the project as they are attached alongside the versioned code. They provide context and indicate where and how people can report bugs or suggestions and how people can contribute to the project.</p>
+
+<p>The discussion then started by Lars asking whether there is already a way in the Ruby ecosystem to generate Readme templates automatically. Phillipp mentioned that the Bundler gem generates excellent guidelines for documentation. Clemens noted that it&rsquo;s difficult to rate the quality of documentation or a Readme &ldquo;automatically&rdquo;. And Gerald mentioned that a great driver behind the success of Sinatra is its Readme.</p>
+
+<p>The major blocker seems the hassle of updating the documentation every time one changes the code. Both Günther and Floor then argued that a Readme is actually just an introduction to your code/project and will therefore not change (that) much in its core. Aaron mentioned that it may be some kind of code-smell when your Readme breaks.</p>
+
+<p>everyone was unanimous on Floor&rsquo;s question of whether we should educate devs to become writers: if you can write code, and explain your code to someone else, you can also write the documentation.</p>
+
+<p>The discussion then moved into its final &ldquo;round&rdquo;, where we talked about how writing documentation might help put a project into prospective. Clemens confessed to having a problem with starting with the Readme first. Aaron explains it&rsquo;s a way for him &lsquo;to put the whole project into my head, to see the big picture and use cases&rsquo;, enabling him to break things down into smaller pieces. Phillipp recommended checking out <a href="http://channel9.msdn.com/Events/Build/2014/3-642">Thinking for Programmers by Leslie Lamport</a> and Stefan found <a href="http://rtomayko.github.io/rocco">a Ruby gem</a> that reads Ruby source files and produces annotated source documentation.</p>
+
+<p><a href="http://www.meetup.com/vienna-rb/events/202353822/">Our next meetup</a> will be sponsored by Elance-oDesk. And there will be Gluehwein. Lecker.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Vienna.rb #16 Recap]]></title>
+    <link href="http://vienna-rb.at/blog/2014/09/05/vienna-dot-rb-number-16-recap/"/>
+    <updated>2014-09-05T10:14:52+02:00</updated>
+    <id>http://vienna-rb.at/blog/2014/09/05/vienna-dot-rb-number-16-recap</id>
+    <content type="html"><![CDATA[<h3>After a summer break, we take up momentum again</h3>
+
+<p>On Thursday, September 9th, Rubyists met in Vienna again to listen to interesting talks and share their
+thoughts in discussions both formal and informal.</p>
+
+<p><img src="/images/vienna_rb_16_impressions.png" title="&lsquo;Impressions from vienna.rb#16&rsquo; &lsquo;Pictures from vienna.rb#16&rsquo;" ></p>
+
+<!-- more -->
+
+
+<p>After our summer break, we wanted to start with a lot of new energy and on time - and we did! At 6.30pm sharp, the first
+talk started, namely</p>
+
+<h4><strong>ActiveAdmin</strong> by Basti (<a href="https://twitter.com/bastilian">@bastilian</a>)</h4>
+
+<p>Basti introduced us into a fast and easily installed solution for editing data. The interface is slick, and the features
+that let you select data exposure, user authentication and even a permission system gives anyone the option to use it as
+an administrative interface without having to create a whole application by yourself. While our speaker dashed off to be
+on time for his flight to the Netherlands (have fun, Basti!), the next talk,</p>
+
+<h4>Continuous Deployment of DNS Records by Ben (<a href="https://www.twitter.com/beanieboi">@ben</a>)</h4>
+
+<p>started. It gave us a short and pointed introduction into the troubles you will run into when dealing with DNS web
+interfaces. Problems create solutions, and so with a combination of git version control, Github workflows, a DNS service
+providing a scriptable API, JSON data files and ruby scripts as glue code come together in a neat package that avoids
+conflicts, enforces reviews and minimizes risk. Well done! (And we got promised that the code will be released on Github
+soon, too! And he&rsquo;s <em>looking for a name for the project</em>, so feel free to suggest something!)</p>
+
+<p>Next up, we heard about</p>
+
+<h4>Gems of the month: factbook and worldlite by Gerald Bauer</h4>
+
+<p>It is a well known fact that governmental organisations all over the world are gathering data. A lesser known fact is
+that the CIA (yes, <strong>this</strong> US Intelligence Agency) has been gathering and publishing data about a slew of information
+on 267 world entities (like countries, the EU, etc) for 30 years in the <a href="https://www.cia.gov/library/publications/the-world-factbook/">World
+Factbook</a>. First having annually printed editions, now
+it&rsquo;s easily accessible on the web and updated weekly. With easily, I mean that it&rsquo;s quite easy to look at, but what
+about a more technical representation? Because of the fact that the data is in the Public Domain, paid for by the
+US tax payer, it was possible to create a scraper called <a href="https://github.com/worlddb/factbook.ruby">factbook</a> that
+downloads that data into ruby hashes, making it easy to store them or use the data directly. Neat, huh?</p>
+
+<p>Gerald then presented another real gem containing useful public domain country data:
+<a href="https://github.com/worlddb/world.lite.ruby">worldlite</a>. A great accumulation of useful factoids like membership in G20
+or FIFA or the United Nations, the wikidata id, factbook urls etc. Everything is organised in constants which contain
+simple to use objects. Great!</p>
+
+<p>Before the break, a raffle was started with prices being t-shirts and tote bags from the Rails Girls Linz event earlier
+this year! Here are the proud winners:</p>
+
+<p><img src="/images/vienna_rb_16_raffle_winners.jpg" title="&lsquo;Winners of the raffle&rsquo; &lsquo;Raffle winners at vienna.rb#16&rsquo;" ></p>
+
+<p>After a short break, we started with the new (for me at least) format, the formal (kinda) discussion. Yours truly was
+doubly excited because I got the chance to present one of the questions that I didn&rsquo;t find an easy answer to, namely</p>
+
+<h4>When Should A Beginner Start Using TDD</h4>
+
+<p>While I presented my initial thoughts and trying to convey my impression of what I think that TDD is, it was easy to
+slip into &lsquo;discussion mode&rsquo; because of the genuine interest and great discipline. At this point, I want to shout out to
+all vienna.rb users:</p>
+
+<p><strong>Thanks so much for your tireless contributions and great support. Being able to experience this is one of the greatest
+things possible for me!</strong></p>
+
+<p>For me, it raised a few very interesting points I haven&rsquo;t considered (whee!), the most convincing being that people
+practise programming early on by implementing a solution against an existing test, learning how to read and structure
+tests while using tests as a specification and design guideline. From there it seems to be a natural step to write the
+tests yourself.</p>
+
+<p>The discussion then slid off a bit into &lsquo;Why bother with TDD&rsquo; and &lsquo;Good practises&rsquo; territory, making it a bit broader
+than intended but raising a lot of very interesting and valid points. A few of them:</p>
+
+<ul>
+<li>TDD is a lot of work for nothing, you should start testing when 90% of the code is done.</li>
+<li>Test first development without refactoring is pointless (and not TDD).</li>
+<li>You should start off with TDD at the very beginning to avoid the tedious work of writing tests after implementation.</li>
+<li>Starting with TDD is hard, especially writing the very first test.</li>
+<li>Writing high level (acceptance) tests first gives you a guideline to which unit tests you need next, but might
+frustrate beginners.</li>
+<li>Starting a project without a preliminary architecture and design decision, regardless if TDD is being used or not,
+is a exercise in futility.</li>
+<li>Tests that should be used as documentation must be well structured and have great names/descriptions.</li>
+</ul>
+
+
+<p>With great discipline the topic was brought back to track for another short discussion round and conclusion. The points
+that were made are:</p>
+
+<ul>
+<li>Using TDD as a teaching tool itself (the mentor writes the tests and lets the mentee solve the problem) helps to
+ease people into the practise itself.</li>
+<li>TDD (specifically: the resulting tests) helps you to communicate architecture and designs to people joining the
+project later</li>
+<li>The above holds true for code that you haven&rsquo;t touched for a few weeks for yourself.</li>
+<li>As programming is easy and programming well is hard, testing well is sometimes even harder.</li>
+<li>Therefore, it has to be practised a lot.</li>
+<li>The mentee also needs to know that no number of tests can cover all bases. If there is a test missing, you write it
+when necessary.</li>
+<li>Practising gives you the confidence to know what to test when and how - and when to stop</li>
+</ul>
+
+
+<p>After the discussion, most people stayed for a chat and a beer, and the discussions were continued and broadened.
+Promise: I&rsquo;ll do that series of talks about SOLID together with Aaron, and we&rsquo;ll be well prepared for any and all
+questions!</p>
+
+<p>Thanks again to all participants, and I am definitely looking forward to the next meetings!</p>
+]]></content>
+  </entry>
+  
+</feed>

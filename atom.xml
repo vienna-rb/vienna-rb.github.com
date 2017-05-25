@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[User group for Viennese rubyists]]></title>
+  <link href="http://vienna-rb.at/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2017-05-25T12:20:47+02:00</updated>
+  <id>http://vienna-rb.at/</id>
+  <author>
+    <name><![CDATA[vienna.rb team]]></name>
+    <email><![CDATA[viennarb@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/05/24/picks/"/>
+    <updated>2017-05-24T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2017/05/24/picks</id>
+    <content type="html"><![CDATA[<h3>05/24 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the two-hundred-eleventh edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://blog.2ndquadrant.com/logical-replication-postgresql-10/">Logical Replication in PostgreSQL 10</a> - One of the big new features in the next version of PostgreSQL, whose <a href="https://www.postgresql.org/about/news/1749/">first beta</a> was just released.</li>
+<li><a href="http://www.tristanharris.com/2016/05/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/">How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist</a> - Design matters, more in than just the obvious ways.</li>
+<li><a href="https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7">10 things I learned making the fastest site in the world</a> - Some interesting techniques to speed up web page loading and rendering.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/05/17/picks/"/>
+    <updated>2017-05-17T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2017/05/17/picks</id>
+    <content type="html"><![CDATA[<h3>05/17 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the two-hundred-tenth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://m.signalvnoise.com/programming-with-a-love-of-the-implicit-66629bb81ee7">Programming with a love of the implicit</a> - DHH argues against &ldquo;it&rsquo;s always better to be explicit&rdquo;</li>
+<li><a href="https://jaxenter.com/power-ten-nasas-coding-commandments-114124.html">NASA’s ten coding commandments</a> - Maybe following them everywhere would improve software quality in general? (although some of the rules are quite specific to low-level languages)</li>
+<li><a href="http://blog.jessitron.com/2017/04/the-architects-below.html">The Architects Below</a> - Software influences behavior, often with implications that we software developers rarely think about when gathering requirements or building software.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="https://robots.thoughtbot.com/untangling-ruby-threads">Untangling Ruby Threads</a> - Great real world example (and explanation) of using threads in Ruby.</li>
+<li><a href="https://insomnia.rest/">Insomnia</a> - An interesting free and open source alternative to <a href="https://www.getpostman.com/">Postman</a>.</li>
+<li><a href="https://www.youtube.com/watch?v=jyPfrK1y1nc">Teaching RSpec to Play nice with Rails</a> - The awesome <a href="https://samphippen.com/">Sam Phippen</a> shares some insights on making RSpec compatible with Rails 5.1.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/05/10/picks/"/>
+    <updated>2017-05-10T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2017/05/10/picks</id>
+    <content type="html"><![CDATA[<h3>05/10 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the two-hundred-ninth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://www.citusdata.com/blog/2017/04/28/postgres-tips-for-rails/">Postgres tips for Rails developers</a> - A grab-bag of useful tips and tricks for using PostgreSQL with Rails.</li>
+<li><a href="https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/">Lies My Parents Told Me (About Logs)</a> - Important facs about logs and logging.</li>
+<li><a href="https://hackernoon.com/how-i-converted-my-react-app-to-vanillajs-and-whether-or-not-it-was-a-terrible-idea-4b14b1b2faff">How I converted my React app to VanillaJS (and whether or not it was a terrible idea)</a> - This new VanillaJS framework looks really great and performant.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="https://github.com/nvbn/thefuck">thefuck</a> - Extend &ldquo;did you mean&rdquo; to your terminal.</li>
+<li><a href="https://github.com/shiroyasha/factory_girl_instruments">Factory Girl Instruments</a> - Benchmark, trace and debug the base of your test suite: your factories.</li>
+<li><a href="https://learningmusic.ableton.com/">Get started making music</a> - Neat project by Ableton to teach the basics of making music in the browser.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/05/03/picks/"/>
+    <updated>2017-05-03T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2017/05/03/picks</id>
+    <content type="html"><![CDATA[<h3>05/03 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the two-hundred-eighth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://medium.com/@dathanbennett/why-is-ruby-multithreading-slow-96afb475f669">Why Is Ruby Multithreading Slow?</a> - Multithreading is hard, and it&rsquo;s easy to do something wrong that impacts performance severely.</li>
+<li><a href="https://github.com/palkan/acli">acli - Action Cable command-line client</a> - For trying out, testing, and debugging.</li>
+<li><a href="https://github.com/sj26/mailcatcher">mailcatcher - Catches mail and serves it through a dream</a> - For easy testing and debugging sending mails.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="https://dev.to/jtvanwage/what-are-your-career-goals">What Are Your Career Goals?</a> - Interesting discussion over at <a href="https://twitter.com/ThePracticalDev">dev.to</a>.</li>
+<li><a href="https://www.youtube.com/watch?v=gHoNNdeedf0&amp;feature=youtu.be&amp;t=2075">Workflow</a> - Awesome talk on dev workflows and though processes by <a href="https://twitter.com/searls">searls</a>.</li>
+<li><a href="https://github.com/github/github-ds">GitHub::DS</a> - Set of Ruby libs by Github to conveniently work with SQL on top of the ActiveRecord connection.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/04/26/picks/"/>
+    <updated>2017-04-26T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2017/04/26/picks</id>
+    <content type="html"><![CDATA[<h3>04/26 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the two-hundred-seventh edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="http://odino.org/when-debugging-doesnt-suck-beautiful-errors/">When debugging doesn&rsquo;t suck: beautiful errors</a> - Improving your error messages can be the difference between a difficult to debug problem, or a quick discovery of the underlying cause.</li>
+<li><a href="https://blog.definiteloops.com/syntactic-diabetes-bbf54b3b4487">Syntactic Diabetes</a></li>
+<li><a href="https://blogs.technet.microsoft.com/johnla/2015/09/26/the-inside-story-behind-ms08-067/">The Inside Story Behind MS08-067</a> - How a nasty zero-day was discovered by Microsoft, and how the issue was handled internally.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/04/19/picks/"/>
+    <updated>2017-04-19T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2017/04/19/picks</id>
+    <content type="html"><![CDATA[<h3>04/19 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the two-hundred-sixth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://chriskottom.com/blog/2017/04/versioning-a-rails-api/">Versioning a Rails API</a> - Thoughts on multiple strategies on how to version your API</li>
+<li><a href="http://engineering.appfolio.com/appfolio-engineering/2017/3/22/rails-benchmarking-puma-and-multiprocess">Rails Benchmarking: Puma and MultiProcess</a> - How to figure out how many threads and processes to configure Puma with. The actual numbers aren&rsquo;t that interesting, but the way to get there is what&rsquo;s important.</li>
+<li><a href="http://cssreference.io">cssreference.io</a> - For when you don&rsquo;t remember what a (popular) CSS property actually does: this includes visual examples.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/04/12/picks/"/>
+    <updated>2017-04-12T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2017/04/12/picks</id>
+    <content type="html"><![CDATA[<h3>04/12 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the two-hundred-fifth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="http://www.thegreatcodeadventure.com/better-rails-5-api-controller-tests-with-rspec-shared-examples/">Better Rails 5 API Controller Tests with RSpec Shared Examples</a> - Great tips on testing your Rails API (<a href="https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid">Although you should avoid using JWT or JOSE</a>)</li>
+<li><a href="https://neilonsoftware.com/2017/03/10/my-response-to-how-to-never-complete-anything/">My Response to “How to <em>never</em> complete anything”</a> - Deconstructs some &ldquo;common wisdom&rdquo; around productivity.</li>
+<li><a href="https://www.youtube.com/watch?v=-UKEPd2ipEk">Kill &ldquo;Microservices&rdquo; before its too late by Chad Fowler (Rocky Mountain Ruby 2016)</a></li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=YZeZsZEEpno&amp;list=PLfBoZfyUGYQZ--h9B4e_tmyob8tbqOTKd">Rails vs. &hellip;</a> - Funny video series by <a href="https://twitter.com/jseifer">Jason Seifer (RIP)</a> and <a href="https://twitter.com/greggpollack">Gregg Pollack</a> from 10 years ago.</li>
+<li><a href="https://www.innoq.com/de/blog/rails-frontend-components/">Building Component-Based Front Ends with Rails</a> - Interesting approach on organizing front end code in Rails apps.</li>
+<li><a href="https://jann.is/lego-macintosh-classic/">LEGO Macintosh Classic</a> - Mindblowing and super cute DIY project.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/04/05/picks/"/>
+    <updated>2017-04-05T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2017/04/05/picks</id>
+    <content type="html"><![CDATA[<h3>04/05 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the two-hundred-fourth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=zaubGV2OG5U">Dark Patterns: User Interfaces Designed to Trick People</a> - A presentation on anti-patterns in UI design.</li>
+<li><a href="https://atech.blog/atech/seamless-socket-server-restarts">Seamless socket server restarts in Ruby</a> - aka &ldquo;How does Puma et al. implement hot restarts?&rdquo;</li>
+<li><a href="https://html5sec.org">HTML5 Security Cheat Sheet</a> - A list of HTML5-features that can lead to XSS and other security-related problems.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/03/29/picks/"/>
+    <updated>2017-03-29T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2017/03/29/picks</id>
+    <content type="html"><![CDATA[<h3>03/29 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the two-hundred-third edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://m.signalvnoise.com/cant-crack-that-programming-problem-go-to-sleep-or-take-a-walk-930c767e1119">Can’t crack that programming problem? Go to sleep (or take a walk)</a></li>
+<li><a href="http://squarism.com/2017/02/25/porting-ruby-to-crystal/">Porting Ruby to Crystal</a> - Distributing Ruby programs to clients can be tricky regarding packaging. Converting to Crystal might just be the answer you&rsquo;re looking for.</li>
+<li><a href="https://jvns.ca/blog/2017/03/26/bash-quirks/">Bash scripting quirks &amp; safety tips</a> - Even in these times, a shell script is the best solution to a problem. Julia Evans has some tips, tricks, and warnings for you.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="https://github.com/junegunn/fzf">fzf</a> - A blazing fast, customizable, general purpose command-line fuzzy finder.</li>
+<li><a href="https://blog.codeship.com/simplifying-your-transition-from-macro-to-microservices/">Simplifying Your Transition from Macro to Microservices</a> - Tips for tackling your legacy Macroservices.</li>
+<li><a href="http://www.newyorker.com/business/currency/ida-tins-battle-to-build-clue-a-period-tracking-app">Ida Tin&rsquo;s battle to build Clue</a> - On the struggles one still has to face when trying to launch menstruation-related products like <a href="https://www.helloclue.com">Clue</a>.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/03/22/picks/"/>
+    <updated>2017-03-22T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/03/22/picks</id>
+    <content type="html"><![CDATA[<h3>03/22 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the two-hundred-second edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="http://norswap.com/ruby-methods/">Ruby Methods, Procs and Blocks</a> - A dive into the more unknown corners of Ruby&rsquo;s syntax and behaviors (<a href="http://norswap.com/ruby-module-linearization">Part 2</a>, <a href="http://norswap.com/ruby-lookups-scopes">Part 3</a>)</li>
+<li><a href="http://blog.honeybadger.io/ruby_unicode_normalization/">Unicode Normalization in Ruby</a> - What Unicode normalization actually does, and why it can have security implications for your apps.</li>
+<li><a href="https://stripe.com/blog/idempotency">Designing robust and predictable APIs with idempotency</a> - Stripe needs their product to be very reliable, and it reflects in their API design.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/03/15/picks/"/>
+    <updated>2017-03-15T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/03/15/picks</id>
+    <content type="html"><![CDATA[<h3>03/15 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the two-hundred-first edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://medium.com/maker-to-manager/the-4-letter-word-word-that-makes-my-blood-boil-d4771df63a1">The 4-letter-word word that makes my blood boil</a> - I&rsquo;m guilty of overusing it.</li>
+<li><a href="https://blog.alphasmanifesto.com/2016/11/17/how-to-perform-a-good-code-review/">How to perform a good code review</a> - A very good reference post.</li>
+<li><a href="https://hoverbear.org/2017/03/03/setting-up-a-rust-devenv/">Setting up a Rust Development Environment</a> - If you want to get started with Rust, this post will get you off the ground.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/03/08/picks/"/>
+    <updated>2017-03-08T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/03/08/picks</id>
+    <content type="html"><![CDATA[<h3>03/08 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the two-hundredth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://vimeo.com/145917204">How to Stop Hating Your Tests</a> - How your tests can go wrong, and what to do about it.</li>
+<li><a href="http://blog.honeybadger.io/ruby-s-unicode-support/">Testing Ruby&rsquo;s Unicode Support</a> - It&rsquo;s definitely improved since 1.8, but there are still some pitfalls you should be aware of.</li>
+<li><a href="https://github.com/jaheba/stuff/blob/master/communicating_intent.md">Communicating Intent</a> - How to use Rust&rsquo;s type system to communicate intent.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="http://somethvictory.github.io/blog/2015/06/30/data-transfer-object/">Data Transfer Object in Ruby</a> - DTOs, a helpful pattern to save your business logic from getting too cluttered with huge parameter lists and data transformations.</li>
+<li><a href="https://medium.com/@sailorhg/a-career-retrospective-10-years-working-in-tech-ea0bf2a29696#.5uz20p1o9">A Career Retrospective</a> - Somewhat alarming, sad but also inspiring writeup of &ldquo;10 years working in tech&rdquo; by the awesome <a href="https://twitter.com/sailorhg">Sailor Mercury</a>.</li>
+<li><a href="https://www.youtube.com/watch?v=tMO28ar0lW8">Phoenix 1.3</a> - Interesting talk on the changes in <a href="http://www.phoenixframework.org/">Phoenix</a> and the thoughts and motivation behind them.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/03/01/picks/"/>
+    <updated>2017-03-01T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/03/01/picks</id>
+    <content type="html"><![CDATA[<h3>03/01 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninety-ninth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://thomasleecopeland.com/2017/02/16/upgrade-ruby-find-bug.html">Upgrade Ruby, find a bug</a> - Upgrading to Ruby 2.4 revealed a bug in the way dotenv was used to load values.</li>
+<li><a href="http://www.schneems.com/2016/01/25/ruby-debugging-magic-cheat-sheet.html">Ruby Debugging Magic Cheat Sheet</a> - If you&rsquo;re chasing a tricky bug, Richard Schneeman has a few handy tricks for you.</li>
+<li><a href="http://renesd.blogspot.co.at/2017/02/is-postgresql-good-enough.html">Is PostgreSQL good enough?</a> - Why and how PostgreSQL can be a &ldquo;good enough&rdquo; solution for many problems you&rsquo;ll encounter.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="https://m.signalvnoise.com/join-basecamp-as-our-new-rails-programmer-bf7022cb08f7#.v18jqkmc6">Join Basecamp</a> - How <a href="https://basecamp.com/">Basecamp</a> is hiring non-rockstars.</li>
+<li><a href="https://blog.remix.com/orm-we-approve-60f2a68f73fb#.8t71m9de7">ORM: We Approve</a> - Another nifty usage example for approval tests.</li>
+<li><a href="https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber">Reflecting On One Very, Very Strange Year At Uber</a> - In case you thought things are going well at Uber.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/02/22/picks/"/>
+    <updated>2017-02-22T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/02/22/picks</id>
+    <content type="html"><![CDATA[<h3>02/22 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninety-eighth edition:</p>
+
+<h5><a href="https://www.twitter.com/alicetragedy">Laura</a></h5>
+
+<ul>
+<li><a href="http://lucapette.me/getting-started-with-vim">Getting started with vim</a> - A really good post and collection of resources combined in an intuitive way for vim beginners!</li>
+<li><a href="https://medium.com/hypetonic/unseen-open-source-infrastructure-f0ba1d3d5964">Exploring unseen Open Source infrastructure</a> - A ton of projects rely on Open Source infrastructure that is “invisible” and often mistaken for unimportant. In this post, Andrew Nesbitt presents a small feature of his project <a href="https://libraries.io/">libraries.io</a> to help us be aware of those projects.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="http://www.gamasutra.com/view/feature/190891/programmer_interrupted.php">Programmer, Interrupted</a></li>
+<li><a href="https://18f.gsa.gov/2017/01/19/the-dark-standup/">The Dark Standup</a></li>
+<li><a href="https://m.signalvnoise.com/dont-overlook-the-quiet-voices-and-contributions-c49e8738d8cf">Don’t overlook the quiet voices and contributions</a> - It&rsquo;s easy to listen to the loud voices. But the quiet ones are just as important, but not as easy to listen to.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/beanieboi">Ben</a></h5>
+
+<ul>
+<li><a href="http://www.kiba-etl.org">Kiba ETL</a> - Need to setup a ETL pipeline? This little nifty Ruby Gem gets you started.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/02/15/picks/"/>
+    <updated>2017-02-15T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/02/15/picks</id>
+    <content type="html"><![CDATA[<h3>02/15 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninety-seventh edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="http://blog.vickiboykis.com/2016/11/20/fix-the-internet/">Fix the internet by writing good stuff and being nice to people</a></li>
+<li><a href="https://jvns.ca/blog/2017/01/04/rules-of-programming-experiments/">Rules of programming experiments</a></li>
+<li><a href="https://www.saturnflyer.com/blog/working-later-bridging-your-code-with-the-background">How I fixed my biggest mistake with implementing background jobs</a></li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="https://github.com/kytrinyx/approvals">Approvals</a> - Nifty testing tool by the awesome <a href="https://twitter.com/kytrinyx">Katrina Owen</a> - practical for things like testing serializers.</li>
+<li><a href="https://robots.thoughtbot.com/investment-time">Investment Time</a> - Part of what makes <a href="https://robots.thoughtbot.com/">Thoughtbot</a> so cool.</li>
+<li><a href="https://github.com/bbatsov/rubocop/blob/master/manual/configuration.md#automatically-generated-configuration">rubocop &ndash;auto-gen-config</a> - Awesome strategy for approaching legacy codebases with Rubocop.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/02/08/picks/"/>
+    <updated>2017-02-08T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/02/08/picks</id>
+    <content type="html"><![CDATA[<h3>02/08 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninety-sixth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://m.signalvnoise.com/designer-bs-5ebadc32f628">Foggy thinking in design (and how to cut through it)</a> - While this article deals with design, you can easily apply it to programming.</li>
+<li><a href="http://howfuckedismydatabase.com">howfuckedismydatabase.com</a></li>
+<li><a href="https://www.youtube.com/watch?v=x8mSR9iAm74">How to Build a Skyscraper by Ernie Miller (RailsConf 2016)</a> - This is not a talk about how to build a skyscraper.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/02/01/picks/"/>
+    <updated>2017-02-01T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/02/01/picks</id>
+    <content type="html"><![CDATA[<h3>02/01 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninety-fifth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://cate.blog/2016/12/22/the-kill-list/">The Kill List</a> - Productivity is as much about what you say no to as what you say yes to.</li>
+<li><a href="https://codeahoy.com/2017/01/20/hhtop-explained-visually/">htop Explained Visually</a></li>
+<li><a href="http://piotrmurach.github.io/tty/">The Ruby terminal apps toolkit</a> - Everything you need to build an app for the terminal.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="http://jsonapi-rb.org/">JSONAPI-RB</a> - New favorite tool for doing anything <a href="http://jsonapi.org/">json:api</a> related in Ruby.</li>
+<li><a href="https://www.speedshop.co/2016/01/07/what-http2-means-for-ruby-developers.html">What HTTP/2 Means for Ruby Developers</a> - Sneak peak into how Ruby apps would benefit from <a href="https://http2.github.io/">HTTP/2</a> and how it would demand developers to rethink current best practices.</li>
+<li><a href="http://dry-rb.org/gems/dry-struct/">dry-struct</a> - Awesome tool for building convenient model-like structs in Ruby.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/01/25/picks/"/>
+    <updated>2017-01-25T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/01/25/picks</id>
+    <content type="html"><![CDATA[<h3>01/25 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninety-fourth edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://blog.appcanary.com/2017/http-security-headers.html">Everything you need to know about HTTP security headers</a> - Ever got confused what the various HTTP security headers do, and how to use them?</li>
+<li><a href="http://cto-security-checklist.sqreen.io">The SaaS CTO Security Checklist</a> - A handy list of things to secure and harden.</li>
+<li><a href="http://mcfunley.com/choose-boring-technology">Choose Boring Technology</a> - New technology is exciting, but also contains a lot of unknowns.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="https://www.surveymonkey.com/r/DWZ2672">Stackoverflow Developer Survey</a> - 2017 edition of Stackoverflow&rsquo;s developer survey.</li>
+<li><a href="https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2#.yhxwkkua9">12 Signs you&rsquo;re working in a feature factory</a> - Awesome checklist on what&rsquo;s likely to go wrong in software development processes.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/01/11/picks/"/>
+    <updated>2017-01-11T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/01/11/picks</id>
+    <content type="html"><![CDATA[<h3>01/11 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninety-third edition:</p>
+
+<h5><a href="https://twitter.com/senorhuidobro">Ramón</a></h5>
+
+<ul>
+<li><a href="https://github.com/jistr/vim-nerdtree-tabs"><code>vim-nerdtree-tabs</code></a> - A Vim plugin allowing NERDtree and tabs to work together.</li>
+<li><a href="https://www.memrise.com/">Memrise</a> - Free-ish platform for learning spoken languages, with videos of natives speaking!</li>
+<li><a href="https://www.panoptikum.io/vienna-beamers/">Vienna BEAMers</a> - A bi-weekly Elixir study group held here in Vienna.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://blog.heroku.com/ruby-2-4-features-hashes-integers-rounding">Ruby 2.4 Released: Faster Hashes, Unified Integers and Better Rounding</a></li>
+<li><a href="https://jvns.ca/blog/good-questions/">How to ask good questions</a> - An essential guide.</li>
+<li><a href="https://m.signalvnoise.com/writing-software-is-hard-388d5e982ad9">Writing software is hard</a> - We all know it, but we&rsquo;re still shocked when we encounter bad software.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/klappradla">Max</a></h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=6NTmUQClHrU">Building an Umbrella Project</a> - Awesome talk on Elixir (&amp; Phoenix) umbrella apps vs. microservices.</li>
+<li><a href="https://github.com/runtastic/rubocop_runner">rubocop_runner</a> - Nifty little tool used at Runtastic to prevent devs from committing non-<a href="https://github.com/bbatsov/rubocop">Rubocop</a>-confirm code.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2017/01/04/picks/"/>
+    <updated>2017-01-04T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2017/01/04/picks</id>
+    <content type="html"><![CDATA[<h3>01/04 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninety-second edition:</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=taklO4YIMow">Jessica Rose - Imposter Syndrome and Individual Competence</a></li>
+<li><a href="http://skeptics.stackexchange.com/questions/2795/is-the-ballmer-peak-real">Is the Ballmer Peak real?</a> - From <a href="http://xkcd.com/323/">this XKCD comic</a>.</li>
+<li><a href="http://choosealicense.com">Choose an open source license</a> - It&rsquo;s a new year, you might have made a resolution to make a new open source project, and you&rsquo;ll need a license for it.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
