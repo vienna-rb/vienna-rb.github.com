@@ -98,7 +98,7 @@ categories:
 ### <%= short_date %> Picks!
 
 In a series on this website we'll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff... you're in for an eclectic mix! So, here's for the <%= edition_number %> edition:
+Books, articles, gems, fun stuff&hellip; you're in for an eclectic mix! So, here's for the <%= edition_number %> edition:
 
 <% for contributor in contributors %>
 ##### [<%= contributor.name %>][<%= contributor.slug %>]
